@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T00:50:31",
+  "last_updated": "2026-08-02T00:53:11",
   "html": {
     "https://web.archive.org/web/20260510064029if_/https://twitter.com/axzameyzed/status/2053364535671620086": {
       "status": "done",
@@ -13617,9 +13617,9 @@
         "20260606045859_twitter_com_axzameyzed_status_2063123462366142830.json",
         "20260606050513_twitter_com_axzameyzed_status_2063125033279762442.json"
       ],
-      "last_updated": "2026-08-02T00:22:56",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260606050513/https://video.twimg.com/amplify_video/2063119058690838528/vid/avc1/3840x2160/OQOyayHZQ3NYuU1e.mp4",
-      "miss_count": 2
+      "last_updated": "2026-08-02T00:53:11",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260606045859/https://video.twimg.com/amplify_video/2063119058690838528/vid/avc1/3840x2160/OQOyayHZQ3NYuU1e.mp4",
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2064926993242845184/pu/vid/avc1/560x1264/RwUEPIs7_ouzhuB9.mp4?tag=12": {
       "status": "done",
