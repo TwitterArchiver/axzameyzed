@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2067218283418530201",
+    "created_at": "2026-06-17T12:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067220447603958152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1486893272622505984",
+          "start": 0,
+          "username": "Kuriyona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067220447603958152",
+    "in_reply_to_user_id": "1486893272622505984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067218283418530201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuriyona 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2067218283418530201",
+        "created_at": "2026-06-17T12:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067220447603958152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1486893272622505984",
+              "start": 0,
+              "username": "Kuriyona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067220447603958152",
+        "in_reply_to_user_id": "1486893272622505984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067218283418530201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuriyona 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486893272622505984",
+        "conversation_id": "2067218283418530201",
+        "created_at": "2026-06-17T12:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067218283418530201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067218283418530201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉最近一段时间一直都在在关心别人...\n虽然也有几个人很在意我...\n但是果然还是感觉少了什么东西呢...有一种虚无感......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 208,
+          "like_count": 2840,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1338
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-28T02:46:07.000Z",
+        "description": "17yo(08.6.28) | 称呼我为「未晞」吧 | 杭州准大学生 | 无证含糖 日雌26.1.17 | 兴趣使然的开发者 前端为主 | 亚二次元 | https://t.co/JWMV33I7TV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/kuriyona",
+                "end": 100,
+                "expanded_url": "http://github.com/kuriyona",
+                "start": 77,
+                "url": "https://t.co/JWMV33I7TV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuriyona.com",
+                "end": 23,
+                "expanded_url": "https://kuriyona.com/",
+                "start": 0,
+                "url": "https://t.co/PIToyCAWAz"
+              }
+            ]
+          }
+        },
+        "id": "1486893272622505984",
+        "location": "杭州 Hangzhou",
+        "name": "Kuriyona 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059972450532859904/rdg28yZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 163,
+          "like_count": 801,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/PIToyCAWAz",
+        "username": "Kuriyona",
+        "verified": true
+      }
+    ]
+  }
+}

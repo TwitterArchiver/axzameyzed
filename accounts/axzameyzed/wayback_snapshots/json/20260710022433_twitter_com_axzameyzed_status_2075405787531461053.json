@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2075058690403836075",
+    "created_at": "2026-07-10T02:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T03:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075405787531461053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751497892001685504",
+          "start": 0,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075405787531461053",
+    "in_reply_to_user_id": "1751497892001685504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075058690403836075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@45_206MHz 我对几乎任何游戏都最多只有五分钟兴趣🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2075058690403836075",
+        "created_at": "2026-07-10T02:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075405787531461053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751497892001685504",
+              "start": 0,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075405787531461053",
+        "in_reply_to_user_id": "1751497892001685504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075058690403836075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@45_206MHz 我对几乎任何游戏都最多只有五分钟兴趣🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "2075058690403836075",
+        "created_at": "2026-07-09T03:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075058690403836075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075058690403836075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9760,
+          "like_count": 194,
+          "quote_count": 8,
+          "reply_count": 32,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "adhd的一个优点就是对任何游戏都不会上瘾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 213,
+          "like_count": 4114,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 1673
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN | en-AU/NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | 🐱: @MomoseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "45_206io"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "MomoseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "45.206mhz.com",
+                "end": 23,
+                "expanded_url": "http://45.206mhz.com",
+                "start": 0,
+                "url": "https://t.co/bRhXiVkO12"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2073043887845998831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3326,
+          "following_count": 495,
+          "like_count": 37994,
+          "listed_count": 1,
+          "media_count": 886,
+          "tweet_count": 4734
+        },
+        "url": "https://t.co/bRhXiVkO12",
+        "username": "45_206MHz",
+        "verified": true
+      }
+    ]
+  }
+}

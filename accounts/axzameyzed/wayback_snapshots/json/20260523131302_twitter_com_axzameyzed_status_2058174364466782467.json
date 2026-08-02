@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2058174364466782467",
+    "created_at": "2026-05-23T13:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058174364466782467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/nyaepheia/status/2058096379344601541",
+          "start": 23,
+          "url": "https://t.co/zqUyghiz3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058174364466782467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058096379344601541",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "翅膀和会考（不让提前交卷太无聊）搏斗了一整天 https://t.co/zqUyghiz3O"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "弱小前前前藤 — 15:23\n我们的系统应有ai率检查和查重（）\nbasibatuo [MEOW],  — 15:24\n话说我们代码ai率多少🤔\n小霧喵 — 15:25\n99.99%\n弱小前前前藤 — 15:25\n😡\n我说老一辈还在坚持手敲（）\nbasibatuo [MEOW],  — 15:26\n下辈子还当vibe coding大手子\n幻兮纱 — 15:35\n人类叫AI帮忙写的\nRhenCloud [NURO],  — 15:38\n不是有pr review要求了吗（\n虽然好像没人在认真review…\n [NURO], \nbasibatuo [MEOW],  — 15:39\n要求：可以为后面的屎山打下基础\n弱小前前前藤 — 15:40\n我说够了\n😡",
+        "height": 776,
+        "media_key": "3_2058096151166156800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_Ti5PbgAAlH6b.png",
+        "width": 470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2058174364466782467",
+        "created_at": "2026-05-23T13:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058174364466782467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2058096379344601541",
+              "start": 23,
+              "url": "https://t.co/zqUyghiz3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058174364466782467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058096379344601541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "翅膀和会考（不让提前交卷太无聊）搏斗了一整天 https://t.co/zqUyghiz3O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058096151166156800"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2058096379344601541",
+        "created_at": "2026-05-23T08:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058096379344601541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4Wqr5UBX5",
+              "end": 43,
+              "expanded_url": "https://x.com/nyaepheia/status/2058096379344601541/photo/1",
+              "media_key": "3_2058096151166156800",
+              "start": 20,
+              "url": "https://t.co/O4Wqr5UBX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058096379344601541",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "/docs/philosophy.md https://t.co/O4Wqr5UBX5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 140,
+          "like_count": 882,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 491
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 828,
+          "like_count": 23307,
+          "listed_count": 4,
+          "media_count": 382,
+          "tweet_count": 4383
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

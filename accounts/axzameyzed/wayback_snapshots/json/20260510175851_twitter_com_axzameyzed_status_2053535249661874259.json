@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053535240925130753"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2053502361038184819",
+    "created_at": "2026-05-10T17:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T18:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053535249661874259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1934880636319485955",
+          "start": 0,
+          "username": "mrsk_sy_xueling"
+        },
+        {
+          "end": 98,
+          "id": "1982449259774656512",
+          "start": 88,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DT1AeNR2sk",
+          "end": 155,
+          "expanded_url": "https://x.com/axzameyzed/status/2053535249661874259/photo/1",
+          "media_key": "3_2053535240925130753",
+          "start": 132,
+          "url": "https://t.co/DT1AeNR2sk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053535249661874259",
+    "in_reply_to_user_id": "1934880636319485955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 81,
+            "id": "1982449259774656512",
+            "start": 71,
+            "username": "smiroyama"
+          }
+        ]
+      },
+      "text": "我不到老唐到底抄的谁的算法还是大杂烩了什么玩意，我到现在都不敢想象tyw把整个软件的代码塞到了三个文件里，每个文件好几千行…没眼看\n但我我觉得@smiroyama 你那个写的好像不太对，虽然好像是我写的，不过不知道你改了没）））\n我在我这边版本也简单复现了一下数据，虽然你这张图更好看但是我觉得不太对劲，在不考虑历史积蓄时按 Androcur 50 mg 说明书的数据，单次口服 50 mg 后峰值血药浓度约 140 ng/mL，约 3 小时达峰。若按剂量近似线性折算：12.5 mg = 50 mg × 1/4，Cmax ≈ 140 × 1/4 = 35 ng/mL，达峰时间约3小时\n你看着改一下ww"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053502361038184819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrsk_sy_xueling 我不到老唐到底抄的谁的算法还是大杂烩了什么玩意，我到现在都不敢想象tyw把整个软件的代码塞到了三个文件里，每个文件好几千行…没眼看\n但我我觉得@smiroyama 你那个写的好像不太对，虽然好像是我写的，不过不知道你改了没））） https://t.co/DT1AeNR2sk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 210,
+        "media_key": "3_2053535240925130753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-fa-kWsAEFblx.jpg",
+        "width": 662
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2053502354646056960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-BgvobQAAHSxu.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2053502358521540608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-Bg-EacAABoCm.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053535240925130753"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2053502361038184819",
+        "created_at": "2026-05-10T17:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T18:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053535249661874259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1934880636319485955",
+              "start": 0,
+              "username": "mrsk_sy_xueling"
+            },
+            {
+              "end": 98,
+              "id": "1982449259774656512",
+              "start": 88,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DT1AeNR2sk",
+              "end": 155,
+              "expanded_url": "https://x.com/axzameyzed/status/2053535249661874259/photo/1",
+              "media_key": "3_2053535240925130753",
+              "start": 132,
+              "url": "https://t.co/DT1AeNR2sk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053535249661874259",
+        "in_reply_to_user_id": "1934880636319485955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 81,
+                "id": "1982449259774656512",
+                "start": 71,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "text": "我不到老唐到底抄的谁的算法还是大杂烩了什么玩意，我到现在都不敢想象tyw把整个软件的代码塞到了三个文件里，每个文件好几千行…没眼看\n但我我觉得@smiroyama 你那个写的好像不太对，虽然好像是我写的，不过不知道你改了没）））\n我在我这边版本也简单复现了一下数据，虽然你这张图更好看但是我觉得不太对劲，在不考虑历史积蓄时按 Androcur 50 mg 说明书的数据，单次口服 50 mg 后峰值血药浓度约 140 ng/mL，约 3 小时达峰。若按剂量近似线性折算：12.5 mg = 50 mg × 1/4，Cmax ≈ 140 × 1/4 = 35 ng/mL，达峰时间约3小时\n你看着改一下ww"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053502361038184819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrsk_sy_xueling 我不到老唐到底抄的谁的算法还是大杂烩了什么玩意，我到现在都不敢想象tyw把整个软件的代码塞到了三个文件里，每个文件好几千行…没眼看\n但我我觉得@smiroyama 你那个写的好像不太对，虽然好像是我写的，不过不知道你改了没））） https://t.co/DT1AeNR2sk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053502354646056960",
+            "3_2053502358521540608"
+          ]
+        },
+        "author_id": "1934880636319485955",
+        "conversation_id": "2053502361038184819",
+        "created_at": "2026-05-10T15:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053502361038184819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qTHYUVNZKw",
+              "end": 51,
+              "expanded_url": "https://x.com/mrsk_sy_xueling/status/2053502361038184819/photo/1",
+              "media_key": "3_2053502354646056960",
+              "start": 28,
+              "url": "https://t.co/qTHYUVNZKw"
+            },
+            {
+              "display_url": "pic.x.com/qTHYUVNZKw",
+              "end": 51,
+              "expanded_url": "https://x.com/mrsk_sy_xueling/status/2053502361038184819/photo/1",
+              "media_key": "3_2053502358521540608",
+              "start": 28,
+              "url": "https://t.co/qTHYUVNZKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053502361038184819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 329,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是一样的记录，但是它们的CPA估算怎么差的这么远（疑惑 https://t.co/qTHYUVNZKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 57,
+          "like_count": 112,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 31
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF🏳️‍⚧️ 深柜 无证含糖 🍥HRT2026.5.10｜INFP-T｜🍰2009.10 176cm 重庆｜中焦 社恐｜不od｜不割手（？）｜不见证｜同类互fo 会看一点成分 拒见证和黄｜喜欢二次元（番/漫/术/音游 百合向）｜横幅与头像侵删",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mrsk_sy_xuelin…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mrsk_sy_xueling2",
+                "start": 0,
+                "url": "https://t.co/9b4AzSCfjD"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "name": "雪泠🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 485,
+          "like_count": 1737,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/9b4AzSCfjD",
+        "username": "mrsk_sy_xueling",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4714,
+          "following_count": 2202,
+          "like_count": 10698,
+          "listed_count": 13,
+          "media_count": 1566,
+          "tweet_count": 6294
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

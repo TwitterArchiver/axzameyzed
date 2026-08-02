@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2060290050903179553",
+    "created_at": "2026-05-29T11:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060328367866703953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892789733287460864",
+          "start": 0,
+          "username": "XIAOSUSU456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060328367866703953",
+    "in_reply_to_user_id": "1892789733287460864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我也没有说不能有bug啊，代码一定会有bug的\n测试的时候我自己发现了我就立马修复了，别人发现了我也会尽快修复了，我想说的是有一些很简单的问题就比如我第一个提出的那个底边栏的问题这个自己测不出来吗，这是非常非常明显的问题而且严重影响使用体验，在我们团队中属于阻塞合并类问题，应该在生产环境前就修复的或者上了生产环境发现后紧急修复的"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060326993913422253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIAOSUSU456 我也没有说不能有bug啊，代码一定会有bug的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060326990570532864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfAe1obMAApe9A.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060326985151488000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfAehcbIAACFUI.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2060290050903179553",
+        "created_at": "2026-05-29T11:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060328367866703953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892789733287460864",
+              "start": 0,
+              "username": "XIAOSUSU456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060328367866703953",
+        "in_reply_to_user_id": "1892789733287460864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我也没有说不能有bug啊，代码一定会有bug的\n测试的时候我自己发现了我就立马修复了，别人发现了我也会尽快修复了，我想说的是有一些很简单的问题就比如我第一个提出的那个底边栏的问题这个自己测不出来吗，这是非常非常明显的问题而且严重影响使用体验，在我们团队中属于阻塞合并类问题，应该在生产环境前就修复的或者上了生产环境发现后紧急修复的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060326993913422253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOSUSU456 我也没有说不能有bug啊，代码一定会有bug的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060326990570532864",
+            "3_2060326985151488000"
+          ]
+        },
+        "author_id": "1892789733287460864",
+        "conversation_id": "2060290050903179553",
+        "created_at": "2026-05-29T11:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060326993913422253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CCnfQBh4fo",
+              "end": 119,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2060326993913422253/photo/1",
+              "media_key": "3_2060326990570532864",
+              "start": 96,
+              "url": "https://t.co/CCnfQBh4fo"
+            },
+            {
+              "display_url": "pic.x.com/CCnfQBh4fo",
+              "end": 119,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2060326993913422253/photo/1",
+              "media_key": "3_2060326985151488000",
+              "start": 96,
+              "url": "https://t.co/CCnfQBh4fo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060326993913422253",
+        "in_reply_to_user_id": "1892789733287460864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060314134412222739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 而且你们那边不也有严重的bug？？？我们双方都出现这种问题，还是最好别吵了，我也承认你们也有很多人使用，也承认你们的UI确实是不可厚非的，但我就想问？？？能不能别吵了 https://t.co/CCnfQBh4fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 165,
+          "like_count": 1370,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 789
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T04:13:44.000Z",
+        "description": "家长不管党 年龄党 MtF/X 较社恐\n16岁，高一，不od，不自残，小证含糖\nHRT🍥:2026.04.17 | 友跨友lgbtq+文化 | INFP-T 出生日:2010.3.16\nminecraft丨异环丨铁锈战争玩家\nHTML/Gore/数码/深度二次元/AI\nMTF世界创始人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf-world.com",
+                "end": 23,
+                "expanded_url": "http://mtf-world.com",
+                "start": 0,
+                "url": "https://t.co/wL0Pqnb7i9"
+              }
+            ]
+          }
+        },
+        "id": "1892789733287460864",
+        "name": "_Xiaosuda_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046919261994823935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052239433743949824/zVtNaMaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 95,
+          "like_count": 10,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 224
+        },
+        "url": "https://t.co/wL0Pqnb7i9",
+        "username": "XIAOSUSU456",
+        "verified": false
+      }
+    ]
+  }
+}

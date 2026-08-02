@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053545713510813698"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2053502361038184819",
+    "created_at": "2026-05-10T18:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T19:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053545722520203315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1934880636319485955",
+          "start": 0,
+          "username": "mrsk_sy_xueling"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eRQUgRD75J",
+          "end": 51,
+          "expanded_url": "https://x.com/axzameyzed/status/2053545722520203315/photo/1",
+          "media_key": "3_2053545713510813698",
+          "start": 28,
+          "url": "https://t.co/eRQUgRD75J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053545722520203315",
+    "in_reply_to_user_id": "1934880636319485955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053502361038184819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrsk_sy_xueling 我真服了单帖被隐藏了 https://t.co/eRQUgRD75J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 769,
+        "media_key": "3_2053545713510813698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-o8j_WkAIvsSV.jpg",
+        "width": 750
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2053502354646056960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-BgvobQAAHSxu.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2053502358521540608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-Bg-EacAABoCm.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053545713510813698"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2053502361038184819",
+        "created_at": "2026-05-10T18:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053545722520203315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1934880636319485955",
+              "start": 0,
+              "username": "mrsk_sy_xueling"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eRQUgRD75J",
+              "end": 51,
+              "expanded_url": "https://x.com/axzameyzed/status/2053545722520203315/photo/1",
+              "media_key": "3_2053545713510813698",
+              "start": 28,
+              "url": "https://t.co/eRQUgRD75J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053545722520203315",
+        "in_reply_to_user_id": "1934880636319485955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053502361038184819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrsk_sy_xueling 我真服了单帖被隐藏了 https://t.co/eRQUgRD75J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053502354646056960",
+            "3_2053502358521540608"
+          ]
+        },
+        "author_id": "1934880636319485955",
+        "conversation_id": "2053502361038184819",
+        "created_at": "2026-05-10T15:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053502361038184819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qTHYUVNZKw",
+              "end": 51,
+              "expanded_url": "https://x.com/mrsk_sy_xueling/status/2053502361038184819/photo/1",
+              "media_key": "3_2053502354646056960",
+              "start": 28,
+              "url": "https://t.co/qTHYUVNZKw"
+            },
+            {
+              "display_url": "pic.x.com/qTHYUVNZKw",
+              "end": 51,
+              "expanded_url": "https://x.com/mrsk_sy_xueling/status/2053502361038184819/photo/1",
+              "media_key": "3_2053502358521540608",
+              "start": 28,
+              "url": "https://t.co/qTHYUVNZKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053502361038184819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是一样的记录，但是它们的CPA估算怎么差的这么远（疑惑 https://t.co/qTHYUVNZKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 63,
+          "like_count": 116,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 34
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF🏳️‍⚧️ 深柜 无证含糖 🍥HRT2026.5.10｜INFP-T｜🍰2009.10 176cm 重庆｜中焦 社恐｜不od｜不割手（？）｜不见证｜同类互fo 会看一点成分 拒见证和黄｜喜欢二次元（番/漫/术/音游 百合向）｜横幅与头像侵删",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mrsk_sy_xuelin…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mrsk_sy_xueling2",
+                "start": 0,
+                "url": "https://t.co/9b4AzSCfjD"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "name": "雪泠🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 485,
+          "like_count": 1737,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/9b4AzSCfjD",
+        "username": "mrsk_sy_xueling",
+        "verified": false
+      }
+    ]
+  }
+}

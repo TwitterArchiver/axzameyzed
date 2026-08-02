@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2054151412922433879",
+    "created_at": "2026-05-12T16:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054244572004307251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882671462210998272",
+          "start": 0,
+          "username": "HosinoEJ"
+        }
+      ],
+      "urls": [
+        {
+          "description": "一份为逝去的跨性别者、性别多元者与友跨人士保留名字的纪念索引。",
+          "display_url": "rip.lgbt",
+          "end": 37,
+          "expanded_url": "http://rip.lgbt",
+          "start": 14,
+          "status": 200,
+          "title": "勿忘我 · rip.lgbt",
+          "unwound_url": "http://rip.lgbt",
+          "url": "https://t.co/h18kg3BV9c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054244572004307251",
+    "in_reply_to_user_id": "1882671462210998272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054151412922433879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosinoEJ 老唐买了https://t.co/h18kg3BV9c，之前还说要给我我没要🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "3_2054151404097560576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHP0ZQa4AAu08V.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2054151412922433879",
+        "created_at": "2026-05-12T16:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054244572004307251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "一份为逝去的跨性别者、性别多元者与友跨人士保留名字的纪念索引。",
+              "display_url": "rip.lgbt",
+              "end": 37,
+              "expanded_url": "http://rip.lgbt",
+              "start": 14,
+              "status": 200,
+              "title": "勿忘我 · rip.lgbt",
+              "unwound_url": "http://rip.lgbt",
+              "url": "https://t.co/h18kg3BV9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054244572004307251",
+        "in_reply_to_user_id": "1882671462210998272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054151412922433879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoEJ 老唐买了https://t.co/h18kg3BV9c，之前还说要给我我没要🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054151404097560576"
+          ]
+        },
+        "author_id": "1882671462210998272",
+        "conversation_id": "2054151412922433879",
+        "created_at": "2026-05-12T10:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054151412922433879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q7YoEL9Bzh",
+              "end": 36,
+              "expanded_url": "https://x.com/HosinoEJ/status/2054151412922433879/photo/1",
+              "media_key": "3_2054151404097560576",
+              "start": 13,
+              "url": "https://t.co/Q7YoEL9Bzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054151412922433879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知爲何，開始喜歡買域名 https://t.co/Q7YoEL9Bzh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 91,
+          "like_count": 296,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 127
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "點解我眼角長期都帶住淚？因為我一直被困喺一個暗無天日嘅十月入面。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/2FBvyw1HI8"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "shanghai",
+        "name": "星野寧子 | HosinoNeko",
+        "pinned_tweet_id": "2045296996916027852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969203560090124288/UXWVrJV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 547,
+          "like_count": 3937,
+          "listed_count": 4,
+          "media_count": 703,
+          "tweet_count": 3606
+        },
+        "url": "https://t.co/2FBvyw1HI8",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

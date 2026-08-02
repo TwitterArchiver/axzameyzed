@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2052943843478360390",
+    "created_at": "2026-05-10T09:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053408087571132499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053408087571132499",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052943843478360390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 如果一个app只有繁体中文和英文，那我大概率选英文，因为繁体中文我是真看不懂🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052943837048578048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2FivcboAA7DC6.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2052943843478360390",
+        "created_at": "2026-05-10T09:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053408087571132499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053408087571132499",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052943843478360390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 如果一个app只有繁体中文和英文，那我大概率选英文，因为繁体中文我是真看不懂🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052943837048578048"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "2052943843478360390",
+        "created_at": "2026-05-09T02:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052943843478360390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sqe0AwYgav",
+              "end": 77,
+              "expanded_url": "https://x.com/RainEngine2024/status/2052943843478360390/photo/1",
+              "media_key": "3_2052943837048578048",
+              "start": 54,
+              "url": "https://t.co/Sqe0AwYgav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052943843478360390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7591,
+          "like_count": 95,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "其实繁体中文在广东地区的大众化接受程度要远远高于外省，主要在于香港和澳门的媒体渗透，以及生活文化浸润的影响 https://t.co/Sqe0AwYgav"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 48,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052221080052674560/erKoHu5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10069,
+          "following_count": 949,
+          "like_count": 86505,
+          "listed_count": 24,
+          "media_count": 1697,
+          "tweet_count": 11985
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

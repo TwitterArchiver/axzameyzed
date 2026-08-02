@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2057427887108849958",
+    "created_at": "2026-05-21T15:59:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057491518806749588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        },
+        {
+          "end": 20,
+          "id": "1489034449199190017",
+          "start": 10,
+          "username": "Pigeon_Yi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057491518806749588",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057427887108849958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 @Pigeon_Yi 我也是上电视了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057427760658939904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1zpckagAAdTPR.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057427876392431617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1zwLtbcAE63iU.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057427877277405184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1zwPAbEAArWol.jpg",
+        "width": 427
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2057427887108849958",
+        "created_at": "2026-05-21T15:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057491518806749588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            },
+            {
+              "end": 20,
+              "id": "1489034449199190017",
+              "start": 10,
+              "username": "Pigeon_Yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057491518806749588",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057427887108849958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 @Pigeon_Yi 我也是上电视了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057427760658939904",
+            "3_2057427876392431617",
+            "3_2057427877277405184"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "conversation_id": "2057427887108849958",
+        "created_at": "2026-05-21T11:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:46:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057427770884673694",
+          "2057427887108849958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1489034449199190017",
+              "start": 7,
+              "username": "Pigeon_Yi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5QXM9YCxIB",
+              "end": 63,
+              "expanded_url": "https://x.com/jlxc2001/status/2057427887108849958/photo/1",
+              "media_key": "3_2057427760658939904",
+              "start": 40,
+              "url": "https://t.co/5QXM9YCxIB"
+            },
+            {
+              "display_url": "pic.x.com/5QXM9YCxIB",
+              "end": 63,
+              "expanded_url": "https://x.com/jlxc2001/status/2057427887108849958/photo/1",
+              "media_key": "3_2057427876392431617",
+              "start": 40,
+              "url": "https://t.co/5QXM9YCxIB"
+            },
+            {
+              "display_url": "pic.x.com/5QXM9YCxIB",
+              "end": 63,
+              "expanded_url": "https://x.com/jlxc2001/status/2057427887108849958/photo/1",
+              "media_key": "3_2057427877277405184",
+              "start": 40,
+              "url": "https://t.co/5QXM9YCxIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057427887108849958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1268,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "论我是如何策反@Pigeon_Yi 的粉丝群的（\nPS这里的扣指的是扣工资的扣 https://t.co/5QXM9YCxIB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 137,
+          "like_count": 817,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 449
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17142,
+          "following_count": 210,
+          "like_count": 563,
+          "listed_count": 38,
+          "media_count": 1090,
+          "tweet_count": 2873
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-03T00:34:26.000Z",
+        "description": "摄影/绳子/数码P/架子鼓/HAM\n成分复杂，欢迎私信约绳/拍/扩列\n暂时是@jlxc2001的秘书（嗯）\n有很多奇怪的技能，全国可飞，偏好长三角\nEN/CN：OK\n日本语学习中（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "jlxc2001"
+              }
+            ]
+          }
+        },
+        "id": "1489034449199190017",
+        "location": "香港/深圳/上海/你心里",
+        "name": "青空夏",
+        "pinned_tweet_id": "2055091696372003241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624302496905830400/dSYbbHpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 743,
+          "like_count": 8595,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 2739
+        },
+        "username": "Pigeon_Yi",
+        "verified": true
+      }
+    ]
+  }
+}

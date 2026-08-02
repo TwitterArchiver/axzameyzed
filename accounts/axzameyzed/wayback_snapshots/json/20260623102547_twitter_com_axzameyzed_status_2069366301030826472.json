@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069366282538172416"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2069366301030826472",
+    "created_at": "2026-06-23T10:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069366301030826472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l5RdZBtUwF",
+          "end": 57,
+          "expanded_url": "https://x.com/axzameyzed/status/2069366301030826472/photo/1",
+          "media_key": "3_2069366282538172416",
+          "start": 34,
+          "url": "https://t.co/l5RdZBtUwF"
+        },
+        {
+          "display_url": "x.com/teamtransmtf/s…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/teamtransmtf/status/2069364379578241534",
+          "start": 58,
+          "url": "https://t.co/aoIeygXGsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069366301030826472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069364379578241534",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很搞笑的是什么呢，之前还说我的项目是简单的ui，转头就抄上我代码了 https://t.co/l5RdZBtUwF https://t.co/aoIeygXGsb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 863,
+        "media_key": "3_2069366282538172416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfdq4TbwAAO1gA.jpg",
+        "width": 664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069366282538172416"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2069366301030826472",
+        "created_at": "2026-06-23T10:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069366301030826472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l5RdZBtUwF",
+              "end": 57,
+              "expanded_url": "https://x.com/axzameyzed/status/2069366301030826472/photo/1",
+              "media_key": "3_2069366282538172416",
+              "start": 34,
+              "url": "https://t.co/l5RdZBtUwF"
+            },
+            {
+              "display_url": "x.com/teamtransmtf/s…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/teamtransmtf/status/2069364379578241534",
+              "start": 58,
+              "url": "https://t.co/aoIeygXGsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069366301030826472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069364379578241534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很搞笑的是什么呢，之前还说我的项目是简单的ui，转头就抄上我代码了 https://t.co/l5RdZBtUwF https://t.co/aoIeygXGsb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012914101987762177",
+        "conversation_id": "2069364379578241534",
+        "created_at": "2026-06-23T10:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069364379578241534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaosuda567/st…",
+              "end": 205,
+              "expanded_url": "https://twitter.com/xiaosuda567/status/2069289508085096887",
+              "start": 182,
+              "url": "https://t.co/5rrx34iOWs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069364379578241534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "您好，\n经我团队初步判断，您当前使用的个体化学习代码属于 Transmtf HRT-Tracker 项目，版权归 Team Transmtf 所有。该项目中的 E2、CPA 等估测模型已在 Oyama's HRT Tracker 及LaoZhong-Mihari算法库基础上完成部分重写，相关代码版权同归本团队所有，如您正在使用，请同样注明。\n本项目基于 MIT 协议开源，但 MIT 协议明确要求在使用与分发时保留原始版权声明。请您尽快在代码版权部分注明来源。 若未在合理期限内完成，本团队将依法提起 DMCA 申诉。\n感谢您的理解与配合。\nTeam Transmtf敬上"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069289508085096887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "您好，\n经我团队初步判断，您当前使用的个体化学习代码属于 Transmtf HRT-Tracker 项目，版权归 Team Transmtf 所有。该项目中的 E2、CPA 等估测模型已在 Oyama's HRT Tracker 及LaoZhong-Mihari算法库基础上完成部分重写，相关代码版权同归本团队所有，如您正在使用，请同样注明。\n本项目基于 MIT https://t.co/5rrx34iOWs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 209,
+          "like_count": 3267,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1450
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号\n进行mtf/mtx的hrt相关研究\n我们的团队成员有两人\n分别是 @axzameyzed 和 @EleanorAnatidae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR2ygV"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "pinned_tweet_id": "2061296461523153268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 3,
+          "like_count": 1504,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 70
+        },
+        "url": "https://t.co/MDakkR2ygV",
+        "username": "TeamTransmtf",
+        "verified": true
+      }
+    ]
+  }
+}

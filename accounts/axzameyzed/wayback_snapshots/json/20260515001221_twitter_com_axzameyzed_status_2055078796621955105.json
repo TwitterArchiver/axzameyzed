@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2055074315134251246",
+    "created_at": "2026-05-15T00:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T01:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055078796621955105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1304732370214371329",
+          "start": 0,
+          "username": "Yirasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055078796621955105",
+    "in_reply_to_user_id": "1304732370214371329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055077943081353578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yirasumi ip够不够纯净，ip位置与设备的国家与地区设置是否一致，如果在电脑端claude code登录过的话梯子有没有开tun全局等都会有影响"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2055074315134251246",
+        "created_at": "2026-05-15T00:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T01:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055078796621955105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1304732370214371329",
+              "start": 0,
+              "username": "Yirasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055078796621955105",
+        "in_reply_to_user_id": "1304732370214371329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055077943081353578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yirasumi ip够不够纯净，ip位置与设备的国家与地区设置是否一致，如果在电脑端claude code登录过的话梯子有没有开tun全局等都会有影响"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1304732370214371329",
+        "conversation_id": "2055074315134251246",
+        "created_at": "2026-05-15T00:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T01:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055077943081353578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055077943081353578",
+        "in_reply_to_user_id": "1304732370214371329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055077906251207106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed ip都没变过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 111,
+          "like_count": 471,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 243
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-12T10:43:40.000Z",
+        "description": "猫猫罢了｜INFJ-T｜05后｜如果看到你可爱会跟你互fo！🎉在twi上属于只看不发的！会很认真考虑别人对我的看法。｜会一点点Linux CLI｜Phigros rks13.00｜拥有一个10token的GPT｜想学前端但是学不会",
+        "id": "1304732370214371329",
+        "location": "1.2km",
+        "name": "^薄荷奶昔^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886358330643456000/hKW3io-x_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 507,
+          "like_count": 22979,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 2105
+        },
+        "username": "Yirasumi",
+        "verified": true
+      }
+    ]
+  }
+}

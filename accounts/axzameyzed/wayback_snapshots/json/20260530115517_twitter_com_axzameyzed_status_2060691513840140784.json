@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060689114106941440"
+      ],
+      "media_source_tweet_id": [
+        "2060689120918434142"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      }
+    ],
+    "conversation_id": "2060691513840140784",
+    "created_at": "2026-05-30T11:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060691513840140784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758324617838788608",
+          "start": 3,
+          "username": "axzamyzed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QWHP5RLPys",
+          "end": 54,
+          "expanded_url": "https://x.com/axzamyzed/status/2060689120918434142/photo/1",
+          "media_key": "3_2060689114106941440",
+          "start": 31,
+          "url": "https://t.co/QWHP5RLPys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060691513840140784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060689120918434142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @axzamyzed: 不觉得copilot很涩气吗🥵 https://t.co/QWHP5RLPys"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 369,
+        "media_key": "3_2060689114106941440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkJ1M7b0AAQRgM.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060689114106941440"
+          ],
+          "media_source_tweet_id": [
+            "2060689120918434142"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2060691513840140784",
+        "created_at": "2026-05-30T11:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060691513840140784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758324617838788608",
+              "start": 3,
+              "username": "axzamyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QWHP5RLPys",
+              "end": 54,
+              "expanded_url": "https://x.com/axzamyzed/status/2060689120918434142/photo/1",
+              "media_key": "3_2060689114106941440",
+              "start": 31,
+              "url": "https://t.co/QWHP5RLPys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060691513840140784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060689120918434142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @axzamyzed: 不觉得copilot很涩气吗🥵 https://t.co/QWHP5RLPys"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060689114106941440"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2060689120918434142",
+        "created_at": "2026-05-30T11:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060689120918434142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QWHP5RLPys",
+              "end": 39,
+              "expanded_url": "https://x.com/axzamyzed/status/2060689120918434142/photo/1",
+              "media_key": "3_2060689114106941440",
+              "start": 16,
+              "url": "https://t.co/QWHP5RLPys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060689120918434142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不觉得copilot很涩气吗🥵 https://t.co/QWHP5RLPys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 167,
+          "like_count": 1444,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 839
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @mxyzcdb ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNnEy"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3584,
+          "following_count": 953,
+          "like_count": 12041,
+          "listed_count": 10,
+          "media_count": 1968,
+          "tweet_count": 7199
+        },
+        "url": "https://t.co/8nPnyxNnEy",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

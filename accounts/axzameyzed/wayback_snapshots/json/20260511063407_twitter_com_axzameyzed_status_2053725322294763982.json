@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2053701900495941796",
+    "created_at": "2026-05-11T06:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053725322294763982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1304732370214371329",
+          "start": 0,
+          "username": "Yirasumi"
+        },
+        {
+          "end": 22,
+          "id": "1806849464386416640",
+          "start": 10,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053725322294763982",
+    "in_reply_to_user_id": "1304732370214371329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053714233653919882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Yirasumi @tangeorange 简单来说就是我小号被ghostban了，所有的回复都看不见了，所以一怒之下又开了个号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2053701900495941796",
+        "created_at": "2026-05-11T06:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053725322294763982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1304732370214371329",
+              "start": 0,
+              "username": "Yirasumi"
+            },
+            {
+              "end": 22,
+              "id": "1806849464386416640",
+              "start": 10,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053725322294763982",
+        "in_reply_to_user_id": "1304732370214371329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053714233653919882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Yirasumi @tangeorange 简单来说就是我小号被ghostban了，所有的回复都看不见了，所以一怒之下又开了个号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1304732370214371329",
+        "conversation_id": "2053701900495941796",
+        "created_at": "2026-05-11T05:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053714233653919882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 24,
+              "id": "1806849464386416640",
+              "start": 12,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053714233653919882",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053702013586702594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@axzameyzed @tangeorange 这个是你的小小号？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053364593209008263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 71,
+          "like_count": 167,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 56
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-12T10:43:40.000Z",
+        "description": "猫猫罢了｜INFJ-T｜05后｜如果看到你可爱会跟你互fo！🎉在twi上属于只看不发的！会很认真考虑别人对我的看法。｜会一点点Linux CLI｜Phigros rks13.00｜拥有一个10token的GPT｜想学前端但是学不会",
+        "id": "1304732370214371329",
+        "location": "1.2km",
+        "name": "^薄荷奶昔^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886358330643456000/hKW3io-x_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 496,
+          "like_count": 22720,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 2045
+        },
+        "username": "Yirasumi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "尝试不死 | \n朋友们 @maoxian1527 @kxk1388576 @tangeror @mxyzcdb | \n喜欢编程，AI/ML，DIY，写点文章，做游戏，做产品。| \n我不是精神病。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "kxk1388576"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "tangeror"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "username": "mxyzcdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子",
+        "pinned_tweet_id": "2046274140592861663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053400102610595840/MxufF7uu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 2180,
+          "like_count": 7552,
+          "listed_count": 3,
+          "media_count": 971,
+          "tweet_count": 6769
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

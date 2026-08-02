@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2055838677746766046",
+    "created_at": "2026-05-17T03:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T04:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055853063060263160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008233761763409920",
+          "start": 0,
+          "username": "galaxy1025850"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055853063060263160",
+    "in_reply_to_user_id": "2008233761763409920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055851959278764032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@galaxy1025850 你别说，我stripe就允许了微信支付宝支付，没问题的，我看了很多中转在用，无非就是贵点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2055838677746766046",
+        "created_at": "2026-05-17T03:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055853063060263160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008233761763409920",
+              "start": 0,
+              "username": "galaxy1025850"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055853063060263160",
+        "in_reply_to_user_id": "2008233761763409920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055851959278764032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@galaxy1025850 你别说，我stripe就允许了微信支付宝支付，没问题的，我看了很多中转在用，无非就是贵点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008233761763409920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2055838677746766046",
+        "created_at": "2026-05-17T03:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055851959278764032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055851959278764032",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055838677746766046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 要不要用四方啊\n挺不建议用条纹的alipay和wechat的，感觉用多了很容易封号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 119,
+          "like_count": 628,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 336
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "喜欢到处乱窜的北方网友 。 \nPassion in AI & Cloud computing  Pansexual,友跨\n已被Musk干掉两个号。如果是真人，光速回fo \n脾气超好，啥都能聊，经常在线，欢迎pm~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7R5oH"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "location": "不一定在哪（）",
+        "name": "galaxy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021479451532591107/PByiQPHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 284,
+          "like_count": 909,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 571
+        },
+        "url": "https://t.co/3iZAC7R5oH",
+        "username": "galaxy1025850",
+        "verified": false
+      }
+    ]
+  }
+}

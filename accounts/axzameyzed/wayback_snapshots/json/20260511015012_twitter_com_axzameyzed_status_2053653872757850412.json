@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2053502361038184819",
+    "created_at": "2026-05-11T01:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T02:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053653872757850412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/axzameyzed/sta…",
+          "end": 34,
+          "expanded_url": "https://x.com/axzameyzed/status/2053545722520203315?s=46",
+          "start": 11,
+          "url": "https://t.co/kT7hB8YCaA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053653872757850412",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053545722520203315",
+        "type": "quoted"
+      },
+      {
+        "id": "2053503063617651094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama https://t.co/kT7hB8YCaA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 769,
+        "media_key": "3_2053545713510813698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-o8j_WkAIvsSV.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2053502361038184819",
+        "created_at": "2026-05-11T01:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053653872757850412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/axzameyzed/sta…",
+              "end": 34,
+              "expanded_url": "https://x.com/axzameyzed/status/2053545722520203315?s=46",
+              "start": 11,
+              "url": "https://t.co/kT7hB8YCaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053653872757850412",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053545722520203315",
+            "type": "quoted"
+          },
+          {
+            "id": "2053503063617651094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama https://t.co/kT7hB8YCaA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053545713510813698"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2053502361038184819",
+        "created_at": "2026-05-10T18:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053545722520203315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1934880636319485955",
+              "start": 0,
+              "username": "mrsk_sy_xueling"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eRQUgRD75J",
+              "end": 51,
+              "expanded_url": "https://x.com/axzameyzed/status/2053545722520203315/photo/1",
+              "media_key": "3_2053545713510813698",
+              "start": 28,
+              "url": "https://t.co/eRQUgRD75J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053545722520203315",
+        "in_reply_to_user_id": "1934880636319485955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053502361038184819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrsk_sy_xueling 我真服了单帖被隐藏了 https://t.co/eRQUgRD75J"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2053502361038184819",
+        "created_at": "2026-05-10T15:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053503063617651094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1934880636319485955",
+              "start": 0,
+              "username": "mrsk_sy_xueling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053503063617651094",
+        "in_reply_to_user_id": "1934880636319485955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053502361038184819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrsk_sy_xueling 我不道啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053364593209008263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 69,
+          "like_count": 143,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 45
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4729,
+          "following_count": 2203,
+          "like_count": 10703,
+          "listed_count": 14,
+          "media_count": 1568,
+          "tweet_count": 6296
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2070117051537203676",
+    "created_at": "2026-06-25T12:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070118664695918953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704469304077611008",
+          "start": 0,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070118664695918953",
+    "in_reply_to_user_id": "1704469304077611008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070117051537203676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoyanboluooo 就是倍率消耗，比如说你套餐内流量有100个G，但是如果你用10x的节点，那么你实际产生1G的流量就要扣套餐内的10个G，相当于如果用10x节点的话套餐只能用10G流量，一般高倍率的节点会更干净一些"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070117037142331392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqIejJaUAAovhk.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070117037138202624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqIejIbUAAjo37.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2070117051537203676",
+        "created_at": "2026-06-25T12:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070118664695918953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070118664695918953",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070117051537203676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo 就是倍率消耗，比如说你套餐内流量有100个G，但是如果你用10x的节点，那么你实际产生1G的流量就要扣套餐内的10个G，相当于如果用10x节点的话套餐只能用10G流量，一般高倍率的节点会更干净一些"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070117037142331392",
+            "3_2070117037138202624"
+          ]
+        },
+        "author_id": "1704469304077611008",
+        "conversation_id": "2070117051537203676",
+        "created_at": "2026-06-25T12:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070117051537203676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uC0zm0cSIB",
+              "end": 37,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2070117051537203676/photo/1",
+              "media_key": "3_2070117037142331392",
+              "start": 14,
+              "url": "https://t.co/uC0zm0cSIB"
+            },
+            {
+              "display_url": "pic.x.com/uC0zm0cSIB",
+              "end": 37,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2070117051537203676/photo/1",
+              "media_key": "3_2070117037138202624",
+              "start": 14,
+              "url": "https://t.co/uC0zm0cSIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070117051537203676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这些倍率都是什么意思啊？🤔 https://t.co/uC0zm0cSIB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 210,
+          "like_count": 3377,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1476
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761\n给我发送匿名消息！  ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Amour761"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiaoyanboluooo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiaoyanboluooo1",
+                "start": 0,
+                "url": "https://t.co/DbZcrDCjo5"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2062570727690346728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5160,
+          "following_count": 4165,
+          "like_count": 29142,
+          "listed_count": 12,
+          "media_count": 1499,
+          "tweet_count": 6366
+        },
+        "url": "https://t.co/DbZcrDCjo5",
+        "username": "jiaoyanboluooo",
+        "verified": true
+      }
+    ]
+  }
+}

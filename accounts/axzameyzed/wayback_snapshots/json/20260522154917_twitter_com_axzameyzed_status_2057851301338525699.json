@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057851293277048832"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2057851301338525699",
+    "created_at": "2026-05-22T15:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T16:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057851301338525699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xF1jjHIV2W",
+          "end": 46,
+          "expanded_url": "https://x.com/axzameyzed/status/2057851301338525699/photo/1",
+          "media_key": "3_2057851293277048832",
+          "start": 23,
+          "url": "https://t.co/xF1jjHIV2W"
+        },
+        {
+          "display_url": "x.com/axzameyzed/sta…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/axzameyzed/status/2057838837074956447",
+          "start": 47,
+          "url": "https://t.co/vZFcNrlp2a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057851301338525699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057838837074956447",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "测试币\n（这个单位好奇怪啊，到时候换掉好了） https://t.co/xF1jjHIV2W https://t.co/vZFcNrlp2a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 488,
+        "media_key": "3_2057851293277048832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI702ShbUAAr4mq.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057851293277048832"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2057851301338525699",
+        "created_at": "2026-05-22T15:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057851301338525699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xF1jjHIV2W",
+              "end": 46,
+              "expanded_url": "https://x.com/axzameyzed/status/2057851301338525699/photo/1",
+              "media_key": "3_2057851293277048832",
+              "start": 23,
+              "url": "https://t.co/xF1jjHIV2W"
+            },
+            {
+              "display_url": "x.com/axzameyzed/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/axzameyzed/status/2057838837074956447",
+              "start": 47,
+              "url": "https://t.co/vZFcNrlp2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057851301338525699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057838837074956447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "测试币\n（这个单位好奇怪啊，到时候换掉好了） https://t.co/xF1jjHIV2W https://t.co/vZFcNrlp2a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Non-fungible tokens",
+              "id": "1369311988040355840",
+              "name": "NFTs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Investing",
+              "id": "847894353708068864",
+              "name": "Investing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Non-fungible tokens",
+              "id": "1369311988040355840",
+              "name": "NFTs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2057838837074956447",
+        "created_at": "2026-05-22T14:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057838837074956447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2057813462206873889",
+              "start": 78,
+              "url": "https://t.co/nogisjwGqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057838837074956447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057813462206873889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们有计划在ArbitrumOne链上发行代币\n虽然并不知道这有什么用\n也不打算和任何其他稳定币挂钩\n目前已经发行于Arbitrum Sepolia测试网 https://t.co/nogisjwGqt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 138,
+          "like_count": 856,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 472
+        },
+        "username": "axzameyzed",
+        "verified": true
+      }
+    ]
+  }
+}

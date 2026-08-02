@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2070143188665614656",
+    "created_at": "2026-06-25T14:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T15:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070152269023367378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065198058443620353",
+          "start": 0,
+          "username": "Autonomous667"
+        },
+        {
+          "end": 30,
+          "id": "2055356059066466304",
+          "start": 15,
+          "username": "TransCircleOrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070152269023367378",
+    "in_reply_to_user_id": "2065198058443620353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070150626303267131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autonomous667 @TransCircleOrg 20多块人民币🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2070143188665614656",
+        "created_at": "2026-06-25T14:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070152269023367378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065198058443620353",
+              "start": 0,
+              "username": "Autonomous667"
+            },
+            {
+              "end": 30,
+              "id": "2055356059066466304",
+              "start": 15,
+              "username": "TransCircleOrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070152269023367378",
+        "in_reply_to_user_id": "2065198058443620353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070150626303267131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autonomous667 @TransCircleOrg 20多块人民币🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065198058443620353",
+        "conversation_id": "2070143188665614656",
+        "created_at": "2026-06-25T14:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070150626303267131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 27,
+              "id": "2055356059066466304",
+              "start": 12,
+              "username": "TransCircleOrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070150626303267131",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070143188665614656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed @TransCircleOrg 多少开的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 210,
+          "like_count": 3384,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1479
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T22:24:09.000Z",
+        "description": "如果想要进SimpleX群一起玩，私信，请，，， 或者给我发发邮件：114514@automous.lol 打赏地址（bsc/bep20）：0x30B9D214e5f9E935D934040dc13Aa1c1abD8296a 我先在这里放一堆申必emoji：🇹🇼🇭🇰🏳️‍⚧️🏳️‍🌈🍥🇦🇶🇧🇿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "automous.lol",
+                "end": 23,
+                "expanded_url": "https://automous.lol",
+                "start": 0,
+                "url": "https://t.co/cuxICd3LHR"
+              }
+            ]
+          }
+        },
+        "id": "2065198058443620353",
+        "location": "你家的床上",
+        "name": "🌊Autonomous🏳️‍⚧️🇹🇼🇭🇰🍥",
+        "pinned_tweet_id": "2067883740177821740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065199093807464448/9K0BrpHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 89,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 568
+        },
+        "url": "https://t.co/cuxICd3LHR",
+        "username": "Autonomous667",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T18:35:13.000Z",
+        "description": "中文推特女性倾向跨性别者社群史官项目\n我们深信历史终将向前。这份记录，就是我们走过长夜的铁证。\nGithub: https://t.co/8uXoPf6E7j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TransCircle",
+                "end": 79,
+                "expanded_url": "https://github.com/TransCircle",
+                "start": 56,
+                "url": "https://t.co/8uXoPf6E7j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transcircle.org",
+                "end": 23,
+                "expanded_url": "http://transcircle.org",
+                "start": 0,
+                "url": "https://t.co/r8ea82NCCb"
+              }
+            ]
+          }
+        },
+        "id": "2055356059066466304",
+        "name": "TransCircle 跨环",
+        "pinned_tweet_id": "2055975013145260489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055356408699514881/Xwsvn8u3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 36,
+          "like_count": 81,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 53
+        },
+        "url": "https://t.co/r8ea82NCCb",
+        "username": "TransCircleOrg",
+        "verified": true
+      }
+    ]
+  }
+}

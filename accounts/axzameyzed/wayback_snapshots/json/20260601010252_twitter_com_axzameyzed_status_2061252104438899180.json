@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061252097157537792"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2061252104438899180",
+    "created_at": "2026-06-01T01:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T02:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061252104438899180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AZ3dcwwKBs",
+          "end": 28,
+          "expanded_url": "https://x.com/axzameyzed/status/2061252104438899180/photo/1",
+          "media_key": "3_2061252097157537792",
+          "start": 5,
+          "url": "https://t.co/AZ3dcwwKBs"
+        },
+        {
+          "display_url": "x.com/yirasumi/statu…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/yirasumi/status/2059912661283037187",
+          "start": 29,
+          "url": "https://t.co/yue91sMtLw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061252104438899180",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059912661283037187",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真没绷住 https://t.co/AZ3dcwwKBs https://t.co/yue91sMtLw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 389,
+        "media_key": "3_2061252097157537792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsJ3IOaoAAMXe9.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061252097157537792"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2061252104438899180",
+        "created_at": "2026-06-01T01:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061252104438899180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZ3dcwwKBs",
+              "end": 28,
+              "expanded_url": "https://x.com/axzameyzed/status/2061252104438899180/photo/1",
+              "media_key": "3_2061252097157537792",
+              "start": 5,
+              "url": "https://t.co/AZ3dcwwKBs"
+            },
+            {
+              "display_url": "x.com/yirasumi/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/yirasumi/status/2059912661283037187",
+              "start": 29,
+              "url": "https://t.co/yue91sMtLw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061252104438899180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059912661283037187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真没绷住 https://t.co/AZ3dcwwKBs https://t.co/yue91sMtLw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1304732370214371329",
+        "conversation_id": "2059872229110976685",
+        "created_at": "2026-05-28T08:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059912661283037187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059912661283037187",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059872229110976685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 窝是不是没救了，窝看cpa第一反应是cli proxy api"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 167,
+          "like_count": 1504,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 866
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-12T10:43:40.000Z",
+        "description": "猫猫罢了｜INFJ-T｜05后｜如果看到你可爱会跟你互fo！🎉在twi上属于只看不发的！会很认真考虑别人对我的看法。｜会一点点Linux CLI｜Phigros rks13.00｜拥有一个10token的GPT｜想学前端但是学不会",
+        "id": "1304732370214371329",
+        "location": "1.2km",
+        "name": "^薄荷奶昔^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886358330643456000/hKW3io-x_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 529,
+          "like_count": 24691,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 2325
+        },
+        "username": "Yirasumi",
+        "verified": true
+      }
+    ]
+  }
+}

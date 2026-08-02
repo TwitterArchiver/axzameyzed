@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060998667868487681"
+      ],
+      "media_source_tweet_id": [
+        "2060998823103864978"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2061003020884910535",
+    "created_at": "2026-05-31T08:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061003020884910535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028802782019596288",
+          "start": 3,
+          "username": "ciallowo"
+        },
+        {
+          "end": 34,
+          "id": "1781510736000274432",
+          "start": 25,
+          "username": "huantim1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PTNb84g0WL",
+          "end": 61,
+          "expanded_url": "https://x.com/ciallowo/status/2060998823103864978/photo/1",
+          "media_key": "3_2060998667868487681",
+          "start": 38,
+          "url": "https://t.co/PTNb84g0WL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061003020884910535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060998823103864978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ciallowo: 谨遵喵咪天国天后娘娘 @huantim1 旨意 https://t.co/PTNb84g0WL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061003020884910535].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061003020884910535",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061003020884910535"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3249,
+        "media_key": "3_2060998667868487681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJojXmjawAEmo_k.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060998667868487681"
+          ]
+        },
+        "author_id": "2028802782019596288",
+        "conversation_id": "2060998823103864978",
+        "created_at": "2026-05-31T08:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060998823103864978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1781510736000274432",
+              "start": 11,
+              "username": "huantim1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PTNb84g0WL",
+              "end": 47,
+              "expanded_url": "https://x.com/ciallowo/status/2060998823103864978/photo/1",
+              "media_key": "3_2060998667868487681",
+              "start": 24,
+              "url": "https://t.co/PTNb84g0WL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060998823103864978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "谨遵喵咪天国天后娘娘 @huantim1 旨意 https://t.co/PTNb84g0WL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 169,
+          "like_count": 1493,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 859
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-03T12:01:07.000Z",
+        "description": "哈囉哈囉，這裡是小霧喵。很高興認識你喵～希望能帶給你更多快樂一點… | 11後 | 165 51 | ISFP | 國/初二 | 泛性恋？ | 友跨喵 | 咱不是跨… | 不割手手/od | 嘴笨笨滴 | zh-cn/zh-tw/en | 不会写代码的程序员 | 現居中國大陸 | Nonpartisan&不鍵政…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Ryousuke05",
+                "end": 23,
+                "expanded_url": "http://github.com/Ryousuke05",
+                "start": 0,
+                "url": "https://t.co/ZkWmHQpNQa"
+              }
+            ]
+          }
+        },
+        "id": "2028802782019596288",
+        "location": "距離地球99兆米",
+        "name": "小霧喵～",
+        "pinned_tweet_id": "2060022751369511290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058500600917295104/iRL6lP95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 278,
+          "like_count": 495,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 210
+        },
+        "url": "https://t.co/ZkWmHQpNQa",
+        "username": "ciallowo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某高一牲\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "huantim1.bsky.social",
+                "end": 23,
+                "expanded_url": "http://huantim1.bsky.social",
+                "start": 0,
+                "url": "https://t.co/cXdI7FG7B0"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮纱",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026628026642153472/5ZROLnX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 745,
+          "like_count": 59682,
+          "listed_count": 1,
+          "media_count": 362,
+          "tweet_count": 4874
+        },
+        "url": "https://t.co/cXdI7FG7B0",
+        "username": "huantim1",
+        "verified": false
+      }
+    ]
+  }
+}

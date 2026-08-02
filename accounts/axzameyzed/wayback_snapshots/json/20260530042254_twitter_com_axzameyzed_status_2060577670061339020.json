@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2060572513164480683",
+    "created_at": "2026-05-30T04:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060577670061339020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1642199099951939584",
+          "start": 0,
+          "username": "bluse50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060577670061339020",
+    "in_reply_to_user_id": "1642199099951939584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060576734790172837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluse50 🤔我感觉还是opus配合gpt比较好用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2060572513164480683",
+        "created_at": "2026-05-30T04:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060577670061339020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1642199099951939584",
+              "start": 0,
+              "username": "bluse50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060577670061339020",
+        "in_reply_to_user_id": "1642199099951939584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060576734790172837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluse50 🤔我感觉还是opus配合gpt比较好用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642199099951939584",
+        "conversation_id": "2060572513164480683",
+        "created_at": "2026-05-30T04:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060576734790172837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060576734790172837",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060575825200857461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 我gpt5.4 5.5，opus4.6，glm5.1和5，deepseek v4 pro都试了，我个人感觉glm5.1够我使用了。deepseek差口气（好大一口气）。主要还是性价比问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 166,
+          "like_count": 1407,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 815
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-01T16:15:56.000Z",
+        "description": "女性代词。社交能力0。主要分享医学和AI内容",
+        "id": "1642199099951939584",
+        "location": "柿树学院",
+        "name": "BluseL",
+        "pinned_tweet_id": "2058912814857945221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673313633462534144/RAfFa5on_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 274,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 288
+        },
+        "username": "bluse50",
+        "verified": true
+      }
+    ]
+  }
+}

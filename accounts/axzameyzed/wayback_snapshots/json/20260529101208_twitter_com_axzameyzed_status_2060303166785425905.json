@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2060290050903179553",
+    "created_at": "2026-05-29T10:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060303166785425905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892789733287460864",
+          "start": 0,
+          "username": "XIAOSUSU456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060303166785425905",
+    "in_reply_to_user_id": "1892789733287460864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060290050903179553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIAOSUSU456 整个系统的视觉设计和操作逻辑都让我有一种要长脑子了的感觉…希望你在AI写完代码后检查代码逻辑，并进行测试，此外还需要对部分可能出现适配性异常的函数要有fallback策略等等一些列都要做好才能保证良好的用户体验"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060290047073734656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJee4cYaUAAzJR6.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060290047585505280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJee4eSbUAAvGQd.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060290047589728256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJee4eTbwAAPmE0.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060290047904215040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJee4feacAAHJXG.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2060290050903179553",
+        "created_at": "2026-05-29T10:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060303166785425905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892789733287460864",
+              "start": 0,
+              "username": "XIAOSUSU456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060303166785425905",
+        "in_reply_to_user_id": "1892789733287460864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060290050903179553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOSUSU456 整个系统的视觉设计和操作逻辑都让我有一种要长脑子了的感觉…希望你在AI写完代码后检查代码逻辑，并进行测试，此外还需要对部分可能出现适配性异常的函数要有fallback策略等等一些列都要做好才能保证良好的用户体验"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060290047073734656",
+            "3_2060290047585505280",
+            "3_2060290047589728256",
+            "3_2060290047904215040"
+          ]
+        },
+        "author_id": "1892789733287460864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060290050903179553",
+        "created_at": "2026-05-29T09:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060290050903179553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mtf-world.com",
+              "end": 151,
+              "expanded_url": "http://mtf-world.com",
+              "start": 128,
+              "unwound_url": "http://mtf-world.com",
+              "url": "https://t.co/G973WxerOJ"
+            },
+            {
+              "display_url": "pic.x.com/j2KqPf2JjU",
+              "end": 175,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2060290050903179553/photo/1",
+              "media_key": "3_2060290047073734656",
+              "start": 152,
+              "url": "https://t.co/j2KqPf2JjU"
+            },
+            {
+              "display_url": "pic.x.com/j2KqPf2JjU",
+              "end": 175,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2060290050903179553/photo/1",
+              "media_key": "3_2060290047585505280",
+              "start": 152,
+              "url": "https://t.co/j2KqPf2JjU"
+            },
+            {
+              "display_url": "pic.x.com/j2KqPf2JjU",
+              "end": 175,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2060290050903179553/photo/1",
+              "media_key": "3_2060290047589728256",
+              "start": 152,
+              "url": "https://t.co/j2KqPf2JjU"
+            },
+            {
+              "display_url": "pic.x.com/j2KqPf2JjU",
+              "end": 175,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2060290050903179553/photo/1",
+              "media_key": "3_2060290047904215040",
+              "start": 152,
+              "url": "https://t.co/j2KqPf2JjU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060290050903179553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "MTF世界V3.0 互动与治疗版本发布！这是我们迄今为止内容最大的版本，涵盖了40+种功能！\n1.由于我们迁移至了新域名，请在旧域名导出数据，然后再进行新域名的导入。\n2.开启手机系统的勿扰模式后可能部分功能无法正常生效，如有需要请进行关闭。\n进入新世界:https://t.co/G973WxerOJ https://t.co/j2KqPf2JjU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 163,
+          "like_count": 1368,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 774
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T04:13:44.000Z",
+        "description": "家长不管党 年龄党 MtF/X 较社恐\n16岁，高一，不od，不自残，小证含糖\nHRT🍥:2026.04.17 | 友跨友lgbtq+文化 | INFP-T 出生日:2010.3.16\nminecraft丨异环丨铁锈战争玩家\nHTML/Gore/数码/深度二次元/AI\nMTF世界创始人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf-world.com",
+                "end": 23,
+                "expanded_url": "http://mtf-world.com",
+                "start": 0,
+                "url": "https://t.co/wL0Pqnb7i9"
+              }
+            ]
+          }
+        },
+        "id": "1892789733287460864",
+        "name": "_Xiaosuda_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046919261994823935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052239433743949824/zVtNaMaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 94,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/wL0Pqnb7i9",
+        "username": "XIAOSUSU456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068174661779951617"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2068073460790870051",
+    "created_at": "2026-06-20T03:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T04:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068174672924156316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rGj542c9fZ",
+          "end": 41,
+          "expanded_url": "https://x.com/axzameyzed/status/2068174672924156316/photo/1",
+          "media_key": "3_2068174661779951617",
+          "start": 18,
+          "url": "https://t.co/rGj542c9fZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068174672924156316",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068073460790870051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 发自我的手机 https://t.co/rGj542c9fZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 443,
+        "media_key": "3_2068174661779951617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOh5bDbkAEmiNe.jpg",
+        "width": 512
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2068073452381339649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNF2QqbAAEJ3pt.jpg",
+        "width": 1230
+      },
+      {
+        "height": 1778,
+        "media_key": "3_2068073452385583104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNF2QrbwAAHnw8.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068174661779951617"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2068073460790870051",
+        "created_at": "2026-06-20T03:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068174672924156316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rGj542c9fZ",
+              "end": 41,
+              "expanded_url": "https://x.com/axzameyzed/status/2068174672924156316/photo/1",
+              "media_key": "3_2068174661779951617",
+              "start": 18,
+              "url": "https://t.co/rGj542c9fZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068174672924156316",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068073460790870051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 发自我的手机 https://t.co/rGj542c9fZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068073452381339649",
+            "3_2068073452385583104"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068073460790870051",
+        "created_at": "2026-06-19T20:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T21:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068073460790870051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mhj8moEDKn",
+              "end": 33,
+              "expanded_url": "https://x.com/smiroyama/status/2068073460790870051/photo/1",
+              "media_key": "3_2068073452381339649",
+              "start": 10,
+              "url": "https://t.co/Mhj8moEDKn"
+            },
+            {
+              "display_url": "pic.x.com/Mhj8moEDKn",
+              "end": 33,
+              "expanded_url": "https://x.com/smiroyama/status/2068073460790870051/photo/1",
+              "media_key": "3_2068073452385583104",
+              "start": 10,
+              "url": "https://t.co/Mhj8moEDKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068073460790870051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 720,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剛到求真，不熟地方 https://t.co/Mhj8moEDKn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu｜账号委派访问 @blackchanawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "blackchanawa"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 208,
+          "like_count": 3015,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1384
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Developing https://t.co/pJ9VtduSxe | friends: @Huang_Yut1ng @fukui_p26 好伙伴: @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 34,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 11,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2065373003169570821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064928216654217216/gHEvZe0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6847,
+          "following_count": 2431,
+          "like_count": 13165,
+          "listed_count": 22,
+          "media_count": 2160,
+          "tweet_count": 7936
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

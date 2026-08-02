@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2054112214550753443",
+    "created_at": "2026-05-12T10:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054143729884160276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1676634704878129152",
+          "start": 0,
+          "username": "AotraWong"
+        },
+        {
+          "end": 27,
+          "id": "1854736085068517376",
+          "start": 11,
+          "username": "RainEngine_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054143729884160276",
+    "in_reply_to_user_id": "1676634704878129152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054143270805188992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AotraWong @RainEngine_2024 ？我hrt前是23.25，不能比这个低吧🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2054112214550753443",
+        "created_at": "2026-05-12T10:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054143729884160276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1676634704878129152",
+              "start": 0,
+              "username": "AotraWong"
+            },
+            {
+              "end": 27,
+              "id": "1854736085068517376",
+              "start": 11,
+              "username": "RainEngine_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054143729884160276",
+        "in_reply_to_user_id": "1676634704878129152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054143270805188992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AotraWong @RainEngine_2024 ？我hrt前是23.25，不能比这个低吧🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676634704878129152",
+        "conversation_id": "2054112214550753443",
+        "created_at": "2026-05-12T10:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054143270805188992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 28,
+              "id": "1854736085068517376",
+              "start": 12,
+              "username": "RainEngine_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054143270805188992",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054139810927837459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed @RainEngine_2024 雨晴她E2能够比顺男低（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 87,
+          "like_count": 254,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 100
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-05T16:50:50.000Z",
+        "description": "芷姗 | 也许是个大姐姐 | 08 May | 🏳️‍⚧️ | 物化政 |\n头像：迎恩门 / 背景：虎门港 | 校心理社前部长 | \nLCNA总管理员 | DPS MC服务器服主 |\nIT/交通/医学（尤其是精神医学） 爱好者 | \n希望我能帮到你，哪怕只是一点点。谢谢你的Fo！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lcna.cn",
+                "end": 23,
+                "expanded_url": "https://blog.lcna.cn",
+                "start": 0,
+                "url": "https://t.co/9a4AgdadOU"
+              }
+            ]
+          }
+        },
+        "id": "1676634704878129152",
+        "location": "東莞 Dongguan",
+        "name": "Aotra | An Open Tunnel to Receive Answer",
+        "pinned_tweet_id": "1938617299428323702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782805332924002304/j-PEXjWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 1051,
+          "like_count": 21381,
+          "listed_count": 5,
+          "media_count": 419,
+          "tweet_count": 1737
+        },
+        "url": "https://t.co/9a4AgdadOU",
+        "username": "AotraWong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T04:02:15.000Z",
+        "description": "雨擎项目组设计总监/Dancing Line饭制作者/来自2007年/曾小米合作伙伴/目前在学习u3d引擎技术/貌似不是学生/来自广东东莞/现居广东中山/喜欢拍照记录生活/喜欢折腾各类的手机/很高兴认识大家/欢迎互fo",
+        "id": "1854736085068517376",
+        "name": "秋日葵_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053488985306198016/M7IDcy9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 138,
+          "like_count": 849,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 97
+        },
+        "username": "RainEngine_2024",
+        "verified": false
+      }
+    ]
+  }
+}

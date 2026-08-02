@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2062159031532454098",
+    "created_at": "2026-06-03T13:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062159031532454098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942218528100134912",
+          "start": 3,
+          "username": "youling_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062159031532454098",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062151837856448684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youling_qaq: 没死……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2062159031532454098",
+        "created_at": "2026-06-03T13:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062159031532454098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942218528100134912",
+              "start": 3,
+              "username": "youling_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062159031532454098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062151837856448684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youling_qaq: 没死……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942218528100134912",
+        "conversation_id": "2062151837856448684",
+        "created_at": "2026-06-03T12:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062151837856448684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062151837856448684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "没死……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 181,
+          "like_count": 1695,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 954
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T13:46:08.000Z",
+        "description": "……？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "basibatuo.fun",
+                "end": 23,
+                "expanded_url": "http://basibatuo.fun/",
+                "start": 0,
+                "url": "https://t.co/po9ukaW6p6"
+              }
+            ]
+          }
+        },
+        "id": "1942218528100134912",
+        "name": "basibatuo🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022914453998891008/mwmzVtyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 979,
+          "like_count": 3627,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 708
+        },
+        "url": "https://t.co/po9ukaW6p6",
+        "username": "youling_qaq",
+        "verified": true
+      }
+    ]
+  }
+}

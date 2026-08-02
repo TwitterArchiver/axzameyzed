@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2060306343479906347",
+    "created_at": "2026-05-30T02:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060550850628698202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1672761170040692739",
+          "start": 0,
+          "username": "FrankkkkkkLau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060550850628698202",
+    "in_reply_to_user_id": "1672761170040692739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060306343479906347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrankkkkkkLau 🤔点进去选择你要看的帖子语言，然后Next会让你Select your app language这个选一下中文"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1225,
+        "media_key": "3_2060306193491566594",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJetkSeaIAIBRYA.jpg",
+        "width": 2545
+      },
+      {
+        "height": 1230,
+        "media_key": "3_2060306241583468544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJetnFoaUAATZ_H.jpg",
+        "width": 2554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2060306343479906347",
+        "created_at": "2026-05-30T02:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060550850628698202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060550850628698202",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060306343479906347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 🤔点进去选择你要看的帖子语言，然后Next会让你Select your app language这个选一下中文"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060306193491566594",
+            "3_2060306241583468544"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2060306343479906347",
+        "created_at": "2026-05-29T10:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060306343479906347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFFlEAzl9w",
+              "end": 38,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2060306343479906347/photo/1",
+              "media_key": "3_2060306193491566594",
+              "start": 15,
+              "url": "https://t.co/eFFlEAzl9w"
+            },
+            {
+              "display_url": "pic.x.com/eFFlEAzl9w",
+              "end": 38,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2060306343479906347/photo/1",
+              "media_key": "3_2060306241583468544",
+              "start": 15,
+              "url": "https://t.co/eFFlEAzl9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060306343479906347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1223,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老大这到底是简中还是英文呀喵 https://t.co/eFFlEAzl9w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 166,
+          "like_count": 1392,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 804
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2058755542835925454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 222,
+          "like_count": 2633,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 623
+        },
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

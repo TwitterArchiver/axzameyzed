@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2053586598810513802",
+    "created_at": "2026-05-11T00:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053634178004996534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840810905833197568",
+          "start": 0,
+          "username": "xubai_01"
+        },
+        {
+          "end": 25,
+          "id": "2053286003323084800",
+          "start": 10,
+          "username": "flyingclairnet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053634178004996534",
+    "in_reply_to_user_id": "1840810905833197568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053586598810513802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@xubai_01 @flyingclairnet 666胆子这么大微信直接提某人大名"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053586595857719296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH_OIOmaYAAK_ob.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2053586598810513802",
+        "created_at": "2026-05-11T00:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053634178004996534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            },
+            {
+              "end": 25,
+              "id": "2053286003323084800",
+              "start": 10,
+              "username": "flyingclairnet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053634178004996534",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053586598810513802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@xubai_01 @flyingclairnet 666胆子这么大微信直接提某人大名"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053586595857719296"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2053586598810513802",
+        "created_at": "2026-05-10T21:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T22:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053586598810513802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZhW3OdS25",
+              "end": 28,
+              "expanded_url": "https://x.com/xubai_01/status/2053586598810513802/photo/1",
+              "media_key": "3_2053586595857719296",
+              "start": 5,
+              "url": "https://t.co/dZhW3OdS25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053586598810513802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "习近平。 https://t.co/dZhW3OdS25"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053364593209008263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 66,
+          "like_count": 124,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 39
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/小洋@xiaoyi969/@xubaimedia/:)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 81,
+                "username": "xuba1_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "yuji53719"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "xubaimedia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2009306456848494798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1797,
+          "following_count": 1257,
+          "like_count": 21876,
+          "listed_count": 0,
+          "media_count": 1064,
+          "tweet_count": 5341
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-10T01:29:50.000Z",
+        "description": "这里是桂圆｜10年xnh🌈/想吃袜袜🧦\n没过期男高 / 既是表推又是里推 / 求关注～\n平时喜欢..🎮瓦 / 🏸羽毛球 / 🥯烘焙\n\n*会发一些碎碎念和🔞涩图，无聊可以找我聊天，平常没事的时候还是有点小寂寞..",
+        "id": "2053286003323084800",
+        "location": "🩷ᴢʜ,ᴇɴ / 🏳️‍🌈𝟢.𝟧 / 🇺🇸ʟᴀ",
+        "name": "Clairmatt",
+        "pinned_tweet_id": "2053375279939321861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053287095461122048/8hwlbKv0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 7,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "username": "flyingclairnet",
+        "verified": false
+      }
+    ]
+  }
+}

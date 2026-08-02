@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055610663482146816",
+        "3_2055610663498833920"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2055613903108022565",
+    "created_at": "2026-05-16T11:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:25:50.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055610672017527061",
+      "2055613903108022565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fpeL1Y6Joj",
+          "end": 57,
+          "expanded_url": "https://x.com/axzameyzed/status/2055613903108022565/photo/1",
+          "media_key": "3_2055610663482146816",
+          "start": 34,
+          "url": "https://t.co/fpeL1Y6Joj"
+        },
+        {
+          "display_url": "pic.x.com/fpeL1Y6Joj",
+          "end": 57,
+          "expanded_url": "https://x.com/axzameyzed/status/2055613903108022565/photo/1",
+          "media_key": "3_2055610663498833920",
+          "start": 34,
+          "url": "https://t.co/fpeL1Y6Joj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055613903108022565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给自己中转充钱是不是有点神经（stripe还收了我两块七的手续费） https://t.co/fpeL1Y6Joj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2055610663482146816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIb_AeFbwAAhY8E.jpg",
+        "width": 750
+      },
+      {
+        "height": 757,
+        "media_key": "3_2055610663498833920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIb_AeJaYAA9O1O.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055610663482146816",
+            "3_2055610663498833920"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2055610672017527061",
+        "created_at": "2026-05-16T11:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:25:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055610672017527061",
+          "2055613903108022565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bsugnLe9f",
+              "end": 30,
+              "expanded_url": "https://x.com/axzameyzed/status/2055610672017527061/photo/1",
+              "media_key": "3_2055610663482146816",
+              "start": 7,
+              "url": "https://t.co/1bsugnLe9f"
+            },
+            {
+              "display_url": "pic.x.com/1bsugnLe9f",
+              "end": 30,
+              "expanded_url": "https://x.com/axzameyzed/status/2055610672017527061/photo/1",
+              "media_key": "3_2055610663498833920",
+              "start": 7,
+              "url": "https://t.co/1bsugnLe9f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055610672017527061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉有点神经 https://t.co/1bsugnLe9f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055610663482146816",
+            "3_2055610663498833920"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2055613903108022565",
+        "created_at": "2026-05-16T11:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:25:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055610672017527061",
+          "2055613903108022565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fpeL1Y6Joj",
+              "end": 57,
+              "expanded_url": "https://x.com/axzameyzed/status/2055613903108022565/photo/1",
+              "media_key": "3_2055610663482146816",
+              "start": 34,
+              "url": "https://t.co/fpeL1Y6Joj"
+            },
+            {
+              "display_url": "pic.x.com/fpeL1Y6Joj",
+              "end": 57,
+              "expanded_url": "https://x.com/axzameyzed/status/2055613903108022565/photo/1",
+              "media_key": "3_2055610663498833920",
+              "start": 34,
+              "url": "https://t.co/fpeL1Y6Joj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055613903108022565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给自己中转充钱是不是有点神经（stripe还收了我两块七的手续费） https://t.co/fpeL1Y6Joj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 116,
+          "like_count": 596,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 314
+        },
+        "username": "axzameyzed",
+        "verified": true
+      }
+    ]
+  }
+}

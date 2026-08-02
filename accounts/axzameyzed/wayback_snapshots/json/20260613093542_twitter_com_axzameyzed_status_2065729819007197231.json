@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2065729819007197231",
+    "created_at": "2026-06-13T09:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065729819007197231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "从为什么要查、怎么开单、何时抽血，到如何解读各项核心指标并排查异常，帮助你用数据驱动、安全推进用药",
+          "display_url": "blog.transcircle.org/posts/hrt-horm…",
+          "end": 75,
+          "expanded_url": "https://blog.transcircle.org/posts/hrt-hormone-blood-test-guide/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2065721145979240448/QnqhCvNy?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2065721145979240448/QnqhCvNy?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 52,
+          "status": 200,
+          "title": "医院性激素血检实操指南",
+          "unwound_url": "https://blog.transcircle.org/posts/hrt-hormone-blood-test-guide/",
+          "url": "https://t.co/q9Nq53fLM3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065729819007197231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "写了篇文章\n介绍了性激素血检相关的内容\n包括单子怎么开\n数据怎么看\n各种异常情况的分析\n欢迎大家阅读\n\nhttps://t.co/q9Nq53fLM3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2065729819007197231",
+        "created_at": "2026-06-13T09:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065729819007197231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "从为什么要查、怎么开单、何时抽血，到如何解读各项核心指标并排查异常，帮助你用数据驱动、安全推进用药",
+              "display_url": "blog.transcircle.org/posts/hrt-horm…",
+              "end": 75,
+              "expanded_url": "https://blog.transcircle.org/posts/hrt-hormone-blood-test-guide/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2065721145979240448/QnqhCvNy?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2065721145979240448/QnqhCvNy?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "医院性激素血检实操指南",
+              "unwound_url": "https://blog.transcircle.org/posts/hrt-hormone-blood-test-guide/",
+              "url": "https://t.co/q9Nq53fLM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065729819007197231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "写了篇文章\n介绍了性激素血检相关的内容\n包括单子怎么开\n数据怎么看\n各种异常情况的分析\n欢迎大家阅读\n\nhttps://t.co/q9Nq53fLM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 206,
+          "like_count": 2545,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1248
+        },
+        "username": "axzameyzed",
+        "verified": true
+      }
+    ]
+  }
+}

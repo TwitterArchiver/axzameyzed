@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059878051572563968"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2059872229110976685",
+    "created_at": "2026-05-28T06:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059878061164970091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882873467340832768",
+          "start": 0,
+          "username": "1896dddd71391"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JwKjsX43NX",
+          "end": 144,
+          "expanded_url": "https://x.com/axzameyzed/status/2059878061164970091/photo/1",
+          "media_key": "3_2059878051572563968",
+          "start": 121,
+          "url": "https://t.co/JwKjsX43NX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059878061164970091",
+    "in_reply_to_user_id": "1882873467340832768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059876624452169776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1896dddd71391 实际上cpa完全清除需要约14天，但有效时间段大概是两个半衰期，上一次大概吃了4mg两天前，雌低我到现在都没搞明白是为什么，暂时理解为是含服降得快吧，再观察观察（唉三项就是便宜，原来查一次的钱现在可以查两次😋） https://t.co/JwKjsX43NX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 741,
+        "media_key": "3_2059878051572563968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYoLJibQAA-kL9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059878051572563968"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2059872229110976685",
+        "created_at": "2026-05-28T06:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059878061164970091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882873467340832768",
+              "start": 0,
+              "username": "1896dddd71391"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JwKjsX43NX",
+              "end": 144,
+              "expanded_url": "https://x.com/axzameyzed/status/2059878061164970091/photo/1",
+              "media_key": "3_2059878051572563968",
+              "start": 121,
+              "url": "https://t.co/JwKjsX43NX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059878061164970091",
+        "in_reply_to_user_id": "1882873467340832768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059876624452169776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1896dddd71391 实际上cpa完全清除需要约14天，但有效时间段大概是两个半衰期，上一次大概吃了4mg两天前，雌低我到现在都没搞明白是为什么，暂时理解为是含服降得快吧，再观察观察（唉三项就是便宜，原来查一次的钱现在可以查两次😋） https://t.co/JwKjsX43NX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882873467340832768",
+        "conversation_id": "2059872229110976685",
+        "created_at": "2026-05-28T05:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059876624452169776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059876624452169776",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059872229110976685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed cpa药效有2-3天，睾酮抑制后没停药，恢复程度可能较弱。但雌还是有点低。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 149,
+          "like_count": 1271,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 716
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T19:30:04.000Z",
+        "description": "",
+        "id": "1882873467340832768",
+        "name": "1896dddd",
+        "pinned_tweet_id": "2046546814661546264",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 64,
+          "like_count": 2778,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 766
+        },
+        "username": "1896dddd71391",
+        "verified": false
+      }
+    ]
+  }
+}

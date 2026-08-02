@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2063457816569082263",
+    "created_at": "2026-06-07T05:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063495628525801621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2049829253559328768",
+          "start": 0,
+          "username": "CarterLiam30919"
+        },
+        {
+          "end": 24,
+          "id": "2063266311254552576",
+          "start": 17,
+          "username": "17nuun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/axzameyzed/sta…",
+          "end": 48,
+          "expanded_url": "https://x.com/axzameyzed/status/2063430432126058692?s=46",
+          "start": 25,
+          "url": "https://t.co/2SH4mp4ck9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063495628525801621",
+    "in_reply_to_user_id": "2049829253559328768",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063430432126058692",
+        "type": "quoted"
+      },
+      {
+        "id": "2063482857549627409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarterLiam30919 @17nuun https://t.co/2SH4mp4ck9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 203,
+        "media_key": "3_2063429503855251456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLGM4RaUAAVqbf.jpg",
+        "width": 510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2063457816569082263",
+        "created_at": "2026-06-07T05:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063495628525801621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2049829253559328768",
+              "start": 0,
+              "username": "CarterLiam30919"
+            },
+            {
+              "end": 24,
+              "id": "2063266311254552576",
+              "start": 17,
+              "username": "17nuun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/axzameyzed/sta…",
+              "end": 48,
+              "expanded_url": "https://x.com/axzameyzed/status/2063430432126058692?s=46",
+              "start": 25,
+              "url": "https://t.co/2SH4mp4ck9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063495628525801621",
+        "in_reply_to_user_id": "2049829253559328768",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063430432126058692",
+            "type": "quoted"
+          },
+          {
+            "id": "2063482857549627409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarterLiam30919 @17nuun https://t.co/2SH4mp4ck9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063429503855251456"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2063430432126058692",
+        "created_at": "2026-06-07T01:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:15:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063429511010824439",
+          "2063430432126058692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g92sRV0iH1",
+              "end": 32,
+              "expanded_url": "https://x.com/axzameyzed/status/2063430432126058692/photo/1",
+              "media_key": "3_2063429503855251456",
+              "start": 9,
+              "url": "https://t.co/g92sRV0iH1"
+            },
+            {
+              "display_url": "x.com/17nuun/status/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/17nuun/status/2063347975875875104",
+              "start": 33,
+              "url": "https://t.co/YKwlD5HeWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063430432126058692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063347975875875104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "…啧，怎么评价呢 https://t.co/g92sRV0iH1 https://t.co/YKwlD5HeWn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049829253559328768",
+        "conversation_id": "2063457816569082263",
+        "created_at": "2026-06-07T04:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063482857549627409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063482857549627409",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063457816569082263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 有人说这个是AI，谁能告诉我到底是怎么回事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 203,
+          "like_count": 2011,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1086
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-30T12:33:47.000Z",
+        "description": "09社恐男",
+        "id": "2049829253559328768",
+        "name": "Carter Liam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050594051825799168/oXVhNnZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "CarterLiam30919",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 17,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "17nuun",
+        "verified": false
+      }
+    ]
+  }
+}

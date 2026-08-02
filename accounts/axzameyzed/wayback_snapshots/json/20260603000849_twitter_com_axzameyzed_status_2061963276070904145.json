@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2061886788273385779",
+    "created_at": "2026-06-03T00:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T01:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061963276070904145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840810905833197568",
+          "start": 0,
+          "username": "xubai_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061963276070904145",
+    "in_reply_to_user_id": "1840810905833197568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061886788273385779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xubai_01 新加坡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061886778731372544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ1LGdVboAA6C6d.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2061886788273385779",
+        "created_at": "2026-06-03T00:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061963276070904145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840810905833197568",
+              "start": 0,
+              "username": "xubai_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061963276070904145",
+        "in_reply_to_user_id": "1840810905833197568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061886788273385779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xubai_01 新加坡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061886778731372544"
+          ]
+        },
+        "author_id": "1840810905833197568",
+        "conversation_id": "2061886788273385779",
+        "created_at": "2026-06-02T19:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061886788273385779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X6gqL6TOJm",
+              "end": 59,
+              "expanded_url": "https://x.com/xubai_01/status/2061886788273385779/photo/1",
+              "media_key": "3_2061886778731372544",
+              "start": 36,
+              "url": "https://t.co/X6gqL6TOJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061886788273385779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直很好奇啊 Claude这个屁股支持普通话 那为什么还封中国用户呢 https://t.co/X6gqL6TOJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 173,
+          "like_count": 1598,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 907
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-30T17:48:26.000Z",
+        "description": "HBD🎂Dec/13/2010💛😋\n舞萌痴/Minecraft/排球🏐/羽毛球🏸/🏳️‍🌈泛\n爱说梦话/想交朋友。👀｜🏫MKHS\n欢迎随时联系/发疯乱叫是常态\n\n白@xuba1_/鲤鱼@yuji53719/洋洋@xiaoyi969/@xubaimedia/@QWQINC/:)\n\n没回蓝/黄fo是上限了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "xuba1_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "yuji53719"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xiaoyi969"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "xubaimedia"
+              },
+              {
+                "end": 135,
+                "start": 128,
+                "username": "QWQINC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/bai",
+                "end": 23,
+                "expanded_url": "http://bonjour.bio/bai",
+                "start": 0,
+                "url": "https://t.co/1oWYOoUgy4"
+              }
+            ]
+          }
+        },
+        "id": "1840810905833197568",
+        "location": "ZH,EN / local:11451💚 / 🇺🇸LA",
+        "name": "许白",
+        "pinned_tweet_id": "2060623041269522688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970537373479178240/o3VFsWsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1956,
+          "following_count": 1447,
+          "like_count": 23561,
+          "listed_count": 2,
+          "media_count": 1154,
+          "tweet_count": 6037
+        },
+        "url": "https://t.co/1oWYOoUgy4",
+        "username": "xubai_01",
+        "verified": true
+      }
+    ]
+  }
+}

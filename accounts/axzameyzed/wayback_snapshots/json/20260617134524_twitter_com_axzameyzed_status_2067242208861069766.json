@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2067240061595504953",
+    "created_at": "2026-06-17T13:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067242208861069766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2028802782019596288",
+          "start": 0,
+          "username": "ciallowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067242208861069766",
+    "in_reply_to_user_id": "2028802782019596288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067240061595504953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciallowo 都是神人（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2067240061595504953",
+        "created_at": "2026-06-17T13:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067242208861069766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2028802782019596288",
+              "start": 0,
+              "username": "ciallowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067242208861069766",
+        "in_reply_to_user_id": "2028802782019596288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067240061595504953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciallowo 都是神人（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028802782019596288",
+        "conversation_id": "2067240061595504953",
+        "created_at": "2026-06-17T13:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067240061595504953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LoveMikuBX/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/LoveMikuBX/status/2067097642237387056",
+              "start": 23,
+              "url": "https://t.co/kDEQ6B9RLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067240061595504953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067097642237387056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家好我是小霧，剛來推特，這裡都是什麼人呀😃 https://t.co/kDEQ6B9RLF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 208,
+          "like_count": 2849,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1339
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-03T12:01:07.000Z",
+        "description": "哈囉哈囉，這裡是小霧喵。很高興認識你喵～希望能帶給你更多快樂一點… \n| 11後 | 165 51 | ISFP | 國/初二 | 泛性戀？ | 友跨喵 | 咱不是跨… | 不割手手/od | 嘴笨笨滴 | zh-cn/zh-tw/en | 成分/私信回 | 故鄉台灣 | 現居大陸 | Nonpartisan&不鍵政…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Ryousuke05",
+                "end": 23,
+                "expanded_url": "http://github.com/Ryousuke05",
+                "start": 0,
+                "url": "https://t.co/ZkWmHQpNQa"
+              }
+            ]
+          }
+        },
+        "id": "2028802782019596288",
+        "location": "距離地球99兆米",
+        "name": "小霧喵～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058500600917295104/iRL6lP95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 350,
+          "like_count": 753,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/ZkWmHQpNQa",
+        "username": "ciallowo",
+        "verified": true
+      }
+    ]
+  }
+}

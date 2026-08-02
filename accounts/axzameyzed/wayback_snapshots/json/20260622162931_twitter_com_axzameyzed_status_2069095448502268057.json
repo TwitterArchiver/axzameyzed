@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      }
+    ],
+    "conversation_id": "2069093670784266705",
+    "created_at": "2026-06-22T16:29:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069095448502268057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008812080099672064",
+          "start": 0,
+          "username": "Xiaoyi_0324"
+        },
+        {
+          "end": 23,
+          "id": "74286565",
+          "start": 13,
+          "username": "Microsoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069095448502268057",
+    "in_reply_to_user_id": "2008812080099672064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069093670784266705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Xiaoyi_0324 @Microsoft 我点进来就是为了看那个ALT的"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "占满大半个屏幕的雷霆开始菜单 本来地方就不多 还非要塞一个手机连接进去 分类也不给我做好喽 就分三个类啥意思 微软我就***啊",
+        "height": 1080,
+        "media_key": "3_2069093652555821059",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbltuea8AMXe2u.jpg",
+        "width": 1920
+      },
+      {
+        "alt_text": "卸载了两个更新 还原了一下还原点就这样了 微软 你 m 死 了😂😂😂",
+        "height": 1536,
+        "media_key": "3_2069093652555857920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbltuebgAACFtC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          }
+        ],
+        "conversation_id": "2069093670784266705",
+        "created_at": "2026-06-22T16:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069095448502268057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            },
+            {
+              "end": 23,
+              "id": "74286565",
+              "start": 13,
+              "username": "Microsoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069095448502268057",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069093670784266705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 @Microsoft 我点进来就是为了看那个ALT的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069093652555821059",
+            "3_2069093652555857920"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          }
+        ],
+        "conversation_id": "2069093670784266705",
+        "created_at": "2026-06-22T16:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069093670784266705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 113,
+              "id": "74286565",
+              "start": 103,
+              "username": "Microsoft"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mKDdvMKSy",
+              "end": 185,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2069093670784266705/photo/1",
+              "media_key": "3_2069093652555821059",
+              "start": 162,
+              "url": "https://t.co/9mKDdvMKSy"
+            },
+            {
+              "display_url": "pic.x.com/9mKDdvMKSy",
+              "end": 185,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2069093670784266705/photo/1",
+              "media_key": "3_2069093652555857920",
+              "start": 162,
+              "url": "https://t.co/9mKDdvMKSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069093670784266705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "更新系统给我更新好的啊 给我开始菜单换成这个雷霆样子不说 还给我电脑干坏了 最后还是自动修复神力才做好的\nFuck Microsoft！Fix the bug in your system, please @Microsoft Please turn off the auto-update feature, thanks https://t.co/9mKDdvMKSy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 209,
+          "like_count": 3223,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1440
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|我们的项目:@TransCircleOrg|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 134,
+                "start": 119,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 362,
+          "like_count": 1736,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 2536
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2009-09-14T22:35:42.000Z",
+        "description": "We're on a mission to empower every person and every organization on the planet to achieve more. Support: @MicrosoftHelps",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "MicrosoftHelps"
+              }
+            ]
+          }
+        },
+        "id": "74286565",
+        "location": "Redmond, WA",
+        "name": "Microsoft",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917930887674531840/MRgAH1cv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13091482,
+          "following_count": 1477,
+          "like_count": 13864,
+          "listed_count": 27091,
+          "media_count": 3334,
+          "tweet_count": 31163
+        },
+        "url": "",
+        "username": "Microsoft",
+        "verified": true
+      }
+    ]
+  }
+}

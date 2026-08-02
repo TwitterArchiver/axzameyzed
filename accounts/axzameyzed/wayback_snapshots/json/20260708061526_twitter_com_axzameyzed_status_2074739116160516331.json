@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074739102675861504"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2074708999380095202",
+    "created_at": "2026-07-08T06:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074739116160516331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochic_Xyn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RPPcwJQKRG",
+          "end": 38,
+          "expanded_url": "https://x.com/axzameyzed/status/2074739116160516331/photo/1",
+          "media_key": "3_2074739102675861504",
+          "start": 15,
+          "url": "https://t.co/RPPcwJQKRG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074739116160516331",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074738915282710825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochic_Xyn https://t.co/RPPcwJQKRG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2074739102675861504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMr0OLCbgAAJJRo.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074739102675861504"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2074708999380095202",
+        "created_at": "2026-07-08T06:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074739116160516331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochic_Xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RPPcwJQKRG",
+              "end": 38,
+              "expanded_url": "https://x.com/axzameyzed/status/2074739116160516331/photo/1",
+              "media_key": "3_2074739102675861504",
+              "start": 15,
+              "url": "https://t.co/RPPcwJQKRG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074739116160516331",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074738915282710825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochic_Xyn https://t.co/RPPcwJQKRG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033160782687731712",
+        "conversation_id": "2074708999380095202",
+        "created_at": "2026-07-08T06:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074738915282710825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074738915282710825",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074736917762257312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 214,
+          "like_count": 4037,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 1649
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友跨顺男@Whatasiger｜友男跨顺@WhitesugarC｜友情链接:https://t.co/iIABjp0PAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Whatasiger"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "WhitesugarC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 150,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 127,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3857,
+          "following_count": 2022,
+          "like_count": 7740,
+          "listed_count": 6,
+          "media_count": 886,
+          "tweet_count": 6040
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

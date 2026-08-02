@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2056611055132905572",
+    "created_at": "2026-05-19T05:52:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T06:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056614059789910308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056614059789910308",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056611055132905572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka 在郑州二七纪念塔附近也是如此，甚至他们不是连着的，找错了还要跑好远（（（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2056425972962865152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInkhulWsAAnmJM.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2056611055132905572",
+        "created_at": "2026-05-19T05:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056614059789910308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056614059789910308",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056611055132905572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 在郑州二七纪念塔附近也是如此，甚至他们不是连着的，找错了还要跑好远（（（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056425972962865152"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2056611055132905572",
+        "created_at": "2026-05-19T05:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056611055132905572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kNnB6DrzoN",
+              "end": 41,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2056611055132905572/photo/1",
+              "media_key": "3_2056425972962865152",
+              "start": 18,
+              "url": "https://t.co/kNnB6DrzoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056611055132905572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "外卖员：哪一家哪一家，这家店是你吗 https://t.co/kNnB6DrzoN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 131,
+          "like_count": 705,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 368
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8549,
+          "following_count": 2212,
+          "like_count": 30123,
+          "listed_count": 24,
+          "media_count": 1503,
+          "tweet_count": 5300
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

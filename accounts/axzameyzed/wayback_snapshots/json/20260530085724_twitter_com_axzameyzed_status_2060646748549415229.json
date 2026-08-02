@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2060634919492280320",
+    "created_at": "2026-05-30T08:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060646748549415229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060050991370891265",
+          "start": 0,
+          "username": "XYNshioochi"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You can check if your X account is shadowbanned and if your latest 20 posts are hidden.",
+          "display_url": "x-shadowban-checker.fia-s.com",
+          "end": 54,
+          "expanded_url": "https://x-shadowban-checker.fia-s.com/",
+          "images": [
+            {
+              "height": 578,
+              "url": "https://pbs.twimg.com/news_img/2059294319610310656/PfwhLG9G?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2059294319610310656/PfwhLG9G?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 31,
+          "status": 200,
+          "title": "Shadowban Checker F",
+          "unwound_url": "https://x-shadowban-checker.fia-s.com/",
+          "url": "https://t.co/SBhOzytd8d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060646748549415229",
+    "in_reply_to_user_id": "2060050991370891265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060646328120885352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XYNshioochi 😨可以试试这个，还有推文问题检测\n\nhttps://t.co/SBhOzytd8d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060646319321141248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJji6N7aUAAZUjX.jpg",
+        "width": 1060
+      },
+      {
+        "height": 1376,
+        "media_key": "3_2060646319614840832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJji6PBb0AA_mc5.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2060634919492280320",
+        "created_at": "2026-05-30T08:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060646748549415229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060050991370891265",
+              "start": 0,
+              "username": "XYNshioochi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can check if your X account is shadowbanned and if your latest 20 posts are hidden.",
+              "display_url": "x-shadowban-checker.fia-s.com",
+              "end": 54,
+              "expanded_url": "https://x-shadowban-checker.fia-s.com/",
+              "images": [
+                {
+                  "height": 578,
+                  "url": "https://pbs.twimg.com/news_img/2059294319610310656/PfwhLG9G?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059294319610310656/PfwhLG9G?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "Shadowban Checker F",
+              "unwound_url": "https://x-shadowban-checker.fia-s.com/",
+              "url": "https://t.co/SBhOzytd8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060646748549415229",
+        "in_reply_to_user_id": "2060050991370891265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060646328120885352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XYNshioochi 😨可以试试这个，还有推文问题检测\n\nhttps://t.co/SBhOzytd8d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060646319321141248",
+            "3_2060646319614840832"
+          ]
+        },
+        "author_id": "2060050991370891265",
+        "conversation_id": "2060634919492280320",
+        "created_at": "2026-05-30T08:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060646328120885352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jti4xBsqEm",
+              "end": 42,
+              "expanded_url": "https://x.com/XYNshioochi/status/2060646328120885352/photo/1",
+              "media_key": "3_2060646319321141248",
+              "start": 19,
+              "url": "https://t.co/Jti4xBsqEm"
+            },
+            {
+              "display_url": "pic.x.com/Jti4xBsqEm",
+              "end": 42,
+              "expanded_url": "https://x.com/XYNshioochi/status/2060646328120885352/photo/1",
+              "media_key": "3_2060646319614840832",
+              "start": 19,
+              "url": "https://t.co/Jti4xBsqEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060646328120885352",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060640568817095116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 现在是真的了 https://t.co/Jti4xBsqEm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 166,
+          "like_count": 1439,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 835
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-28T17:32:35.000Z",
+        "description": "09｜小证含糖半家长党｜小证260117｜hrt250720🍥｜你们觉得我这次能活吗",
+        "id": "2060050991370891265",
+        "name": "汐落",
+        "pinned_tweet_id": "2060223149778817434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 164,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 91
+        },
+        "username": "XYNshioochi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2057083933691682872",
+    "created_at": "2026-05-20T13:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057095017672610168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1465701247021838341",
+          "start": 0,
+          "username": "show5560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057095017672610168",
+    "in_reply_to_user_id": "1465701247021838341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057083933691682872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@show5560 够了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 947,
+        "media_key": "3_2056800729059491840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIs5XZ1bAAAe_yn.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2057083933691682872",
+        "created_at": "2026-05-20T13:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057095017672610168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057095017672610168",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057083933691682872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 够了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056800729059491840"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2057083933691682872",
+        "created_at": "2026-05-20T13:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057083933691682872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Y7DwNuNVi",
+              "end": 29,
+              "expanded_url": "https://x.com/show5560/status/2057083933691682872/photo/1",
+              "media_key": "3_2056800729059491840",
+              "start": 6,
+              "url": "https://t.co/4Y7DwNuNVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057083933691682872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来，你也 https://t.co/4Y7DwNuNVi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 134,
+          "like_count": 782,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 409
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "---努力的还债中.jpg /162cm/58kg 减肥中.jpg/小号 @muaGureowo /目前可能正在往错误方向走/ 蓝v关注必回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "muaGureowo"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3953,
+          "following_count": 1694,
+          "like_count": 27652,
+          "listed_count": 7,
+          "media_count": 1039,
+          "tweet_count": 7150
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

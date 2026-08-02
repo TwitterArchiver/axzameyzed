@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2082808001396969602",
+    "created_at": "2026-07-30T13:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082815468260425845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1781510736000274432",
+          "start": 0,
+          "username": "huantim7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082815468260425845",
+    "in_reply_to_user_id": "1781510736000274432",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082808001396969602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huantim7 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2082807990642765824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOee1RGbcAAnc78.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2082808001396969602",
+        "created_at": "2026-07-30T13:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082815468260425845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1781510736000274432",
+              "start": 0,
+              "username": "huantim7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082815468260425845",
+        "in_reply_to_user_id": "1781510736000274432",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082808001396969602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huantim7 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082807990642765824"
+          ]
+        },
+        "author_id": "1781510736000274432",
+        "conversation_id": "2082808001396969602",
+        "created_at": "2026-07-30T12:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082808001396969602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JmCgFxTTzS",
+              "end": 36,
+              "expanded_url": "https://x.com/huantim7/status/2082808001396969602/photo/1",
+              "media_key": "3_2082807990642765824",
+              "start": 13,
+              "url": "https://t.co/JmCgFxTTzS"
+            },
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2046149683375157323",
+              "start": 37,
+              "url": "https://t.co/M2aZcZ694m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082808001396969602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046149683375157323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "试了，为什么不回复我啊😭 https://t.co/JmCgFxTTzS https://t.co/M2aZcZ694m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 225,
+          "like_count": 4795,
+          "listed_count": 2,
+          "media_count": 264,
+          "tweet_count": 1928
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某准高二mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyn.mom",
+                "end": 23,
+                "expanded_url": "http://xyn.mom",
+                "start": 0,
+                "url": "https://t.co/Mb8EU8fZzi"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮紗",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072659917027299328/L5Yl2wZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 795,
+          "like_count": 101713,
+          "listed_count": 1,
+          "media_count": 544,
+          "tweet_count": 6515
+        },
+        "url": "https://t.co/Mb8EU8fZzi",
+        "username": "huantim7",
+        "verified": false
+      }
+    ]
+  }
+}

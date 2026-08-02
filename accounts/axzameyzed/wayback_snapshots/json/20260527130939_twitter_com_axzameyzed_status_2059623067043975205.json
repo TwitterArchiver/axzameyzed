@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2059554882986860956",
+    "created_at": "2026-05-27T13:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059623067043975205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1609034543079784448",
+          "start": 0,
+          "username": "LosWest8848"
+        },
+        {
+          "end": 24,
+          "id": "2054877291633909760",
+          "start": 13,
+          "username": "TransYuwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059623067043975205",
+    "in_reply_to_user_id": "1609034543079784448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059620516110172281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LosWest8848 @TransYuwen 我不好评价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2059554882986860956",
+        "created_at": "2026-05-27T13:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059623067043975205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1609034543079784448",
+              "start": 0,
+              "username": "LosWest8848"
+            },
+            {
+              "end": 24,
+              "id": "2054877291633909760",
+              "start": 13,
+              "username": "TransYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059623067043975205",
+        "in_reply_to_user_id": "1609034543079784448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059620516110172281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LosWest8848 @TransYuwen 我不好评价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609034543079784448",
+        "conversation_id": "2059554882986860956",
+        "created_at": "2026-05-27T12:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059620516110172281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 23,
+              "id": "2054877291633909760",
+              "start": 12,
+              "username": "TransYuwen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/loswest8848/st…",
+              "end": 47,
+              "expanded_url": "https://x.com/loswest8848/status/2059610395149783313?s=46",
+              "start": 24,
+              "url": "https://t.co/sbXp5f0Pbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059620516110172281",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059610395149783313",
+            "type": "quoted"
+          },
+          {
+            "id": "2059554882986860956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed @TransYuwen https://t.co/sbXp5f0Pbx\n我也一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 148,
+          "like_count": 1222,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 676
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-31T03:51:56.000Z",
+        "description": "“洛”亦不绝，让无力者有力，让悲观者前行\n泛民深黄，自媒体人，仅做新闻评价。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@LosWest",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@LosWest",
+                "start": 0,
+                "url": "https://t.co/EGVg6Q2g16"
+              }
+            ]
+          }
+        },
+        "id": "1609034543079784448",
+        "location": "HONG KONG",
+        "name": "洛西LosWest",
+        "pinned_tweet_id": "2005617084181721595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058568327480672256/oOQPQadD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 345,
+          "like_count": 2636,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 480
+        },
+        "url": "https://t.co/EGVg6Q2g16",
+        "username": "LosWest8848",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | 174厘米 | 75公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 爱人：@shaoxiancao1314 | She/Her | 鉴跨专家 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 113,
+                "username": "shaoxiancao1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NOMTF.COM",
+                "end": 23,
+                "expanded_url": "http://NOMTF.COM",
+                "start": 0,
+                "url": "https://t.co/2tRpR1PlKO"
+              }
+            ]
+          }
+        },
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2059156604088643849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 42,
+          "like_count": 243,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/2tRpR1PlKO",
+        "username": "TransYuwen",
+        "verified": true
+      }
+    ]
+  }
+}

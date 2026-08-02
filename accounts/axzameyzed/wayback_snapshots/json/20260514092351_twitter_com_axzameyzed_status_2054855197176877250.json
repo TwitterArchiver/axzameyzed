@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2052861275986919461",
+    "created_at": "2026-05-14T09:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054855197176877250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1954966290424111104",
+          "start": 0,
+          "username": "zemumiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054855197176877250",
+    "in_reply_to_user_id": "1954966290424111104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052861275986919461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zemumiao 自制pgb是什么鬼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2052861239680970752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH06a8RaMAA5TS4.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2303,
+        "media_key": "3_2052861250187804672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH06bjabwAANSVq.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2052861275986919461",
+        "created_at": "2026-05-14T09:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054855197176877250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954966290424111104",
+              "start": 0,
+              "username": "zemumiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054855197176877250",
+        "in_reply_to_user_id": "1954966290424111104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052861275986919461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zemumiao 自制pgb是什么鬼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052861239680970752",
+            "3_2052861250187804672"
+          ]
+        },
+        "author_id": "1954966290424111104",
+        "conversation_id": "2052861275986919461",
+        "created_at": "2026-05-08T21:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T22:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052861275986919461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pLwAg3qK3",
+              "end": 52,
+              "expanded_url": "https://x.com/zemumiao/status/2052861275986919461/photo/1",
+              "media_key": "3_2052861239680970752",
+              "start": 29,
+              "url": "https://t.co/0pLwAg3qK3"
+            },
+            {
+              "display_url": "pic.x.com/0pLwAg3qK3",
+              "end": 52,
+              "expanded_url": "https://x.com/zemumiao/status/2052861275986919461/photo/1",
+              "media_key": "3_2052861250187804672",
+              "start": 29,
+              "url": "https://t.co/0pLwAg3qK3"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2052861275986919461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 619,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "需要自制pr和糖的欢迎私信询价，联系不上加tg，跟x同号 https://t.co/0pLwAg3qK3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 108,
+          "like_count": 421,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 211
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-11T18:01:09.000Z",
+        "description": "26.3.2无证含糖🍥/本人极度缺爱/\n同互fo/超级爱各位宝宝❤️❤️❤️(˵¯͒〰¯͒˵)需要了解🍥的宝子可以墙内私聊（qq：3776026092）",
+        "id": "1954966290424111104",
+        "name": "泽木🍥喵~(糖商)",
+        "pinned_tweet_id": "2051558883114864892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040836964291952641/EQgFvA9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 255,
+          "like_count": 238,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 84
+        },
+        "username": "zemumiao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2060270780844503133",
+    "created_at": "2026-05-29T09:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060296531639775673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027354397983076352",
+          "start": 0,
+          "username": "Alamida001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060296531639775673",
+    "in_reply_to_user_id": "2027354397983076352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060270780844503133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alamida001 郑州实验一中在哪没听说过🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2060270780844503133",
+        "created_at": "2026-05-29T09:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060296531639775673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027354397983076352",
+              "start": 0,
+              "username": "Alamida001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060296531639775673",
+        "in_reply_to_user_id": "2027354397983076352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060270780844503133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alamida001 郑州实验一中在哪没听说过🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027354397983076352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2060270780844503133",
+        "created_at": "2026-05-29T08:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060270780844503133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060270780844503133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 682,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墙墙好我在郑州实验一中是清北班，基本上985锁定的，毕业之后都是社会上层精英，平时学习之余喜欢听河南说唱之神看刘慈欣三体，自认为小帅（网上不发照片可以线下见面），数理化比较好以后打算进中科院，不会做的导数题可以问我，想找一个三观正常喜欢二次元的女孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 163,
+          "like_count": 1365,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 772
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-27T12:05:41.000Z",
+        "description": "he/him | bisexual | 176/62 | 前浪区（现在基本不键了）|\n纯1正太控，爱好是cos小男孩和上班摸鱼 |\n眼熟的会回fo，直fo的都是好人喵 | 里推@A1am1daOOI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "A1am1daOOI"
+              }
+            ]
+          }
+        },
+        "id": "2027354397983076352",
+        "name": "不完全果皮🌈（已有闺le厌男沈星回梦女）",
+        "pinned_tweet_id": "2054753609901027491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055557128040157184/L7BEb0aI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 247,
+          "like_count": 1760,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 2240
+        },
+        "username": "Alamida001",
+        "verified": false
+      }
+    ]
+  }
+}

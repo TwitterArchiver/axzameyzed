@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2060654454547095746",
+    "created_at": "2026-05-31T01:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T02:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060896108084338954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1444641487820496898",
+          "start": 0,
+          "username": "123phoneni"
+        },
+        {
+          "end": 25,
+          "id": "2012914101987762177",
+          "start": 12,
+          "username": "TeamTransmtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060896108084338954",
+    "in_reply_to_user_id": "1444641487820496898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060828150372999334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123phoneni @TeamTransmtf mtx是一个不确定倾向，每个人的目标都不一致\n你想压雄压到多少？你又想让E2水平到多少？这很重要\n不过仅就现在你描述的情况下最好选择的CPA而非BICA作为抗雄，这是因为BICA会导致多余睾酮通过芳香酶转化为雌二醇，并缓慢诱导乳房发育，进而造成炸柜风险"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2060654454547095746",
+        "created_at": "2026-05-31T01:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060896108084338954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1444641487820496898",
+              "start": 0,
+              "username": "123phoneni"
+            },
+            {
+              "end": 25,
+              "id": "2012914101987762177",
+              "start": 12,
+              "username": "TeamTransmtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060896108084338954",
+        "in_reply_to_user_id": "1444641487820496898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060828150372999334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123phoneni @TeamTransmtf mtx是一个不确定倾向，每个人的目标都不一致\n你想压雄压到多少？你又想让E2水平到多少？这很重要\n不过仅就现在你描述的情况下最好选择的CPA而非BICA作为抗雄，这是因为BICA会导致多余睾酮通过芳香酶转化为雌二醇，并缓慢诱导乳房发育，进而造成炸柜风险"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444641487820496898",
+        "conversation_id": "2060654454547095746",
+        "created_at": "2026-05-30T20:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T21:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060828150372999334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012914101987762177",
+              "start": 0,
+              "username": "TeamTransmtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060828150372999334",
+        "in_reply_to_user_id": "2012914101987762177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060654454547095746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeamTransmtf mtx表示想压雄，又不想让乳房发育怕炸柜怎么办😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 169,
+          "like_count": 1472,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 849
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-03T12:33:41.000Z",
+        "description": "",
+        "id": "1444641487820496898",
+        "name": "phoneni",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 284,
+          "like_count": 1269,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 181
+        },
+        "username": "123phoneni",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号\n进行mtf/mtx的hrt相关研究\n我们的团队成员有两人\n分别是 @axzameyzed 和 @EleanorAnatidae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR2ygV"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "pinned_tweet_id": "2044611481392525523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 14,
+          "like_count": 937,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/MDakkR2ygV",
+        "username": "TeamTransmtf",
+        "verified": true
+      }
+    ]
+  }
+}

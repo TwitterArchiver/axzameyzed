@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2072168607027704297",
+    "created_at": "2026-07-01T06:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072208241128583403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893308678545252354",
+          "start": 0,
+          "username": "chime_mina"
+        },
+        {
+          "end": 24,
+          "id": "1806849464386416640",
+          "start": 12,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072208241128583403",
+    "in_reply_to_user_id": "1893308678545252354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072168926658826501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chime_mina @tangeorange 这是初中毕业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2072168607027704297",
+        "created_at": "2026-07-01T06:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072208241128583403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893308678545252354",
+              "start": 0,
+              "username": "chime_mina"
+            },
+            {
+              "end": 24,
+              "id": "1806849464386416640",
+              "start": 12,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072208241128583403",
+        "in_reply_to_user_id": "1893308678545252354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072168926658826501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chime_mina @tangeorange 这是初中毕业"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893308678545252354",
+        "conversation_id": "2072168607027704297",
+        "created_at": "2026-07-01T04:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072168926658826501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806849464386416640",
+              "start": 0,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072168926658826501",
+        "in_reply_to_user_id": "1806849464386416640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072168607027704297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangeorange 准备去哪读大学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 214,
+          "like_count": 3716,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1559
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T14:35:50.000Z",
+        "description": "",
+        "id": "1893308678545252354",
+        "name": "Minamoto Chime",
+        "pinned_tweet_id": "1912536009423876263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908846654431924224/Wmut7Qx4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 166,
+          "like_count": 1032,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 824
+        },
+        "url": "",
+        "username": "chime_mina",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "胡乱发言警告！⚠\n15 岁\ni have no bff yet |\nbuilding something fun\n喜欢编程，AI/ML，DIY，meme，写文章，做游戏，做产品，最近在折腾加密货币。(但是日常帖子居多)| \n微信 orgudev 🚧35\n闺蜜 @maoxianact @kxk1388574",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "maoxianact"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "kxk1388574"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子🫪",
+        "pinned_tweet_id": "2065426474606481620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064054650006020096/YsducvYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3270,
+          "following_count": 2888,
+          "like_count": 9100,
+          "listed_count": 6,
+          "media_count": 1374,
+          "tweet_count": 9005
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

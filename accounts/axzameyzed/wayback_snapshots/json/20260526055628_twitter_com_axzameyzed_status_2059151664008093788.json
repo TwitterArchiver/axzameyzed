@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2059149412723781849",
+    "created_at": "2026-05-26T05:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059151664008093788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806849464386416640",
+          "start": 0,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059151664008093788",
+    "in_reply_to_user_id": "1806849464386416640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059149412723781849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangeorange 那是你自己不会玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2059149261804347392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJORWAFbIAAOltJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2059149412723781849",
+        "created_at": "2026-05-26T05:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059151664008093788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806849464386416640",
+              "start": 0,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059151664008093788",
+        "in_reply_to_user_id": "1806849464386416640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059149412723781849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangeorange 那是你自己不会玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059149261804347392"
+          ]
+        },
+        "author_id": "1806849464386416640",
+        "conversation_id": "2059149412723781849",
+        "created_at": "2026-05-26T05:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059149412723781849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQmD4UrZA1",
+              "end": 168,
+              "expanded_url": "https://x.com/tangeorange/status/2059149412723781849/photo/1",
+              "media_key": "3_2059149261804347392",
+              "start": 145,
+              "url": "https://t.co/IQmD4UrZA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059149412723781849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家千万不要学我，就老老实实用 stripe connect 创建 stripe express 就行了，我因为 buymeacoffee 的信息复用导致现在需要改 stripe connect 这里的名字再重新等一周退款重新发款...\n唉其实 stripe connect 没有地址验证 https://t.co/IQmD4UrZA1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 143,
+          "like_count": 1073,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 597
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "胡乱发言警告！⚠\n15 y.o.\n尝试不死 | \nbff @maoxian1527 @kxk1388574 @tangeror @mxyzcdb | \n喜欢编程，AI/ML，DIY，meme，写文章，做游戏，做产品，最近在折腾加密货币。(但是日常帖子居多)| \n我不是精神病。|\n微信 orgudev 🚧35",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "kxk1388574"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "tangeror"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "username": "mxyzcdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子",
+        "pinned_tweet_id": "2055354468758429860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056276486991368192/tMDwIk9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2939,
+          "following_count": 2723,
+          "like_count": 8495,
+          "listed_count": 4,
+          "media_count": 1168,
+          "tweet_count": 8033
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2062048301365838100",
+    "created_at": "2026-06-03T15:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T16:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062195400514367499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1676634704878129152",
+          "start": 0,
+          "username": "AotraWong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/axzameyzed/sta…",
+          "end": 67,
+          "expanded_url": "https://x.com/axzameyzed/status/2062161269977989184?s=46",
+          "start": 44,
+          "url": "https://t.co/yqNAg2GLy2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062195400514367499",
+    "in_reply_to_user_id": "1676634704878129152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062161269977989184",
+        "type": "quoted"
+      },
+      {
+        "id": "2062193149049757871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AotraWong 这个是按关注与被关注的比值排的🤡\n然后现在换成了一个一网打尽榜\n\nhttps://t.co/yqNAg2GLy2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 980,
+        "media_key": "3_2062161257768353792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5EvPbbAAAEJkw.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2062048301365838100",
+        "created_at": "2026-06-03T15:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062195400514367499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1676634704878129152",
+              "start": 0,
+              "username": "AotraWong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/axzameyzed/sta…",
+              "end": 67,
+              "expanded_url": "https://x.com/axzameyzed/status/2062161269977989184?s=46",
+              "start": 44,
+              "url": "https://t.co/yqNAg2GLy2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062195400514367499",
+        "in_reply_to_user_id": "1676634704878129152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062161269977989184",
+            "type": "quoted"
+          },
+          {
+            "id": "2062193149049757871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AotraWong 这个是按关注与被关注的比值排的🤡\n然后现在换成了一个一网打尽榜\n\nhttps://t.co/yqNAg2GLy2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062161257768353792"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2062161269977989184",
+        "created_at": "2026-06-03T13:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062161269977989184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bSnvtxRgE",
+              "end": 35,
+              "expanded_url": "https://x.com/axzameyzed/status/2062161269977989184/photo/1",
+              "media_key": "3_2062161257768353792",
+              "start": 12,
+              "url": "https://t.co/7bSnvtxRgE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062161269977989184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1374,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是真的特诡异你知道吗 https://t.co/7bSnvtxRgE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676634704878129152",
+        "conversation_id": "2062048301365838100",
+        "created_at": "2026-06-03T15:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062193149049757871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062193149049757871",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062048301365838100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 这只有加重GD的可能\n或许有人会为了排名上升而不择手段\n或许有人选择「离开」\n在前面的人，比如说pass程度，人家就已经是一个普通的，长得好看的女孩子了，已经在和trans进行切割了都说不定\n在后面的，也许只能羡慕了（比如说我😭），当然我的心态很好，但是部分mtf并不是这样……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 185,
+          "like_count": 1729,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 973
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-05T16:50:50.000Z",
+        "description": "芷姗 | 也许是个大姐姐 | 2008 May | 🏳️‍⚧️ | 物化政 |\n头像：迎恩门 / 背景：虎门港 | 校心理社前部长 | \nLCNA总管理员 | DPS MC服务器服主 |\nIT/交通/医学（尤其是精神医学） 爱好者 | \n希望我能帮到你，哪怕只是一点点。谢谢你的Fo！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lcna.cn",
+                "end": 23,
+                "expanded_url": "https://blog.lcna.cn",
+                "start": 0,
+                "url": "https://t.co/9a4AgdadOU"
+              }
+            ]
+          }
+        },
+        "id": "1676634704878129152",
+        "location": "東莞 Dongguan",
+        "name": "Aotra | An Open Tunnel to Receive Answer",
+        "pinned_tweet_id": "2058188566497493045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782805332924002304/j-PEXjWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 1082,
+          "like_count": 22725,
+          "listed_count": 5,
+          "media_count": 455,
+          "tweet_count": 1854
+        },
+        "url": "https://t.co/9a4AgdadOU",
+        "username": "AotraWong",
+        "verified": false
+      }
+    ]
+  }
+}

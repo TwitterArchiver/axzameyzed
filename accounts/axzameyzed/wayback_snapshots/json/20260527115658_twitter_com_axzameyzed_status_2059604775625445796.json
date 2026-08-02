@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2059461645148295428",
+    "created_at": "2026-05-27T11:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059604775625445796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811265295849598976",
+          "start": 0,
+          "username": "KiraMyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059604775625445796",
+    "in_reply_to_user_id": "1811265295849598976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059461871040893208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraMyao 其实从医学角度来讲自制凝胶并不怎么好（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2059461645148295428",
+        "created_at": "2026-05-27T11:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059604775625445796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811265295849598976",
+              "start": 0,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059604775625445796",
+        "in_reply_to_user_id": "1811265295849598976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059461871040893208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraMyao 其实从医学角度来讲自制凝胶并不怎么好（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811265295849598976",
+        "conversation_id": "2059461645148295428",
+        "created_at": "2026-05-27T02:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059461871040893208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059461871040893208",
+        "in_reply_to_user_id": "1811265295849598976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059461645148295428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过自制凝胶在中国依然是一个很大的市场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 148,
+          "like_count": 1220,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 675
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equal.kiramayo.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://equal.kiramayo.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HY2O2A4Kqa"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 361,
+          "like_count": 9852,
+          "listed_count": 3,
+          "media_count": 402,
+          "tweet_count": 1701
+        },
+        "url": "https://t.co/HY2O2A4Kqa",
+        "username": "KiraMyao",
+        "verified": false
+      }
+    ]
+  }
+}

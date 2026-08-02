@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2053416339256365306",
+    "created_at": "2026-05-10T11:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053431793366237668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1763577841588056064",
+          "start": 0,
+          "username": "yxrchina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053431793366237668",
+    "in_reply_to_user_id": "1763577841588056064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053416339256365306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxrchina 感觉claude一般不封pro吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 406,
+        "media_key": "3_2053416003531661312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8y-cqbYAATM0a.png",
+        "width": 331
+      },
+      {
+        "height": 337,
+        "media_key": "3_2053416218636496896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8zK9_asAA_HPc.png",
+        "width": 498
+      },
+      {
+        "height": 143,
+        "media_key": "3_2053416329433227264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8zRavaoAAPiCD.png",
+        "width": 618
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2053416339256365306",
+        "created_at": "2026-05-10T11:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053431793366237668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1763577841588056064",
+              "start": 0,
+              "username": "yxrchina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053431793366237668",
+        "in_reply_to_user_id": "1763577841588056064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053416339256365306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxrchina 感觉claude一般不封pro吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053416003531661312",
+            "3_2053416218636496896",
+            "3_2053416329433227264"
+          ]
+        },
+        "author_id": "1763577841588056064",
+        "conversation_id": "2053416339256365306",
+        "created_at": "2026-05-10T10:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053416339256365306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1qJ0jV9vUg",
+              "end": 50,
+              "expanded_url": "https://x.com/yxrchina/status/2053416339256365306/photo/1",
+              "media_key": "3_2053416003531661312",
+              "start": 27,
+              "url": "https://t.co/1qJ0jV9vUg"
+            },
+            {
+              "display_url": "pic.x.com/1qJ0jV9vUg",
+              "end": 50,
+              "expanded_url": "https://x.com/yxrchina/status/2053416339256365306/photo/1",
+              "media_key": "3_2053416218636496896",
+              "start": 27,
+              "url": "https://t.co/1qJ0jV9vUg"
+            },
+            {
+              "display_url": "pic.x.com/1qJ0jV9vUg",
+              "end": 50,
+              "expanded_url": "https://x.com/yxrchina/status/2053416339256365306/photo/1",
+              "media_key": "3_2053416329433227264",
+              "start": 27,
+              "url": "https://t.co/1qJ0jV9vUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053416339256365306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "订阅GPT:\n订阅Gemini:\n订阅Claude: https://t.co/1qJ0jV9vUg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 53,
+          "like_count": 93,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️「重构时间线，再次重逢」\n| 是夕妍？ | INFP | MtFtX | oler转oder | 🎂08.15 | Vite | Cpp | HRT 25.08.11~25.11.30 26.04.17~ | 已炸柜 | 碎碎念or日常 @syyann2026 | ❌ NSFW |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 124,
+                "username": "syyann2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "404yann.com",
+                "end": 23,
+                "expanded_url": "http://404yann.com",
+                "start": 0,
+                "url": "https://t.co/tx6gNy4Q6Z"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "location": "Lover @nyaepheia",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "pinned_tweet_id": "2047317883089473860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 2008,
+          "like_count": 26722,
+          "listed_count": 4,
+          "media_count": 259,
+          "tweet_count": 8122
+        },
+        "url": "https://t.co/tx6gNy4Q6Z",
+        "username": "yxrchina",
+        "verified": false
+      }
+    ]
+  }
+}

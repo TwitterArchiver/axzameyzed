@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2060290050903179553",
+    "created_at": "2026-05-29T11:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060325478909772228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1642199099951939584",
+          "start": 0,
+          "username": "bluse50"
+        },
+        {
+          "end": 21,
+          "id": "1892789733287460864",
+          "start": 9,
+          "username": "XIAOSUSU456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060325478909772228",
+    "in_reply_to_user_id": "1642199099951939584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060322756000944457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluse50 @XIAOSUSU456 所以我曾说，AI只是降低了开发难度，而不是降低了门槛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2060290050903179553",
+        "created_at": "2026-05-29T11:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060325478909772228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1642199099951939584",
+              "start": 0,
+              "username": "bluse50"
+            },
+            {
+              "end": 21,
+              "id": "1892789733287460864",
+              "start": 9,
+              "username": "XIAOSUSU456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060325478909772228",
+        "in_reply_to_user_id": "1642199099951939584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060322756000944457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluse50 @XIAOSUSU456 所以我曾说，AI只是降低了开发难度，而不是降低了门槛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642199099951939584",
+        "conversation_id": "2060290050903179553",
+        "created_at": "2026-05-29T11:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060322756000944457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892789733287460864",
+              "start": 0,
+              "username": "XIAOSUSU456"
+            },
+            {
+              "end": 24,
+              "id": "2053360211948109826",
+              "start": 13,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060322756000944457",
+        "in_reply_to_user_id": "1892789733287460864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我希望你在充分了解别人的项目之前，不要轻易用“你那个可能就是个简单 UI”这种话去定性。这不仅是对他人劳动成果的不尊重，也是对他人能力的轻视。\n​我对你们双方的项目都有过简单了解。可以肯定地说，她项目的工作量远超你的项目，在实用性层面更是差距甚远。\n​我大致浏览了你的仓库（评价仅基于上周的最新 Commit）。既然大家都使用 AI 辅助开发，就请别再使用那种令人无语的单文件架构了。学着使用 Coding Agent 并不难，没必要做浪费 Token 资源的事情。\n​至少从你目前最新的 Commit 来看，我并没有看到多少实际的后端代码。在我看来，你这个项目才更符合“简单的 UI”这一评价。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060314134412222739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOSUSU456 @axzameyzed 我希望你在充分了解别人的项目之前，不要轻易用“你那个可能就是个简单 UI”这种话去定性。这不仅是对他人劳动成果的不尊重，也是对他人能力的轻视。\n​我对你们双方的项目都有过简单了解。可以肯定地说，她项目的工作量远超你的项目，在实用性层面更是差距甚远。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 164,
+          "like_count": 1370,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 787
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-01T16:15:56.000Z",
+        "description": "女性代词。社交能力0。主要分享医学和AI内容",
+        "id": "1642199099951939584",
+        "location": "柿树学院",
+        "name": "BluseL",
+        "pinned_tweet_id": "2058912814857945221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673313633462534144/RAfFa5on_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 258,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 269
+        },
+        "username": "bluse50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T04:13:44.000Z",
+        "description": "家长不管党 年龄党 MtF/X 较社恐\n16岁，高一，不od，不自残，小证含糖\nHRT🍥:2026.04.17 | 友跨友lgbtq+文化 | INFP-T 出生日:2010.3.16\nminecraft丨异环丨铁锈战争玩家\nHTML/Gore/数码/深度二次元/AI\nMTF世界创始人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf-world.com",
+                "end": 23,
+                "expanded_url": "http://mtf-world.com",
+                "start": 0,
+                "url": "https://t.co/wL0Pqnb7i9"
+              }
+            ]
+          }
+        },
+        "id": "1892789733287460864",
+        "name": "_Xiaosuda_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046919261994823935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052239433743949824/zVtNaMaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 95,
+          "like_count": 10,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/wL0Pqnb7i9",
+        "username": "XIAOSUSU456",
+        "verified": false
+      }
+    ]
+  }
+}

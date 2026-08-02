@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2063077160261447700",
+    "created_at": "2026-06-06T02:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063088089380381163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054877291633909760",
+          "start": 0,
+          "username": "TransYuwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063088089380381163",
+    "in_reply_to_user_id": "2054877291633909760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063077160261447700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TransYuwen 不建议这样发口令红包容易被自动领红包机器人一窝蜂抢完"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2063077160261447700",
+        "created_at": "2026-06-06T02:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063088089380381163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054877291633909760",
+              "start": 0,
+              "username": "TransYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063088089380381163",
+        "in_reply_to_user_id": "2054877291633909760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063077160261447700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TransYuwen 不建议这样发口令红包容易被自动领红包机器人一窝蜂抢完"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054877291633909760",
+        "conversation_id": "2063077160261447700",
+        "created_at": "2026-06-06T01:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063077160261447700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xynMTFxyn/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/xynMTFxyn/status/2062893508428771547",
+              "start": 12,
+              "url": "https://t.co/JiREVoA94b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063077160261447700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062893508428771547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "操你妈谁允许呢送我钱的 https://t.co/JiREVoA94b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 200,
+          "like_count": 1902,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1046
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | Dom | 70公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 爱人：@shaoxiancao1314 | She/Her | 鉴跨专家 |不肉偿 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 111,
+                "username": "shaoxiancao1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nomtf.com",
+                "end": 23,
+                "expanded_url": "http://nomtf.com",
+                "start": 0,
+                "url": "https://t.co/tw4eduhItL"
+              }
+            ]
+          }
+        },
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2063063179786330294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 52,
+          "like_count": 354,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 1686
+        },
+        "url": "https://t.co/tw4eduhItL",
+        "username": "TransYuwen",
+        "verified": true
+      }
+    ]
+  }
+}

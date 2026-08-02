@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2053814556846330354",
+    "created_at": "2026-05-11T13:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053823762081227078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1987885638038036480",
+          "start": 0,
+          "username": "mizorewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053823762081227078",
+    "in_reply_to_user_id": "1987885638038036480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053814556846330354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizorewww 机场法律风险比中转高得多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2053814556846330354",
+        "created_at": "2026-05-11T13:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053823762081227078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987885638038036480",
+              "start": 0,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053823762081227078",
+        "in_reply_to_user_id": "1987885638038036480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053814556846330354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizorewww 机场法律风险比中转高得多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987885638038036480",
+        "conversation_id": "2053814556846330354",
+        "created_at": "2026-05-11T12:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053814556846330354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053814556846330354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "x上都在讨论中转站，为啥没人讨论机场，我觉得开机场比开中转站赚钱多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053364593209008263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 79,
+          "like_count": 190,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 65
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 高三 中国上海高中生 开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\n\n联系方式：\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtAyza",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 114,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 91,
+                "url": "https://t.co/yRGqdtAyza"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "location": "Crazy Universe ",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2049113964022501793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 928,
+          "like_count": 9393,
+          "listed_count": 2,
+          "media_count": 446,
+          "tweet_count": 2522
+        },
+        "username": "mizorewww",
+        "verified": true
+      }
+    ]
+  }
+}

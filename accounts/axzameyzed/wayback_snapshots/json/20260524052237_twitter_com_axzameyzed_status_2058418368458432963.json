@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2058200439632609538",
+    "created_at": "2026-05-24T05:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T06:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058418368458432963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1304732370214371329",
+          "start": 0,
+          "username": "Yirasumi"
+        },
+        {
+          "end": 25,
+          "id": "2055356059066466304",
+          "start": 10,
+          "username": "TransCircleOrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058418368458432963",
+    "in_reply_to_user_id": "1304732370214371329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058417705074766305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yirasumi @TransCircleOrg 但是合约里面已经写了允许增发怎么办呢\n刚开始发了五十万，我又增发了一万\n（合约代码应该都是开源的吧，在arbscan浏览器应该能看到的）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2058200439632609538",
+        "created_at": "2026-05-24T05:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058418368458432963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1304732370214371329",
+              "start": 0,
+              "username": "Yirasumi"
+            },
+            {
+              "end": 25,
+              "id": "2055356059066466304",
+              "start": 10,
+              "username": "TransCircleOrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058418368458432963",
+        "in_reply_to_user_id": "1304732370214371329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058417705074766305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yirasumi @TransCircleOrg 但是合约里面已经写了允许增发怎么办呢\n刚开始发了五十万，我又增发了一万\n（合约代码应该都是开源的吧，在arbscan浏览器应该能看到的）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1304732370214371329",
+        "conversation_id": "2058200439632609538",
+        "created_at": "2026-05-24T05:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058417705074766305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 27,
+              "id": "2055356059066466304",
+              "start": 12,
+              "username": "TransCircleOrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058417705074766305",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058412005195960802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed @TransCircleOrg 不许增发😡窝要求开源合约代码，不许写增发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 141,
+          "like_count": 930,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 525
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-12T10:43:40.000Z",
+        "description": "猫猫罢了｜INFJ-T｜05后｜如果看到你可爱会跟你互fo！🎉在twi上属于只看不发的！会很认真考虑别人对我的看法。｜会一点点Linux CLI｜Phigros rks13.00｜拥有一个10token的GPT｜想学前端但是学不会",
+        "id": "1304732370214371329",
+        "location": "1.2km",
+        "name": "^薄荷奶昔^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886358330643456000/hKW3io-x_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 525,
+          "like_count": 23760,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 2217
+        },
+        "username": "Yirasumi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T18:35:13.000Z",
+        "description": "中文推特女性倾向跨性别者社群史官项目\n我们深信历史终将向前。这份记录，就是我们走过长夜的铁证。\nGithub: https://t.co/8uXoPf6E7j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TransCircle",
+                "end": 79,
+                "expanded_url": "https://github.com/TransCircle",
+                "start": 56,
+                "url": "https://t.co/8uXoPf6E7j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transcircle.org",
+                "end": 23,
+                "expanded_url": "http://transcircle.org",
+                "start": 0,
+                "url": "https://t.co/r8ea82NCCb"
+              }
+            ]
+          }
+        },
+        "id": "2055356059066466304",
+        "name": "TransCircle 跨环",
+        "pinned_tweet_id": "2055975013145260489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055356408699514881/Xwsvn8u3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 33,
+          "like_count": 59,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/r8ea82NCCb",
+        "username": "TransCircleOrg",
+        "verified": false
+      }
+    ]
+  }
+}

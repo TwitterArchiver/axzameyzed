@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2059408969727447311",
+    "created_at": "2026-05-27T00:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059433211558822061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870108535268487169",
+          "start": 0,
+          "username": "MomoseReina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059433211558822061",
+    "in_reply_to_user_id": "1870108535268487169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059408969727447311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MomoseReina 都是，毕竟pro本来就不是让用opus的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 173,
+        "media_key": "3_2059408336718815233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJR8-JWaYAEu29p.jpg",
+        "width": 1231
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2059408969727447311",
+        "created_at": "2026-05-27T00:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059433211558822061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059433211558822061",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059408969727447311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 都是，毕竟pro本来就不是让用opus的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059408336718815233"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "2059408969727447311",
+        "created_at": "2026-05-26T22:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T23:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059408969727447311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRwFeA4Zdv",
+              "end": 49,
+              "expanded_url": "https://x.com/MomoseReina/status/2059408969727447311/photo/1",
+              "media_key": "3_2059408336718815233",
+              "start": 26,
+              "url": "https://t.co/MRwFeA4Zdv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059408969727447311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是Pro不耐用还是Opus 4.7太吃token？ https://t.co/MRwFeA4Zdv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 145,
+          "like_count": 1136,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 630
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 338,
+          "like_count": 8420,
+          "listed_count": 5,
+          "media_count": 347,
+          "tweet_count": 5852
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

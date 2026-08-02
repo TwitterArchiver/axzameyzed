@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2069662291528978564",
+    "created_at": "2026-06-24T08:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T09:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069696426951713205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "162974851",
+          "start": 0,
+          "username": "Paramjitt"
+        },
+        {
+          "end": 22,
+          "id": "1829867271592026112",
+          "start": 11,
+          "username": "Shivam3228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069696426951713205",
+    "in_reply_to_user_id": "162974851",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069695715388105086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Paramjitt @Shivam3228 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2069662291528978564",
+        "created_at": "2026-06-24T08:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069696426951713205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "162974851",
+              "start": 0,
+              "username": "Paramjitt"
+            },
+            {
+              "end": 22,
+              "id": "1829867271592026112",
+              "start": 11,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069696426951713205",
+        "in_reply_to_user_id": "162974851",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069695715388105086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paramjitt @Shivam3228 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "162974851",
+        "conversation_id": "2069662291528978564",
+        "created_at": "2026-06-24T08:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069695715388105086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 23,
+              "id": "1829867271592026112",
+              "start": 12,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069695715388105086",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069695235438133290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed @Shivam3228 你也要吗🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 210,
+          "like_count": 3325,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1467
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "互关寻回\n木木雨（那个不可提及的数字00000）\n版本号：路易十六\n末影人\n12×09×17\n大号@Shivam3228\n💊@idris21000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "idris21000"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "霖林木木（16.0寻回。）",
+        "pinned_tweet_id": "2068570468312039765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067871130413940736/TzAPFnG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 171,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "【寻回互fo】\n📍广州/🇯🇵/12-09-17/IB牛马国际生。\n精神病碎碎念清水推 电子宠物\n已上岸躺尸中zz🥰（剧烈啃英语。）\n热爱互动但被带口球……🚬\n小号@Paramjitt\n牛马💊@idris21000\n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "idris21000"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2068570914644779519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068272596580503552/tfkvYV74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 454,
+          "like_count": 1775,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

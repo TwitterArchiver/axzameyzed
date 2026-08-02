@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053995062061633536"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2053842847401726161",
+    "created_at": "2026-05-12T00:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T01:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053995067883372994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688101533198475264",
+          "start": 0,
+          "username": "Chise_wo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BMnT4uFaUZ",
+          "end": 40,
+          "expanded_url": "https://x.com/axzameyzed/status/2053995067883372994/photo/1",
+          "media_key": "3_2053995062061633536",
+          "start": 17,
+          "url": "https://t.co/BMnT4uFaUZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053995067883372994",
+    "in_reply_to_user_id": "1688101533198475264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053994782893265305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chise_wo 这我同学（） https://t.co/BMnT4uFaUZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 154,
+        "media_key": "3_2053995062061633536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFBoFyXEAAULXA.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053995062061633536"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2053842847401726161",
+        "created_at": "2026-05-12T00:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T01:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053995067883372994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688101533198475264",
+              "start": 0,
+              "username": "Chise_wo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BMnT4uFaUZ",
+              "end": 40,
+              "expanded_url": "https://x.com/axzameyzed/status/2053995067883372994/photo/1",
+              "media_key": "3_2053995062061633536",
+              "start": 17,
+              "url": "https://t.co/BMnT4uFaUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053995067883372994",
+        "in_reply_to_user_id": "1688101533198475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053994782893265305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chise_wo 这我同学（） https://t.co/BMnT4uFaUZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688101533198475264",
+        "conversation_id": "2053842847401726161",
+        "created_at": "2026-05-12T00:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T01:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053994782893265305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053994782893265305",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053842847401726161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 我这个号也被同学发现过\n然后我就移除关注着了（）\n虽然他们都很少用推特"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 85,
+          "like_count": 214,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 84
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "成分很复杂的一只可爱小千 | 总之就是音游吃 | Kobaryo真的很好听不是吗 | 啊呜喵~~~❤️ | 想要变可爱 | 欢迎来和我聊天 | 想要QQ可以私信喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chise_kawaii",
+                "end": 23,
+                "expanded_url": "http://t.me/chise_kawaii",
+                "start": 0,
+                "url": "https://t.co/yj1O6fxiqE"
+              }
+            ]
+          }
+        },
+        "id": "1688101533198475264",
+        "location": "Address",
+        "name": "千千千世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050128439362166784/ceUDKMYx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 1395,
+          "like_count": 29121,
+          "listed_count": 2,
+          "media_count": 403,
+          "tweet_count": 7114
+        },
+        "url": "https://t.co/yj1O6fxiqE",
+        "username": "Chise_wo",
+        "verified": false
+      }
+    ]
+  }
+}

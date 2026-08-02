@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2060342889813848537",
+    "created_at": "2026-05-29T14:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060367532201275768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2058175655444111360",
+          "start": 0,
+          "username": "hua63_h2so4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060367532201275768",
+    "in_reply_to_user_id": "2058175655444111360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060361702848524470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hua63_h2so4 你怎么胳膊肘往外拐呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2060342889813848537",
+        "created_at": "2026-05-29T14:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060367532201275768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2058175655444111360",
+              "start": 0,
+              "username": "hua63_h2so4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060367532201275768",
+        "in_reply_to_user_id": "2058175655444111360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060361702848524470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hua63_h2so4 你怎么胳膊肘往外拐呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058175655444111360",
+        "conversation_id": "2060342889813848537",
+        "created_at": "2026-05-29T14:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060361702848524470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892789733287460864",
+              "start": 0,
+              "username": "XIAOSUSU456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060361702848524470",
+        "in_reply_to_user_id": "1892789733287460864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060342889813848537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOSUSU456 不用管他们，做自己就行，抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 165,
+          "like_count": 1371,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 798
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-23T13:20:00.000Z",
+        "description": "理解，热爱，赞美一切",
+        "id": "2058175655444111360",
+        "name": "hua six three",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059064547890319360/ASSWN5ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 24,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 51
+        },
+        "username": "hua63_h2so4",
+        "verified": false
+      }
+    ]
+  }
+}

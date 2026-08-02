@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055551497363173376"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2055549986314797212",
+    "created_at": "2026-05-16T07:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T08:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055551509639876692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        },
+        {
+          "end": 29,
+          "id": "1548619992001785859",
+          "start": 16,
+          "username": "frankshiki73"
+        },
+        {
+          "end": 40,
+          "id": "1676634704878129152",
+          "start": 30,
+          "username": "AotraWong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uJx5E5HPVw",
+          "end": 64,
+          "expanded_url": "https://x.com/axzameyzed/status/2055551509639876692/photo/1",
+          "media_key": "3_2055551497363173376",
+          "start": 41,
+          "url": "https://t.co/uJx5E5HPVw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055551509639876692",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055549986314797212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 @frankshiki73 @AotraWong https://t.co/uJx5E5HPVw"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [frankshiki73].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "frankshiki73",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "frankshiki73"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 679,
+        "media_key": "3_2055551497363173376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbJMjHasAAL3CL.jpg",
+        "width": 601
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2055549975107682304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbHz8RbQAA9PJV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055551497363173376"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2055549986314797212",
+        "created_at": "2026-05-16T07:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055551509639876692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 29,
+              "id": "1548619992001785859",
+              "start": 16,
+              "username": "frankshiki73"
+            },
+            {
+              "end": 40,
+              "id": "1676634704878129152",
+              "start": 30,
+              "username": "AotraWong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJx5E5HPVw",
+              "end": 64,
+              "expanded_url": "https://x.com/axzameyzed/status/2055551509639876692/photo/1",
+              "media_key": "3_2055551497363173376",
+              "start": 41,
+              "url": "https://t.co/uJx5E5HPVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055551509639876692",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055549986314797212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 @frankshiki73 @AotraWong https://t.co/uJx5E5HPVw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055549975107682304"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055549986314797212",
+        "created_at": "2026-05-16T07:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055549986314797212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1548619992001785859",
+              "start": 7,
+              "username": "frankshiki73"
+            },
+            {
+              "end": 31,
+              "id": "1676634704878129152",
+              "start": 21,
+              "username": "AotraWong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ktjlLFMBY4",
+              "end": 55,
+              "expanded_url": "https://x.com/RainEngine2024/status/2055549986314797212/photo/1",
+              "media_key": "3_2055549975107682304",
+              "start": 32,
+              "url": "https://t.co/ktjlLFMBY4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055549986314797212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "东莞国贸小聚\n@frankshiki73 @AotraWong https://t.co/ktjlLFMBY4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 116,
+          "like_count": 582,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 304
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052221080052674560/erKoHu5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10117,
+          "following_count": 954,
+          "like_count": 87967,
+          "listed_count": 24,
+          "media_count": 1736,
+          "tweet_count": 12181
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "RainEngine2024",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-05T16:50:50.000Z",
+        "description": "芷姗 | 也许是个大姐姐 | 08 May | 🏳️‍⚧️ | 物化政 |\n头像：迎恩门 / 背景：虎门港 | 校心理社前部长 | \nLCNA总管理员 | DPS MC服务器服主 |\nIT/交通/医学（尤其是精神医学） 爱好者 | \n希望我能帮到你，哪怕只是一点点。谢谢你的Fo！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lcna.cn",
+                "end": 23,
+                "expanded_url": "https://blog.lcna.cn",
+                "start": 0,
+                "url": "https://t.co/9a4AgdadOU"
+              }
+            ]
+          }
+        },
+        "id": "1676634704878129152",
+        "location": "東莞 Dongguan",
+        "name": "Aotra | An Open Tunnel to Receive Answer",
+        "pinned_tweet_id": "1938617299428323702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782805332924002304/j-PEXjWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 1060,
+          "like_count": 21669,
+          "listed_count": 5,
+          "media_count": 431,
+          "tweet_count": 1768
+        },
+        "url": "https://t.co/9a4AgdadOU",
+        "username": "AotraWong",
+        "verified": false
+      }
+    ]
+  }
+}

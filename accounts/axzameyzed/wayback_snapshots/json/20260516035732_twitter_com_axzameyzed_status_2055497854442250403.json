@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2055490501005213819",
+    "created_at": "2026-05-16T03:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055497854442250403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1860742128688857088",
+          "start": 0,
+          "username": "zhouxuanjiu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055497854442250403",
+    "in_reply_to_user_id": "1860742128688857088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055490501005213819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhouxuanjiu2 原粉或者化原封装的吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_2055490493702897664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaRtqxagAAUVnA.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2055490501005213819",
+        "created_at": "2026-05-16T03:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055497854442250403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860742128688857088",
+              "start": 0,
+              "username": "zhouxuanjiu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055497854442250403",
+        "in_reply_to_user_id": "1860742128688857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055490501005213819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhouxuanjiu2 原粉或者化原封装的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055490493702897664"
+          ]
+        },
+        "author_id": "1860742128688857088",
+        "conversation_id": "2055490501005213819",
+        "created_at": "2026-05-16T03:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055490501005213819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJYjmi8gBv",
+              "end": 40,
+              "expanded_url": "https://x.com/zhouxuanjiu2/status/2055490501005213819/photo/1",
+              "media_key": "3_2055490493702897664",
+              "start": 17,
+              "url": "https://t.co/MJYjmi8gBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055490501005213819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "丰川药业正在筹划一次大行动（确信 https://t.co/MJYjmi8gBv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 115,
+          "like_count": 562,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 296
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-24T17:48:02.000Z",
+        "description": "❤️@LiciiQAQ｜兜售自制凝胶和土色和日雌（可零售）｜可能可以说是mtx或者mtf｜情绪不稳定｜可以和我交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1860742128688857088",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "仿生野草会梦见电子锈病萱草花吗",
+        "pinned_tweet_id": "2054948767552709071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040455834787024896/obrN0Syw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 481,
+          "like_count": 2357,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 979
+        },
+        "username": "zhouxuanjiu2",
+        "verified": true
+      }
+    ]
+  }
+}

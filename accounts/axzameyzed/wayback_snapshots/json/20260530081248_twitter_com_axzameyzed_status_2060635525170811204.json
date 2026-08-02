@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060635513204424704"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2060366070196900317",
+    "created_at": "2026-05-30T08:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060635525170811204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1478303823802552322",
+          "start": 0,
+          "username": "DalingDalingDa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GTzPHf9LXc",
+          "end": 80,
+          "expanded_url": "https://x.com/axzameyzed/status/2060635525170811204/photo/1",
+          "media_key": "3_2060635513204424704",
+          "start": 57,
+          "url": "https://t.co/GTzPHf9LXc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060635525170811204",
+    "in_reply_to_user_id": "1478303823802552322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060366070196900317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DalingDalingDa 感觉如果只是激素的话大部分医院去挂号都能开吧，反正我们这边开检查项目基本就是点菜 https://t.co/GTzPHf9LXc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1025,
+        "media_key": "3_2060635513204424704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjZFOAawAAHKvy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1187,
+        "media_key": "3_2060366066883444736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfkBYPbQAAfQH8.jpg",
+        "width": 1198
+      },
+      {
+        "height": 714,
+        "media_key": "3_2060366067487412225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfkBafbEAEfz7f.jpg",
+        "width": 1197
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060635513204424704"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2060366070196900317",
+        "created_at": "2026-05-30T08:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060635525170811204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1478303823802552322",
+              "start": 0,
+              "username": "DalingDalingDa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTzPHf9LXc",
+              "end": 80,
+              "expanded_url": "https://x.com/axzameyzed/status/2060635525170811204/photo/1",
+              "media_key": "3_2060635513204424704",
+              "start": 57,
+              "url": "https://t.co/GTzPHf9LXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060635525170811204",
+        "in_reply_to_user_id": "1478303823802552322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060366070196900317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DalingDalingDa 感觉如果只是激素的话大部分医院去挂号都能开吧，反正我们这边开检查项目基本就是点菜 https://t.co/GTzPHf9LXc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060366066883444736",
+            "3_2060366067487412225"
+          ]
+        },
+        "author_id": "1478303823802552322",
+        "conversation_id": "2060366070196900317",
+        "created_at": "2026-05-29T14:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060366070196900317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PR4efBrz0",
+              "end": 67,
+              "expanded_url": "https://x.com/DalingDalingDa/status/2060366070196900317/photo/1",
+              "media_key": "3_2060366066883444736",
+              "start": 44,
+              "url": "https://t.co/5PR4efBrz0"
+            },
+            {
+              "display_url": "pic.x.com/5PR4efBrz0",
+              "end": 67,
+              "expanded_url": "https://x.com/DalingDalingDa/status/2060366070196900317/photo/1",
+              "media_key": "3_2060366067487412225",
+              "start": 44,
+              "url": "https://t.co/5PR4efBrz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060366070196900317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1138,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实测回龙观医院任意医生，只要提要求，基本均可开性激素四项检查\n左图5.4 右图5.29 https://t.co/5PR4efBrz0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 166,
+          "like_count": 1430,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 827
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-04T09:54:52.000Z",
+        "description": "仍每日如旧照常重做，只要是我不落俗套，只要你间中也给 一些鼓舞~",
+        "id": "1478303823802552322",
+        "name": "daling （考研下线）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930184865032613892/wi4_lT1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 620,
+          "like_count": 19281,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 1463
+        },
+        "username": "DalingDalingDa",
+        "verified": false
+      }
+    ]
+  }
+}

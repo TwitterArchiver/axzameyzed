@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062928670461931521"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062928679475544101",
+    "created_at": "2026-06-05T16:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062928679475544101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FJyFMVeOCR",
+          "end": 30,
+          "expanded_url": "https://x.com/axzameyzed/status/2062928679475544101/photo/1",
+          "media_key": "3_2062928670461931521",
+          "start": 7,
+          "url": "https://t.co/FJyFMVeOCR"
+        },
+        {
+          "display_url": "x.com/prisetwinkle/s…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/prisetwinkle/status/2062762469077225959",
+          "start": 31,
+          "url": "https://t.co/z8wcPvgUkX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062928679475544101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062762469077225959",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "解决方案如下 https://t.co/FJyFMVeOCR https://t.co/z8wcPvgUkX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1294,
+        "media_key": "3_2062928670461931521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKD-sifaMAEXty8.jpg",
+        "width": 750
+      },
+      {
+        "height": 1335,
+        "media_key": "3_2062762434025369600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBngTgaMAAY3cu.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2062762448961339392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBnhLJbAAApupe.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062928670461931521"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062928679475544101",
+        "created_at": "2026-06-05T16:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062928679475544101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FJyFMVeOCR",
+              "end": 30,
+              "expanded_url": "https://x.com/axzameyzed/status/2062928679475544101/photo/1",
+              "media_key": "3_2062928670461931521",
+              "start": 7,
+              "url": "https://t.co/FJyFMVeOCR"
+            },
+            {
+              "display_url": "x.com/prisetwinkle/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/prisetwinkle/status/2062762469077225959",
+              "start": 31,
+              "url": "https://t.co/z8wcPvgUkX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062928679475544101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062762469077225959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "解决方案如下 https://t.co/FJyFMVeOCR https://t.co/z8wcPvgUkX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062762434025369600",
+            "3_2062762448961339392"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2062762469077225959",
+        "created_at": "2026-06-05T05:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062762469077225959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KBYXVSgLs5",
+              "end": 39,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2062762469077225959/photo/1",
+              "media_key": "3_2062762434025369600",
+              "start": 16,
+              "url": "https://t.co/KBYXVSgLs5"
+            },
+            {
+              "display_url": "pic.x.com/KBYXVSgLs5",
+              "end": 39,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2062762469077225959/photo/1",
+              "media_key": "3_2062762448961339392",
+              "start": 16,
+              "url": "https://t.co/KBYXVSgLs5"
+            },
+            {
+              "display_url": "x.com/NL8526/status/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/NL8526/status/2062697060743475580",
+              "start": 40,
+              "url": "https://t.co/Ir6CDTMCcU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062762469077225959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 949,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062697060743475580",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁帮我定制一下？🤔这个真想要🤤 https://t.co/KBYXVSgLs5 https://t.co/Ir6CDTMCcU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 198,
+          "like_count": 1887,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1041
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小的? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n@AuroraLight_01 | http://t.co/yw95e9H",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 119,
+                "username": "AuroraLight_01"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062136144272535553/eKkmZPxD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 6,
+          "like_count": 2101,
+          "listed_count": 4,
+          "media_count": 119,
+          "tweet_count": 795
+        },
+        "username": "PriseTwinkle",
+        "verified": true
+      }
+    ]
+  }
+}

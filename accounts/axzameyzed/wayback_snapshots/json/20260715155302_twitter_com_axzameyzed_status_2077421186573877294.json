@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2077421186573877294",
+    "created_at": "2026-07-15T15:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077421186573877294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781510736000274432",
+          "start": 3,
+          "username": "huantim7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077421186573877294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077414729317027937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huantim7: 欢迎大家下载TransBrowser，便捷高效私密地浏览网络（bushi）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2077421186573877294",
+        "created_at": "2026-07-15T15:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077421186573877294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781510736000274432",
+              "start": 3,
+              "username": "huantim7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077421186573877294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077414729317027937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huantim7: 欢迎大家下载TransBrowser，便捷高效私密地浏览网络（bushi）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781510736000274432",
+        "conversation_id": "2077414729317027937",
+        "created_at": "2026-07-15T15:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077414729317027937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/transcircleorg…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/transcircleorg/status/2077406130314342481",
+              "start": 38,
+              "url": "https://t.co/VPBE3uKyUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077414729317027937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077406130314342481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欢迎大家下载TransBrowser，便捷高效私密地浏览网络（bushi） https://t.co/VPBE3uKyUT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 215,
+          "like_count": 4354,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 1736
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某准高二mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "huantim1.bsky.social",
+                "end": 23,
+                "expanded_url": "http://huantim1.bsky.social",
+                "start": 0,
+                "url": "https://t.co/cXdI7FG7B0"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮紗",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072659917027299328/L5Yl2wZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 761,
+          "like_count": 92325,
+          "listed_count": 1,
+          "media_count": 484,
+          "tweet_count": 6040
+        },
+        "url": "https://t.co/cXdI7FG7B0",
+        "username": "huantim7",
+        "verified": true
+      }
+    ]
+  }
+}

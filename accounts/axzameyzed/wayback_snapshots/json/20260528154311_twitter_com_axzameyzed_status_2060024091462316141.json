@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2060024091462316141",
+    "created_at": "2026-05-28T15:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060024091462316141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sheepahead/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/sheepahead/status/2060016513583849645",
+          "start": 11,
+          "url": "https://t.co/emJ014SBZg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060024091462316141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060016513583849645",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑点解析：10元一刀 https://t.co/emJ014SBZg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 495,
+        "media_key": "3_2060016487717580800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJamFMXasAAZZvG.jpg",
+        "width": 1238
+      },
+      {
+        "height": 759,
+        "media_key": "3_2060016508080979968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJamGYObgAArB40.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2060024091462316141",
+        "created_at": "2026-05-28T15:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060024091462316141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sheepahead/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/sheepahead/status/2060016513583849645",
+              "start": 11,
+              "url": "https://t.co/emJ014SBZg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060024091462316141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060016513583849645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑点解析：10元一刀 https://t.co/emJ014SBZg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060016487717580800",
+            "3_2060016508080979968"
+          ]
+        },
+        "author_id": "1832040353542893568",
+        "conversation_id": "2060016513583849645",
+        "created_at": "2026-05-28T15:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060016513583849645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/322yE8f2xN",
+              "end": 52,
+              "expanded_url": "https://x.com/sheepahead/status/2060016513583849645/photo/1",
+              "media_key": "3_2060016487717580800",
+              "start": 29,
+              "url": "https://t.co/322yE8f2xN"
+            },
+            {
+              "display_url": "pic.x.com/322yE8f2xN",
+              "end": 52,
+              "expanded_url": "https://x.com/sheepahead/status/2060016513583849645/photo/1",
+              "media_key": "3_2060016508080979968",
+              "start": 29,
+              "url": "https://t.co/322yE8f2xN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060016513583849645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要手贱购买play credit😭😭\n100元被封印了 https://t.co/322yE8f2xN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 151,
+          "like_count": 1305,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 737
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-06T12:57:36.000Z",
+        "description": "重度社恐 不时会发一些帖子 | \n中OIer CChOer 全栈开发 | \n生产日期 2011.4.24 | \n深柜 无证HRT from 2026.3.28 | \n182cm 65kg 期待变矮？ | \n网站重建中 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shearbyte.dev",
+                "end": 23,
+                "expanded_url": "http://shearbyte.dev",
+                "start": 0,
+                "url": "https://t.co/vZhFZTgItA"
+              }
+            ]
+          }
+        },
+        "id": "1832040353542893568",
+        "location": "奥陶纪 冈瓦纳古大陆",
+        "name": "Sakaban_🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055880074218586114/HqbpHXTV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 65,
+          "like_count": 44,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 201
+        },
+        "url": "https://t.co/vZhFZTgItA",
+        "username": "sheepahead",
+        "verified": false
+      }
+    ]
+  }
+}

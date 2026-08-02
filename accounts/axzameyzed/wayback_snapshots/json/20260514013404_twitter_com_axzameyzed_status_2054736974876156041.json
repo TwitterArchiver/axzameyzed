@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2054552636570124736",
+    "created_at": "2026-05-14T01:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T02:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054736974876156041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochicqwq"
+        },
+        {
+          "end": 24,
+          "id": "1784216643310333953",
+          "start": 14,
+          "username": "lingou945"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054736974876156041",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054566426372137323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochicqwq @lingou945 实际上信这个的这辈子有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2054552636570124736",
+        "created_at": "2026-05-14T01:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T02:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054736974876156041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochicqwq"
+            },
+            {
+              "end": 24,
+              "id": "1784216643310333953",
+              "start": 14,
+              "username": "lingou945"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054736974876156041",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054566426372137323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq @lingou945 实际上信这个的这辈子有了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033160782687731712",
+        "conversation_id": "2054552636570124736",
+        "created_at": "2026-05-13T14:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054566426372137323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1784216643310333953",
+              "start": 0,
+              "username": "lingou945"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054566426372137323",
+        "in_reply_to_user_id": "1784216643310333953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054552636570124736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingou945 粉丝基数导致的，名人效应导致的\n实际上评分还是有点用的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 105,
+          "like_count": 407,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 201
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友跨顺男@whatasiger｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "whatasiger"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 143,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 120,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2622,
+          "following_count": 1642,
+          "like_count": 5116,
+          "listed_count": 3,
+          "media_count": 474,
+          "tweet_count": 3541
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-27T13:43:08.000Z",
+        "description": "建筑行业从业多年，也开始研究流量这件事｜一边搬砖，一边写内容｜一个在工地和流量之间找答案的宝爸",
+        "id": "1784216643310333953",
+        "location": "海拔最低的地方海鲜便宜",
+        "name": "lin",
+        "pinned_tweet_id": "2050110438147490142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048623401187803136/oYwS1RdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 602,
+          "like_count": 1307,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1492
+        },
+        "username": "lingou945",
+        "verified": true
+      }
+    ]
+  }
+}

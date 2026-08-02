@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2059310900318990538",
+    "created_at": "2026-05-27T00:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059437842275905756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1251467416263000064",
+          "start": 0,
+          "username": "792123a"
+        },
+        {
+          "end": 18,
+          "id": "1271652280438308864",
+          "start": 9,
+          "username": "Jaciezyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059437842275905756",
+    "in_reply_to_user_id": "1251467416263000064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059340630606954762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@792123a @Jaciezyt 不是啊，意思是如果纯前端校验的话用户给注册接口扒出来了怎么办，用户拿到接口直接提交到后端不验证就能产生非法用户名了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2059310900318990538",
+        "created_at": "2026-05-27T00:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059437842275905756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1251467416263000064",
+              "start": 0,
+              "username": "792123a"
+            },
+            {
+              "end": 18,
+              "id": "1271652280438308864",
+              "start": 9,
+              "username": "Jaciezyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059437842275905756",
+        "in_reply_to_user_id": "1251467416263000064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059340630606954762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@792123a @Jaciezyt 不是啊，意思是如果纯前端校验的话用户给注册接口扒出来了怎么办，用户拿到接口直接提交到后端不验证就能产生非法用户名了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251467416263000064",
+        "conversation_id": "2059310900318990538",
+        "created_at": "2026-05-26T18:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059340630606954762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059340630606954762",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059340245792075951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt 前端做好校验不让他提交他咋提交到后端，提交到后端那就是前端该死妈了啊，我直接去骂前端整bug出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 145,
+          "like_count": 1137,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 632
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-18T11:07:45.000Z",
+        "description": "让我草一下先\n\n数码和各种各样的东西分流: @just_wuming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "just_wuming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com",
+                "end": 23,
+                "expanded_url": "https://twitter.com",
+                "start": 0,
+                "url": "https://t.co/En3y1IPTQZ"
+              }
+            ]
+          }
+        },
+        "id": "1251467416263000064",
+        "location": "你的心里",
+        "name": "草",
+        "pinned_tweet_id": "1900881636096700449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993039363186569216/r7VMl0bc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 263,
+          "like_count": 3824,
+          "listed_count": 1,
+          "media_count": 1225,
+          "tweet_count": 15599
+        },
+        "url": "https://t.co/En3y1IPTQZ",
+        "username": "792123a",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 现役JK | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身 @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 102,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "Jacie 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4084,
+          "following_count": 918,
+          "like_count": 63857,
+          "listed_count": 12,
+          "media_count": 1361,
+          "tweet_count": 15689
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      }
+    ]
+  }
+}

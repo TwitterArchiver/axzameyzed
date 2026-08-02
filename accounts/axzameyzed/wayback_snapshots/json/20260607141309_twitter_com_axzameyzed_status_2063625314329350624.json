@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2063578538398380073",
+    "created_at": "2026-06-07T14:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063625314329350624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989517742127652866",
+          "start": 0,
+          "username": "AGNK_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063625314329350624",
+    "in_reply_to_user_id": "1989517742127652866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063624414906962227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGNK_553 这傻逼有一天能tm给我打将近一个小时的QQ语音，而且我记得他公开他澳大利亚的电话号码了，如果你不知道的话可以翻我刚刚的对话，不过如果用+86给他打电话的话国际电话费可能要贵死就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2063578538398380073",
+        "created_at": "2026-06-07T14:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063625314329350624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989517742127652866",
+              "start": 0,
+              "username": "AGNK_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063625314329350624",
+        "in_reply_to_user_id": "1989517742127652866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063624414906962227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGNK_553 这傻逼有一天能tm给我打将近一个小时的QQ语音，而且我记得他公开他澳大利亚的电话号码了，如果你不知道的话可以翻我刚刚的对话，不过如果用+86给他打电话的话国际电话费可能要贵死就是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989517742127652866",
+        "conversation_id": "2063578538398380073",
+        "created_at": "2026-06-07T14:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063624414906962227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 23,
+              "id": "2054877291633909760",
+              "start": 12,
+              "username": "TransYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063624414906962227",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063581832319471728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed @TransYuwen 你怎么有它的tel😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 202,
+          "like_count": 2048,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1097
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T02:17:39.000Z",
+        "description": "2025.11 重生喵~\n一般路过 553/Ag/any\n09.12 MTX🏳️‍⚧️\n（负能量预警）\n*非政治推 只是在骂让我不舒服的东西*\n喵就是心情好\nCN/EN🆗\n查成分回fo\n备用@agsg_553",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 95,
+                "username": "agsg_553"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agnk_553",
+                "end": 23,
+                "expanded_url": "http://ngl.link/agnk_553",
+                "start": 0,
+                "url": "https://t.co/nKx3eptIuF"
+              }
+            ]
+          }
+        },
+        "id": "1989517742127652866",
+        "location": "✝️昇天✝️",
+        "name": "AG553🏳️‍⚧️",
+        "pinned_tweet_id": "2055235631958389230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009425649296134149/7XVRu4Xs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 1650,
+          "like_count": 38195,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 3502
+        },
+        "url": "https://t.co/nKx3eptIuF",
+        "username": "AGNK_553",
+        "verified": false
+      }
+    ]
+  }
+}

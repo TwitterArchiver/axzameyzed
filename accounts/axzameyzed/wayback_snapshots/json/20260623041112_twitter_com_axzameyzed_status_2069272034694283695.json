@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2069132046119903633",
+    "created_at": "2026-06-23T04:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069272034694283695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1545801302617116672",
+          "start": 0,
+          "username": "Minecraftxfj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069272034694283695",
+    "in_reply_to_user_id": "1545801302617116672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069132046119903633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minecraftxfj 中文域名吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2069132046119903633",
+        "created_at": "2026-06-23T04:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069272034694283695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069272034694283695",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069132046119903633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 中文域名吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2069132046119903633",
+        "created_at": "2026-06-22T18:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069132046119903633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一个聚合跨性别相关医疗、法律、生活信息的中文资料库，正在建设中。",
+              "display_url": "searchcomingsoon.transhelper.org",
+              "end": 62,
+              "expanded_url": "http://searchcomingsoon.transhelper.org",
+              "start": 39,
+              "status": 200,
+              "title": "跨性别信息库 · 即将上线",
+              "unwound_url": "http://searchcomingsoon.transhelper.org",
+              "url": "https://t.co/XQJ4XKWkaa"
+            },
+            {
+              "display_url": "transhelper.org",
+              "end": 121,
+              "expanded_url": "http://transhelper.org",
+              "start": 98,
+              "unwound_url": "http://transhelper.org",
+              "url": "https://t.co/doySSXoIqp"
+            },
+            {
+              "display_url": "transhelper.org",
+              "end": 154,
+              "expanded_url": "http://www.transhelper.org",
+              "start": 131,
+              "unwound_url": "http://www.transhelper.org",
+              "url": "https://t.co/dOV8dpvcZY"
+            },
+            {
+              "display_url": "search.transhelper.org",
+              "end": 210,
+              "expanded_url": "http://search.transhelper.org",
+              "start": 187,
+              "status": 522,
+              "unwound_url": "http://search.transhelper.org",
+              "url": "https://t.co/9Gphmu8LGj"
+            },
+            {
+              "display_url": "x.com/minecraftxfj/s…",
+              "end": 234,
+              "expanded_url": "https://twitter.com/minecraftxfj/status/2068709091724439913",
+              "start": 211,
+              "url": "https://t.co/DIJPjU4GV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069132046119903633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068709091724439913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在访问 www.跨性别.help ，您的请求会被通过临时重定向的方式转发至 https://t.co/XQJ4XKWkaa\n待团队主页上线后，跨性别.help 、 www.跨性别.help 、 https://t.co/doySSXoIqp 将会被一同转发至 https://t.co/dOV8dpvcZY\n待开发完毕后，Trans-Search 项目的前端页面将迁移至 https://t.co/9Gphmu8LGj https://t.co/DIJPjU4GV3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 209,
+          "like_count": 3241,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 1444
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "MTF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 中......\n要和窝互 fo 嘛 qwq（？\n* X 有时吞 follow 和评论，如果发现超过一天了我还没有回 fo 或者评论您，可以私信我，谢谢❤️\n@xunfengjun666 转生😈👍\n友链&视奸&捐赠 and so on⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2061128300869919213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 271,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1318
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": false
+      }
+    ]
+  }
+}

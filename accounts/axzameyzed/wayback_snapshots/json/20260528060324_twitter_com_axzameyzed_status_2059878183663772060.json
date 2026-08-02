@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2059872229110976685",
+    "created_at": "2026-05-28T06:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059878183663772060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2051880722172882944",
+          "start": 0,
+          "username": "HUS632788630220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059878183663772060",
+    "in_reply_to_user_id": "2051880722172882944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059877481595937027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HUS632788630220 我已经把催乳素降了,这比上次低了不少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2059872229110976685",
+        "created_at": "2026-05-28T06:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059878183663772060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2051880722172882944",
+              "start": 0,
+              "username": "HUS632788630220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059878183663772060",
+        "in_reply_to_user_id": "2051880722172882944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059877481595937027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HUS632788630220 我已经把催乳素降了,这比上次低了不少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051880722172882944",
+        "conversation_id": "2059872229110976685",
+        "created_at": "2026-05-28T06:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059877481595937027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059877481595937027",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059872229110976685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 催乳素🥵是不是要有了🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 149,
+          "like_count": 1273,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 717
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-06T04:24:32.000Z",
+        "description": "",
+        "id": "2051880722172882944",
+        "location": "离死亡最近的地方",
+        "name": "HUS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055666437122088960/YJgZn5vy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 14,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 200
+        },
+        "username": "HUS632788630220",
+        "verified": false
+      }
+    ]
+  }
+}

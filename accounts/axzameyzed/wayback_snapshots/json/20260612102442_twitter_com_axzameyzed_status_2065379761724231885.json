@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2065308107044172149",
+    "created_at": "2026-06-12T10:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065379761724231885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2042969235505242112",
+          "start": 0,
+          "username": "lfcypo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065379761724231885",
+    "in_reply_to_user_id": "2042969235505242112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065379383314190353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lfcypo 可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065379373830774784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmzmP-aIAAzeCk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2065308107044172149",
+        "created_at": "2026-06-12T10:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065379761724231885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2042969235505242112",
+              "start": 0,
+              "username": "lfcypo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065379761724231885",
+        "in_reply_to_user_id": "2042969235505242112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065379383314190353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lfcypo 可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065379373830774784"
+          ]
+        },
+        "author_id": "2042969235505242112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065308107044172149",
+        "created_at": "2026-06-12T10:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065379383314190353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3gZCWT957R",
+              "end": 38,
+              "expanded_url": "https://x.com/lfcypo/status/2065379383314190353/photo/1",
+              "media_key": "3_2065379373830774784",
+              "start": 15,
+              "url": "https://t.co/3gZCWT957R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065379383314190353",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065308107044172149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 诶（ https://t.co/3gZCWT957R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 205,
+          "like_count": 2473,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1238
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T14:13:24.000Z",
+        "description": "08 广州｜高二在读｜计算机+生化+生理｜想变可爱喵\n\n目标医学方向｜性腺内分泌｜GAHT\n「如果这一切能帮ta们的话，那就去做吧！」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/lfcypo",
+                "end": 23,
+                "expanded_url": "https://github.com/lfcypo",
+                "start": 0,
+                "url": "https://t.co/l8q95vyHka"
+              }
+            ]
+          }
+        },
+        "id": "2042969235505242112",
+        "name": "lfcypo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042971547795890176/sMuA86rG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 47,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/l8q95vyHka",
+        "username": "lfcypo",
+        "verified": false
+      }
+    ]
+  }
+}

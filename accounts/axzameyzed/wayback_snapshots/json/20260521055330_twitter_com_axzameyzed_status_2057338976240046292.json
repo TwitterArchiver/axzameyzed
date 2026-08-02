@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2057325200082076048",
+    "created_at": "2026-05-21T05:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057338976240046292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1955980103688790017",
+          "start": 0,
+          "username": "aaarjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057338976240046292",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057325200082076048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkk 不应该是adb吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6077,
+        "height": 582,
+        "media_key": "7_2057325184873529345",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057325184873529345/pu/img/38fnpfbj0HXwueQ9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057325184873529345/pu/vid/avc1/592x270/NzZ-PxJzUaZhr5c5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057325184873529345/pu/vid/avc1/790x360/bhAifzVxxuk-RRVR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057325184873529345/pu/vid/avc1/1280x582/_6A_74o99XNsyMeL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057325184873529345/pu/pl/8CnGRxrcNE9X3K8O.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2057325200082076048",
+        "created_at": "2026-05-21T05:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057338976240046292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057338976240046292",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057325200082076048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 不应该是adb吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2057325184873529345"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2057325200082076048",
+        "created_at": "2026-05-21T04:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057325200082076048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rLq1IXQYuE",
+              "end": 41,
+              "expanded_url": "https://x.com/aaarjkk/status/2057325200082076048/video/1",
+              "media_key": "7_2057325184873529345",
+              "start": 18,
+              "url": "https://t.co/rLq1IXQYuE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057325200082076048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用abd把系统软件更新给停用了😋😋 https://t.co/rLq1IXQYuE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 135,
+          "like_count": 807,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 424
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们都能开开心心▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝player▯选择性互Follow(?)▯171cm▯52.8kg(胖了好多😭😭😭)▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "a0brjkk"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "127.0.0.1",
+        "name": "𝗮𝟬𝗯𝕽𝕵𝕶𝖐𝓨𝓣喵！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077701369913344/eD9OlVgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 738,
+          "like_count": 13872,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 1904
+        },
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

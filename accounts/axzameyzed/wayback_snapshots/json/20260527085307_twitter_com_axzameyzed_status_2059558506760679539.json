@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059558500523769856"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2059303389029388739",
+    "created_at": "2026-05-27T08:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059558506760679539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1642199099951939584",
+          "start": 0,
+          "username": "bluse50"
+        },
+        {
+          "end": 18,
+          "id": "1844296703282925568",
+          "start": 9,
+          "username": "0xJoveXu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kljjL3Tsnd",
+          "end": 62,
+          "expanded_url": "https://x.com/axzameyzed/status/2059558506760679539/photo/1",
+          "media_key": "3_2059558500523769856",
+          "start": 39,
+          "url": "https://t.co/kljjL3Tsnd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059558506760679539",
+    "in_reply_to_user_id": "1642199099951939584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059544878623936847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluse50 @0xJoveXu 我说白了我白说了，这玩意信的这辈子有了 https://t.co/kljjL3Tsnd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 975,
+        "media_key": "3_2059558500523769856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUFi1HbAAAcHa_.jpg",
+        "width": 693
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059558500523769856"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2059303389029388739",
+        "created_at": "2026-05-27T08:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059558506760679539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1642199099951939584",
+              "start": 0,
+              "username": "bluse50"
+            },
+            {
+              "end": 18,
+              "id": "1844296703282925568",
+              "start": 9,
+              "username": "0xJoveXu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kljjL3Tsnd",
+              "end": 62,
+              "expanded_url": "https://x.com/axzameyzed/status/2059558506760679539/photo/1",
+              "media_key": "3_2059558500523769856",
+              "start": 39,
+              "url": "https://t.co/kljjL3Tsnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059558506760679539",
+        "in_reply_to_user_id": "1642199099951939584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059544878623936847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluse50 @0xJoveXu 我说白了我白说了，这玩意信的这辈子有了 https://t.co/kljjL3Tsnd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642199099951939584",
+        "conversation_id": "2059303389029388739",
+        "created_at": "2026-05-27T07:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059544878623936847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1844296703282925568",
+              "start": 0,
+              "username": "0xJoveXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059544878623936847",
+        "in_reply_to_user_id": "1844296703282925568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059303389029388739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xJoveXu 哈哈我也46"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 147,
+          "like_count": 1200,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 660
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-01T16:15:56.000Z",
+        "description": "女性代词。社交能力0。主要分享医学和AI内容（均非本人专业领域）",
+        "id": "1642199099951939584",
+        "location": "柿树学院",
+        "name": "BluseL",
+        "pinned_tweet_id": "2058912814857945221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673313633462534144/RAfFa5on_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 184,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 167
+        },
+        "username": "bluse50",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-10T08:39:40.000Z",
+        "description": "正在探索Crypto、AI｜TG：JoveXu",
+        "id": "1844296703282925568",
+        "location": "不含任何投资建议.DYOR",
+        "name": "Jove. 💚 💧",
+        "pinned_tweet_id": "2057428462298599444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047500747449999360/hQYLmLWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16569,
+          "following_count": 7300,
+          "like_count": 35894,
+          "listed_count": 47,
+          "media_count": 904,
+          "tweet_count": 33535
+        },
+        "username": "0xJoveXu",
+        "verified": true
+      }
+    ]
+  }
+}

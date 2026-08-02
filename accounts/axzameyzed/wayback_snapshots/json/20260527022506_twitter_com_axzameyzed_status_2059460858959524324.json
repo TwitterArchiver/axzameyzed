@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2059448337624146086",
+    "created_at": "2026-05-27T02:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059460858959524324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1254442404410621958",
+          "start": 0,
+          "username": "zwh20081"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059460858959524324",
+    "in_reply_to_user_id": "1254442404410621958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059459385353748951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwh20081 每三天12.5确实相对较少，但是每天12.5你的PRL可能会飞起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2059448337624146086",
+        "created_at": "2026-05-27T02:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059460858959524324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254442404410621958",
+              "start": 0,
+              "username": "zwh20081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059460858959524324",
+        "in_reply_to_user_id": "1254442404410621958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059459385353748951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwh20081 每三天12.5确实相对较少，但是每天12.5你的PRL可能会飞起来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254442404410621958",
+        "conversation_id": "2059448337624146086",
+        "created_at": "2026-05-27T02:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059459385353748951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059459385353748951",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059456758532436389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 每三天12.5\n打算每天12.5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 146,
+          "like_count": 1160,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 639
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-26T16:09:22.000Z",
+        "description": "服务器运维&深度学习业余人士 ＆打工人\n北京素鳞智绘科技有限公司 CEO\nzwh20081@solart.pro 商务\n💖 @Littleloong233\n逃生舱：@zwh18002",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "Littleloong233"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "username": "zwh18002"
+              }
+            ]
+          }
+        },
+        "id": "1254442404410621958",
+        "location": "福州",
+        "name": "zwh20081🍥",
+        "pinned_tweet_id": "1984571952846283182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015805547640156161/ieeIZz3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 353,
+          "like_count": 17315,
+          "listed_count": 4,
+          "media_count": 532,
+          "tweet_count": 10661
+        },
+        "username": "zwh20081",
+        "verified": true
+      }
+    ]
+  }
+}

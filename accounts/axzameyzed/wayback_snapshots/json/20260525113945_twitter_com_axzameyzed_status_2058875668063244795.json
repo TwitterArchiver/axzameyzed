@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2058875668063244795",
+    "created_at": "2026-05-25T11:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058875668063244795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoyi_0324/st…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/xiaoyi_0324/status/2058874753805615401",
+          "start": 69,
+          "url": "https://t.co/QeUMHCaVRu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058875668063244795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058874753805615401",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前两天给我打电话的时候\n“这个X为什么一直在尝试从我卡里扣钱，哦是南昕这个号的premium，给他取消订阅，啥时候能给我顶号了再给他开” https://t.co/QeUMHCaVRu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2058874750299189248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKXrVCasAA-6hF.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2058875668063244795",
+        "created_at": "2026-05-25T11:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058875668063244795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyi_0324/st…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/xiaoyi_0324/status/2058874753805615401",
+              "start": 69,
+              "url": "https://t.co/QeUMHCaVRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058875668063244795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058874753805615401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前两天给我打电话的时候\n“这个X为什么一直在尝试从我卡里扣钱，哦是南昕这个号的premium，给他取消订阅，啥时候能给我顶号了再给他开” https://t.co/QeUMHCaVRu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058874750299189248"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2058874753805615401",
+        "created_at": "2026-05-25T11:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058874753805615401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9oj7m0mMl",
+              "end": 35,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2058874753805615401/photo/1",
+              "media_key": "3_2058874750299189248",
+              "start": 12,
+              "url": "https://t.co/Z9oj7m0mMl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058874753805615401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的群被唐毓文入侵了😭 https://t.co/Z9oj7m0mMl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 145,
+          "like_count": 1004,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 560
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTX(F?)|出柜:26/4/30|家长不管党?|🍥筹备中|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|⬇️匿名提問",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura",
+        "pinned_tweet_id": "2057134938068222099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 262,
+          "like_count": 1569,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 1676
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

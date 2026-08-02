@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2066549724522697133",
+    "created_at": "2026-06-15T15:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066550854598246732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2028802782019596288",
+          "start": 0,
+          "username": "ciallowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066550854598246732",
+    "in_reply_to_user_id": "2028802782019596288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066549724522697133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciallowo 宝宝我喜欢你（？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "# 《关于规范当前不规范分支命名规范以实现规范命名规范化的规范性议案》\n\n## 一、议案背景说明\n当前项目后端仓库`TransCircle/TransCircle-Backend`存在主开发分支命名为 develop 的历史遗留设计。该命名在实际使用过程中已逐渐承担主分支职能，但在语义层面仍保留“开发分支”语义残留，导致分支角色与命名表达之间存在轻微但持续的结构性偏差。  \n\n\n## 二、问题定义\n现阶段主要问题不在于功能实现，而在于分支命名语义与实际职责之间的不一致，具体表现为：    \n1. develop 名称无法准确表达其实际作为主干分支的角色  \n2. 新成员在理解仓库结构时存在额外认知负担\n工具链配置中对 develop 的默认假设与实际用途存在偏移风险  \n3. 命名结构未对齐当前通用 Git 分支命名范式\n\n## 三、解决方案\n为从根本上消除上述语义偏差，本议案提出唯一且直接的解决方案：  \n- 将当前 develop 分支重命名为 main，并将 main 作为仓库唯一默认主开发分支。  \n\n该方案通过“命名对齐实际职责”的方式，实现以下效果：\n\n- 消除 develop 语义残留\n- 统一主干分支语义表达\n- 使仓库结构与行业通行规范一致\n- 降低认知映射成本\n\n## 四、实施范围\n本次调整仅涉及分支命名结构，不涉及代码逻辑、提交历史或开发流程变更。  \n\n## 五、预期结果\n调整完成后，仓库结构将从“语义历史遗留型结构”转变为“语义-职责一致型结构”，从而提升整体一致性与理解效率。\n\n## 六、结论\n本议案认为，解决当前问题的最优路径不是新增规则，而是通过一次性重命名操作实现语义收敛，因此建议直接执行 develop → main 的命名迁移。",
+        "height": 2179,
+        "media_key": "3_2066549590351048704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3b50OacAAN3vF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2066549724522697133",
+        "created_at": "2026-06-15T15:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066550854598246732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2028802782019596288",
+              "start": 0,
+              "username": "ciallowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066550854598246732",
+        "in_reply_to_user_id": "2028802782019596288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066549724522697133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciallowo 宝宝我喜欢你（？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066549590351048704"
+          ]
+        },
+        "author_id": "2028802782019596288",
+        "conversation_id": "2066549724522697133",
+        "created_at": "2026-06-15T15:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066549724522697133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TUXSoBIIHw",
+              "end": 57,
+              "expanded_url": "https://x.com/ciallowo/status/2066549724522697133/photo/1",
+              "media_key": "3_2066549590351048704",
+              "start": 34,
+              "url": "https://t.co/TUXSoBIIHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066549724522697133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "《关于规范当前不规范分支命名规范以实现规范命名规范化的规范性议案》 https://t.co/TUXSoBIIHw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 206,
+          "like_count": 2705,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1305
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-03T12:01:07.000Z",
+        "description": "哈囉哈囉，這裡是小霧喵。很高興認識你喵～希望能帶給你更多快樂一點… \n| 11後 | 165 51 | ISFP | 國/初二 | 泛性戀？ | 友跨喵 | 咱不是跨… | 不割手手/od | 嘴笨笨滴 | zh-cn/zh-tw/en | 成分/私信回 | 故鄉台灣 | 現居大陸 | Nonpartisan&不鍵政…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Ryousuke05",
+                "end": 23,
+                "expanded_url": "http://github.com/Ryousuke05",
+                "start": 0,
+                "url": "https://t.co/ZkWmHQpNQa"
+              }
+            ]
+          }
+        },
+        "id": "2028802782019596288",
+        "location": "距離地球99兆米",
+        "name": "小霧喵～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058500600917295104/iRL6lP95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 347,
+          "like_count": 734,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 262
+        },
+        "url": "https://t.co/ZkWmHQpNQa",
+        "username": "ciallowo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2053474879219912888",
+    "created_at": "2026-05-10T13:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T14:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053474879219912888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/teamtransmtf/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/teamtransmtf/status/2053473838361424085",
+          "start": 19,
+          "url": "https://t.co/yBskSxY4nB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053474879219912888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053473838361424085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小长文喵\n如果反响好的话会有下一期的 https://t.co/yBskSxY4nB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2053474879219912888",
+        "created_at": "2026-05-10T13:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053474879219912888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/teamtransmtf/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/teamtransmtf/status/2053473838361424085",
+              "start": 19,
+              "url": "https://t.co/yBskSxY4nB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053474879219912888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053473838361424085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小长文喵\n如果反响好的话会有下一期的 https://t.co/yBskSxY4nB"
+      },
+      {
+        "article": {
+          "title": "关于HRT(雌)的研究——凝胶"
+        },
+        "attachments": {},
+        "author_id": "2012914101987762177",
+        "conversation_id": "2053473838361424085",
+        "created_at": "2026-05-10T13:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053473838361424085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2053…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2053435967327858688",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2053435967327858688",
+              "url": "https://t.co/7wA6b1fGZ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053473838361424085",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7wA6b1fGZ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 53,
+          "like_count": 99,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 25
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号\n进行mtf/mtx的hrt相关研究\n我们的团队成员有两人\n分别是 @mxyzcdb 和 @EleanorAnatidae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR2ygV"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "pinned_tweet_id": "2044611481392525523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 13,
+          "like_count": 676,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/MDakkR2ygV",
+        "username": "TeamTransmtf",
+        "verified": true
+      }
+    ]
+  }
+}

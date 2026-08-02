@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2054562806780014978",
+    "created_at": "2026-05-13T14:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054565264599961617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3032768018",
+          "start": 0,
+          "username": "Chiyorin8964"
+        },
+        {
+          "end": 21,
+          "id": "1902568136450424832",
+          "start": 14,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054565264599961617",
+    "in_reply_to_user_id": "3032768018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054562806780014978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyorin8964 @aoim33 怎么还有下海环节"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1415,
+        "media_key": "3_2054562803147845632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HINF--JbsAAW1WF.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2054562806780014978",
+        "created_at": "2026-05-13T14:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054565264599961617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3032768018",
+              "start": 0,
+              "username": "Chiyorin8964"
+            },
+            {
+              "end": 21,
+              "id": "1902568136450424832",
+              "start": 14,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054565264599961617",
+        "in_reply_to_user_id": "3032768018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054562806780014978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyorin8964 @aoim33 怎么还有下海环节"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054562803147845632"
+          ]
+        },
+        "author_id": "3032768018",
+        "conversation_id": "2054562806780014978",
+        "created_at": "2026-05-13T14:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054562806780014978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1902568136450424832",
+              "start": 17,
+              "username": "aoim33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bh1RqZBRWs",
+              "end": 67,
+              "expanded_url": "https://x.com/Chiyorin8964/status/2054562806780014978/photo/1",
+              "media_key": "3_2054562803147845632",
+              "start": 44,
+              "url": "https://t.co/bh1RqZBRWs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054562806780014978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家人们拉到第一笔赞助了，感谢老板😋@aoim33 \n还私发了几张好图当感谢好兄弟支持🤓 https://t.co/bh1RqZBRWs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 105,
+          "like_count": 374,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 189
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-20T12:27:32.000Z",
+        "description": "🇪🇺🇺🇦🇯🇵🇹🇼/上海｜東京/02/男/铁道/航空/Airsoft/摄影/BanG Dream/女装 早稲田大学 M1\n😘：@DurantRaym93677 里：@cccy0037\nTG频道：https://t.co/Es5shIbjtN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "DurantRaym93677"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "cccy0037"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+50DhiKY5l-s5N…",
+                "end": 119,
+                "expanded_url": "https://t.me/+50DhiKY5l-s5NDBl",
+                "start": 96,
+                "url": "https://t.co/Es5shIbjtN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/8leun8gncrcug2…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/8leun8gncrcug2l?t=qy144m&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/dSRKPVvMWt"
+              }
+            ]
+          }
+        },
+        "id": "3032768018",
+        "location": "埼玉県 所沢市",
+        "name": "千世Chiyo",
+        "pinned_tweet_id": "2036269883038769496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006583057227329545/84VfXOPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 1574,
+          "like_count": 7376,
+          "listed_count": 9,
+          "media_count": 973,
+          "tweet_count": 3727
+        },
+        "url": "https://t.co/dSRKPVvMWt",
+        "username": "Chiyorin8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / SH HZ metro bot / maimai & arcaea / CN EN JP KR / @supernovaArcaea team member / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2053807063571341466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5301,
+          "following_count": 2918,
+          "like_count": 48459,
+          "listed_count": 19,
+          "media_count": 2781,
+          "tweet_count": 12071
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

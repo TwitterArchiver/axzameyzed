@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2065907609803399554",
+    "created_at": "2026-06-14T07:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066065503244984751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608637128132685825",
+          "start": 0,
+          "username": "nyaepheia"
+        },
+        {
+          "end": 22,
+          "id": "2909931697",
+          "start": 11,
+          "username": "baobao1270"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066065503244984751",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066065290639863957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@nyaepheia @baobao1270 🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066065290639863957].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066065290639863957",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066065290639863957"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2065907609803399554",
+        "created_at": "2026-06-14T07:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066065503244984751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 22,
+              "id": "2909931697",
+              "start": 11,
+              "username": "baobao1270"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066065503244984751",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066065290639863957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@nyaepheia @baobao1270 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 208,
+          "like_count": 2636,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1283
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "https://t.co/nBvMeK1OLJ \n/ɪˈfiːə/ she/they\n评论&备用账号&误ban申诉@epheiamoe\nNo NSFW. 不互fo\n日常作息UTC-3\n\nhrt since26.4.1\n账号访问权限：@yxrchina @0502railgun1949 @lckmtfdesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "yxrchina"
+              },
+              {
+                "end": 142,
+                "start": 126,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "lckmtfdesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/OH6juSIljq"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2065656286415634651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 884,
+          "like_count": 30276,
+          "listed_count": 3,
+          "media_count": 555,
+          "tweet_count": 5729
+        },
+        "url": "https://t.co/OH6juSIljq",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-25T10:56:02.000Z",
+        "description": "「生如逆旅 · 一苇以航」| Naïve Vocaloid Producer - 天依粉 / 南北一生推 | Full Stack Developer - Python / TypeScript / C# / Linux / Docker | BGP Player | FCC T Class HAM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "josephcz.xyz",
+                "end": 23,
+                "expanded_url": "https://josephcz.xyz/",
+                "start": 0,
+                "url": "https://t.co/zAct5bSovf"
+              }
+            ]
+          }
+        },
+        "id": "2909931697",
+        "location": "California",
+        "name": "Joseph Chris",
+        "pinned_tweet_id": "1727791349729309049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/861241603763036160/fEbbOWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 368,
+          "like_count": 1277,
+          "listed_count": 17,
+          "media_count": 533,
+          "tweet_count": 5033
+        },
+        "url": "https://t.co/zAct5bSovf",
+        "username": "baobao1270",
+        "verified": false
+      }
+    ]
+  }
+}

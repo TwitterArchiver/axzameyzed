@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2054063116103962912",
+    "created_at": "2026-05-12T08:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T09:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054118215245025348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1164388321545449472",
+          "start": 0,
+          "username": "imwsl90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054118215245025348",
+    "in_reply_to_user_id": "1164388321545449472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054063116103962912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imwsl90 你不充钱或者充20刀，用量很有限也没啥的\n但是要是充了200刀，你恨不得用出2000刀的量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2054063116103962912",
+        "created_at": "2026-05-12T08:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054118215245025348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1164388321545449472",
+              "start": 0,
+              "username": "imwsl90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054118215245025348",
+        "in_reply_to_user_id": "1164388321545449472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054063116103962912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imwsl90 你不充钱或者充20刀，用量很有限也没啥的\n但是要是充了200刀，你恨不得用出2000刀的量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164388321545449472",
+        "conversation_id": "2054063116103962912",
+        "created_at": "2026-05-12T04:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T05:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054063116103962912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054063116103962912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 37991,
+          "like_count": 157,
+          "quote_count": 3,
+          "reply_count": 176,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "群聊了一会儿，发现一个很搞笑的事情\n\nClaude\n\n不充钱，不会被封\n\n冲20刀，不会被封\n\n冲100刀、200刀，封的概率很大\n\n总之，你给他们钱越多，被封的概率越大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 86,
+          "like_count": 243,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 96
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-22T04:06:29.000Z",
+        "description": "程序员/产品经理/销售/中年已婚带2娃\n\n- 互联网、编程、AI、情感、历史、八卦\n\n联系方式: https://t.co/qhzcXicBvG\n低调魔法：https://t.co/B5SfJ7LTgf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/imwsl90",
+                "end": 72,
+                "expanded_url": "https://t.me/imwsl90",
+                "start": 49,
+                "url": "https://t.co/qhzcXicBvG"
+              },
+              {
+                "display_url": "tinyurl.com/4auuxfw9",
+                "end": 101,
+                "expanded_url": "https://tinyurl.com/4auuxfw9",
+                "start": 78,
+                "url": "https://t.co/B5SfJ7LTgf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "imwsl.com",
+                "end": 23,
+                "expanded_url": "https://imwsl.com",
+                "start": 0,
+                "url": "https://t.co/jkPrQuSVQg"
+              }
+            ]
+          }
+        },
+        "id": "1164388321545449472",
+        "location": "V: wesley6020",
+        "name": "卫斯理",
+        "pinned_tweet_id": "2053976706239852655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770626410606141440/HFy0Ibg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91075,
+          "following_count": 7835,
+          "like_count": 49199,
+          "listed_count": 599,
+          "media_count": 14400,
+          "tweet_count": 78341
+        },
+        "url": "https://t.co/jkPrQuSVQg",
+        "username": "imwsl90",
+        "verified": true
+      }
+    ]
+  }
+}

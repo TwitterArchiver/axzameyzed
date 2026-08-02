@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2074531102312772004",
+    "created_at": "2026-07-07T17:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074544546185429335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1545801302617116672",
+          "start": 0,
+          "username": "Minecraftxfj"
+        }
+      ],
+      "urls": [
+        {
+          "description": "正元智慧（股票代码：300645）以“用卓越的技术和服务，伴随用户共生共长”为使命，致力于成为国内领先的数字化服务提供商和运营商。公司自1994年创建以来，通过不断地创新技术、产品与解决方案助力教育行业从信息化到数字化的发展变革，为数千家高校、企事业单位及数千万师生、企事业员工带来智慧体验，让智慧之美无处不在。",
+          "display_url": "hzsun.com",
+          "end": 68,
+          "expanded_url": "https://www.hzsun.com",
+          "start": 45,
+          "status": 200,
+          "title": "正元智慧集团股份有限公司-首页",
+          "unwound_url": "https://www.hzsun.com",
+          "url": "https://t.co/PUgyVdvDk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074544546185429335",
+    "in_reply_to_user_id": "1545801302617116672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074543607420457376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minecraftxfj 我们高中也是人脸\n我们学校整个的校园认证系统都外包给了这家\n\nhttps://t.co/PUgyVdvDk2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2074531102312772004",
+        "created_at": "2026-07-07T17:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074544546185429335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ],
+          "urls": [
+            {
+              "description": "正元智慧（股票代码：300645）以“用卓越的技术和服务，伴随用户共生共长”为使命，致力于成为国内领先的数字化服务提供商和运营商。公司自1994年创建以来，通过不断地创新技术、产品与解决方案助力教育行业从信息化到数字化的发展变革，为数千家高校、企事业单位及数千万师生、企事业员工带来智慧体验，让智慧之美无处不在。",
+              "display_url": "hzsun.com",
+              "end": 68,
+              "expanded_url": "https://www.hzsun.com",
+              "start": 45,
+              "status": 200,
+              "title": "正元智慧集团股份有限公司-首页",
+              "unwound_url": "https://www.hzsun.com",
+              "url": "https://t.co/PUgyVdvDk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074544546185429335",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074543607420457376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 我们高中也是人脸\n我们学校整个的校园认证系统都外包给了这家\n\nhttps://t.co/PUgyVdvDk2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2074531102312772004",
+        "created_at": "2026-07-07T17:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074543607420457376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074543607420457376",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074542821001080946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 估计卡是外包给别人做的吧，自己不管控这个（？\n高中食堂这都是人脸了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 214,
+          "like_count": 4013,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 1642
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtF🏳️‍⚧️ 无证含糖 怀疑状态 高三😱\n戒 OD & 自伤 ing......\n要和窝互 fo 嘛 qwq（？\n@xunfengjun666 转生？！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "xunfengjun666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 331,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1869
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      }
+    ]
+  }
+}

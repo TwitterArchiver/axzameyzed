@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2078358978992689657",
+    "created_at": "2026-07-18T06:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078367622882865314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1560959425",
+          "start": 0,
+          "username": "RhenCloud_"
+        },
+        {
+          "end": 27,
+          "id": "2055356059066466304",
+          "start": 12,
+          "username": "TransCircleOrg"
+        },
+        {
+          "end": 39,
+          "id": "2057835711458693120",
+          "start": 28,
+          "username": "TransPrism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078367622882865314",
+    "in_reply_to_user_id": "1560959425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078367533032501509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RhenCloud_ @TransCircleOrg @TransPrism 可以，我没绷住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 310,
+        "media_key": "3_2078367524035694593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfYQF7bEAEG8TJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2078358978992689657",
+        "created_at": "2026-07-18T06:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078367622882865314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1560959425",
+              "start": 0,
+              "username": "RhenCloud_"
+            },
+            {
+              "end": 27,
+              "id": "2055356059066466304",
+              "start": 12,
+              "username": "TransCircleOrg"
+            },
+            {
+              "end": 39,
+              "id": "2057835711458693120",
+              "start": 28,
+              "username": "TransPrism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078367622882865314",
+        "in_reply_to_user_id": "1560959425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078367533032501509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RhenCloud_ @TransCircleOrg @TransPrism 可以，我没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078367524035694593"
+          ]
+        },
+        "author_id": "1560959425",
+        "conversation_id": "2078358978992689657",
+        "created_at": "2026-07-18T06:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078367533032501509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 27,
+              "id": "2055356059066466304",
+              "start": 12,
+              "username": "TransCircleOrg"
+            },
+            {
+              "end": 39,
+              "id": "2057835711458693120",
+              "start": 28,
+              "username": "TransPrism"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYLM1P4x2V",
+              "end": 67,
+              "expanded_url": "https://x.com/RhenCloud_/status/2078367533032501509/photo/1",
+              "media_key": "3_2078367524035694593",
+              "start": 44,
+              "url": "https://t.co/YYLM1P4x2V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078367533032501509",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078365188848595356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed @TransCircleOrg @TransPrism 因为： https://t.co/YYLM1P4x2V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 215,
+          "like_count": 4469,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 1776
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-01T16:34:33.000Z",
+        "description": "🏳️‍⚧️MTF HRT: 2026.05.24\n家长反对党\nhttps://t.co/QQ1gFO9AHS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/rhencloud_chat…",
+                "end": 54,
+                "expanded_url": "https://t.me/rhencloud_chat_bot",
+                "start": 31,
+                "url": "https://t.co/QQ1gFO9AHS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rhen.cloud",
+                "end": 23,
+                "expanded_url": "https://rhen.cloud",
+                "start": 0,
+                "url": "https://t.co/9WUSPofmNG"
+              }
+            ]
+          }
+        },
+        "id": "1560959425",
+        "location": "世界的尽头",
+        "name": "泠云",
+        "pinned_tweet_id": "2049168373322596425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047200196996784128/Qstb92OW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 187,
+          "like_count": 5795,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 993
+        },
+        "url": "https://t.co/9WUSPofmNG",
+        "username": "RhenCloud_",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T18:35:13.000Z",
+        "description": "中文推特女性倾向跨性别者社群史官项目\n我们深信历史终将向前。这份记录，就是我们走过长夜的铁证。\nGithub: https://t.co/8uXoPf6E7j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TransCircle",
+                "end": 79,
+                "expanded_url": "https://github.com/TransCircle",
+                "start": 56,
+                "url": "https://t.co/8uXoPf6E7j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transcircle.org",
+                "end": 23,
+                "expanded_url": "http://transcircle.org",
+                "start": 0,
+                "url": "https://t.co/r8ea82NCCb"
+              }
+            ]
+          }
+        },
+        "id": "2055356059066466304",
+        "name": "TransCircle 跨环",
+        "pinned_tweet_id": "2055975013145260489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076675773323464704/dWkZjC3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 35,
+          "like_count": 142,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/r8ea82NCCb",
+        "username": "TransCircleOrg",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-22T14:48:25.000Z",
+        "description": "专为跨性别群体（Transgender）打造的极简、安全、双擎驱动的实用工具箱。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/daanser/Trans-…",
+                "end": 23,
+                "expanded_url": "https://github.com/daanser/Trans-Prism",
+                "start": 0,
+                "url": "https://t.co/XqPOPH35mX"
+              }
+            ]
+          }
+        },
+        "id": "2057835711458693120",
+        "name": "Trans Prism",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057928403886743553/weZYqjv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 13,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/XqPOPH35mX",
+        "username": "TransPrism",
+        "verified": false
+      }
+    ]
+  }
+}

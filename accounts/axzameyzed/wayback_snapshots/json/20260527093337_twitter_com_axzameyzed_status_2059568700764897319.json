@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2059553001761882455",
+    "created_at": "2026-05-27T09:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059568700764897319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058125728361943041",
+          "start": 0,
+          "username": "zwh18002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059568700764897319",
+    "in_reply_to_user_id": "2058125728361943041",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059565158129872980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwh18002 🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2059565158129872980].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2059565158129872980",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2059565158129872980"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2059553001761882455",
+        "created_at": "2026-05-27T09:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059568700764897319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058125728361943041",
+              "start": 0,
+              "username": "zwh18002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059568700764897319",
+        "in_reply_to_user_id": "2058125728361943041",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059565158129872980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwh18002 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 148,
+          "like_count": 1205,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 663
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-23T10:01:01.000Z",
+        "description": "@zwh20081\n喵喵喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "zwh20081"
+              }
+            ]
+          }
+        },
+        "id": "2058125728361943041",
+        "location": "K, DPR of",
+        "name": "zwh18002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058126216838909953/bH2dBpvD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 45,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 66
+        },
+        "username": "zwh18002",
+        "verified": false
+      }
+    ]
+  }
+}

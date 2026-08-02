@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2059041068247871753",
+    "created_at": "2026-05-26T00:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T01:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059070507241329053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870108535268487169",
+          "start": 0,
+          "username": "MomoseReina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059070507241329053",
+    "in_reply_to_user_id": "1870108535268487169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059041068247871753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MomoseReina 他们说的是一经封号立即退款，需要5-10个工作日，给他们官方发个邮件可能会快一点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2059040888849125376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJMux3XbUAAt2DN.png",
+        "width": 778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2059041068247871753",
+        "created_at": "2026-05-26T00:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T01:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059070507241329053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059070507241329053",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059041068247871753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 他们说的是一经封号立即退款，需要5-10个工作日，给他们官方发个邮件可能会快一点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059040888849125376"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "2059041068247871753",
+        "created_at": "2026-05-25T22:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T23:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059041068247871753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RjlIWKSlEG",
+              "end": 40,
+              "expanded_url": "https://x.com/MomoseReina/status/2059041068247871753/photo/1",
+              "media_key": "3_2059040888849125376",
+              "start": 17,
+              "url": "https://t.co/RjlIWKSlEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059041068247871753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恐怖游戏，更恐怖的是 封号不退款 https://t.co/RjlIWKSlEG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 144,
+          "like_count": 1043,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 586
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 339,
+          "like_count": 8388,
+          "listed_count": 4,
+          "media_count": 344,
+          "tweet_count": 5821
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

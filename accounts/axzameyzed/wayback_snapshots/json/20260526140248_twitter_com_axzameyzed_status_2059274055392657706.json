@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2059274055392657706",
+    "created_at": "2026-05-26T14:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059274055392657706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2012914101987762177",
+          "start": 3,
+          "username": "TeamTransmtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059274055392657706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059273035694436665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TeamTransmtf: 批量添加功能的适用范围已从原先的三种给药途径，正式拓展至全部给药方式\n批量模式下各项参数配置与单条添加保持完全一致，包括舌下含服等级设定、自定义 θ 参数输入、贴片 dose/rate 双模式切换，以及 E2 等效与原料 mg 双向换算及剂量…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 537,
+        "media_key": "3_2059273017898012672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQB5jdbkAAceFK.jpg",
+        "width": 749
+      },
+      {
+        "height": 497,
+        "media_key": "3_2059273018338422785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQB5lGbsAEn3kC.jpg",
+        "width": 750
+      },
+      {
+        "height": 1095,
+        "media_key": "3_2059273018443198464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQB5lfacAAkxiZ.jpg",
+        "width": 750
+      },
+      {
+        "height": 1095,
+        "media_key": "3_2059273017923080192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQB5jjaEAAvgcF.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2059274055392657706",
+        "created_at": "2026-05-26T14:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059274055392657706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2012914101987762177",
+              "start": 3,
+              "username": "TeamTransmtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059274055392657706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059273035694436665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TeamTransmtf: 批量添加功能的适用范围已从原先的三种给药途径，正式拓展至全部给药方式\n批量模式下各项参数配置与单条添加保持完全一致，包括舌下含服等级设定、自定义 θ 参数输入、贴片 dose/rate 双模式切换，以及 E2 等效与原料 mg 双向换算及剂量…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059273017898012672",
+            "3_2059273018338422785",
+            "3_2059273018443198464",
+            "3_2059273017923080192"
+          ]
+        },
+        "author_id": "2012914101987762177",
+        "conversation_id": "2059273035694436665",
+        "created_at": "2026-05-26T13:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059273035694436665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFqDI3z15v",
+              "end": 150,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2059273035694436665/photo/1",
+              "media_key": "3_2059273017898012672",
+              "start": 127,
+              "url": "https://t.co/cFqDI3z15v"
+            },
+            {
+              "display_url": "pic.x.com/cFqDI3z15v",
+              "end": 150,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2059273035694436665/photo/1",
+              "media_key": "3_2059273018338422785",
+              "start": 127,
+              "url": "https://t.co/cFqDI3z15v"
+            },
+            {
+              "display_url": "pic.x.com/cFqDI3z15v",
+              "end": 150,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2059273035694436665/photo/1",
+              "media_key": "3_2059273018443198464",
+              "start": 127,
+              "url": "https://t.co/cFqDI3z15v"
+            },
+            {
+              "display_url": "pic.x.com/cFqDI3z15v",
+              "end": 150,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2059273035694436665/photo/1",
+              "media_key": "3_2059273017923080192",
+              "start": 127,
+              "url": "https://t.co/cFqDI3z15v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059273035694436665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "批量添加功能的适用范围已从原先的三种给药途径，正式拓展至全部给药方式\n批量模式下各项参数配置与单条添加保持完全一致，包括舌下含服等级设定、自定义 θ 参数输入、贴片 dose/rate 双模式切换，以及 E2 等效与原料 mg 双向换算及剂量等级提示等\n为提高操作效率，预览界面现已支持逐条独立编辑。点击对应数据行即可调出完整编辑器，直接修改任意参数，无需返回上一步重新生成"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "批量添加功能的适用范围已从原先的三种给药途径，正式拓展至全部给药方式\n批量模式下各项参数配置与单条添加保持完全一致，包括舌下含服等级设定、自定义 θ 参数输入、贴片 dose/rate 双模式切换，以及 E2 等效与原料 mg 双向换算及剂量等级提示等 https://t.co/cFqDI3z15v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 145,
+          "like_count": 1118,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 621
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号\n进行mtf/mtx的hrt相关研究\n我们的团队成员有两人\n分别是 @mxyzcdb 和 @EleanorAnatidae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR2ygV"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "pinned_tweet_id": "2044611481392525523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 14,
+          "like_count": 847,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/MDakkR2ygV",
+        "username": "TeamTransmtf",
+        "verified": true
+      }
+    ]
+  }
+}

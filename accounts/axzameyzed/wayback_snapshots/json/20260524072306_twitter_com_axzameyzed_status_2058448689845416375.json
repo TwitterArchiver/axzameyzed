@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2058119554547761404",
+    "created_at": "2026-05-24T07:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T08:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058448689845416375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1153921233445986304",
+          "start": 0,
+          "username": "shirumesu"
+        },
+        {
+          "end": 21,
+          "id": "1751497892001685504",
+          "start": 11,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058448689845416375",
+    "in_reply_to_user_id": "1153921233445986304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058185354541506806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirumesu @45_206MHz 现在不是封号而是冻结账号，需要手动申请退款"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2058119554547761404",
+        "created_at": "2026-05-24T07:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058448689845416375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1153921233445986304",
+              "start": 0,
+              "username": "shirumesu"
+            },
+            {
+              "end": 21,
+              "id": "1751497892001685504",
+              "start": 11,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058448689845416375",
+        "in_reply_to_user_id": "1153921233445986304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058185354541506806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirumesu @45_206MHz 现在不是封号而是冻结账号，需要手动申请退款"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153921233445986304",
+        "conversation_id": "2058119554547761404",
+        "created_at": "2026-05-23T13:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058185354541506806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751497892001685504",
+              "start": 0,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058185354541506806",
+        "in_reply_to_user_id": "1751497892001685504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058119554547761404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@45_206MHz 要爱惜点.jpg\n\n现在好像不退款了，我的刚付完半天就封了直接不退"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 141,
+          "like_count": 940,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 532
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T06:53:55.000Z",
+        "description": "我oc: 希露梅斯·莉莉丝·菲利欧露 · 巡礼魔女 ~ 愿歌赫姆的星光永不消逝\ninfp，我尽量友好，写上头语气会冲致歉\n需要正在关注时间线，所以默认不回 fo 致歉\n祝你开心 ~✧\n\n马斯克你终于发现大伙需要简介换行功能了",
+        "id": "1153921233445986304",
+        "location": "伊萨拉姆圣王国",
+        "name": "希露梅斯",
+        "pinned_tweet_id": "1936780239897870805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054250185233162240/cMZsJMav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 27,
+          "like_count": 30258,
+          "listed_count": 7,
+          "media_count": 546,
+          "tweet_count": 18154
+        },
+        "username": "shirumesu",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN / en-NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "45_206io"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 123,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 100,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2055643018267684993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 496,
+          "like_count": 35106,
+          "listed_count": 1,
+          "media_count": 770,
+          "tweet_count": 4279
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

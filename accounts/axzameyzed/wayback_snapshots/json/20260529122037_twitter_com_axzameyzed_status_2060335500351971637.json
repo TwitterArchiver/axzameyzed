@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2060290050903179553",
+    "created_at": "2026-05-29T12:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060335500351971637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1642199099951939584",
+          "start": 0,
+          "username": "bluse50"
+        },
+        {
+          "end": 21,
+          "id": "1892789733287460864",
+          "start": 9,
+          "username": "XIAOSUSU456"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/XIAOSUSU456/st…",
+          "end": 45,
+          "expanded_url": "https://x.com/XIAOSUSU456/status/2056696023070982487?s=20",
+          "start": 22,
+          "url": "https://t.co/nvCnAu70U8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060335500351971637",
+    "in_reply_to_user_id": "1642199099951939584",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056696023070982487",
+        "type": "quoted"
+      },
+      {
+        "id": "2060334750934647053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluse50 @XIAOSUSU456 https://t.co/nvCnAu70U8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056696019287769088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIraIfibgAA2N5y.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2060290050903179553",
+        "created_at": "2026-05-29T12:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060335500351971637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1642199099951939584",
+              "start": 0,
+              "username": "bluse50"
+            },
+            {
+              "end": 21,
+              "id": "1892789733287460864",
+              "start": 9,
+              "username": "XIAOSUSU456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/XIAOSUSU456/st…",
+              "end": 45,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2056696023070982487?s=20",
+              "start": 22,
+              "url": "https://t.co/nvCnAu70U8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060335500351971637",
+        "in_reply_to_user_id": "1642199099951939584",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056696023070982487",
+            "type": "quoted"
+          },
+          {
+            "id": "2060334750934647053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluse50 @XIAOSUSU456 https://t.co/nvCnAu70U8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056696019287769088"
+          ]
+        },
+        "author_id": "1892789733287460864",
+        "conversation_id": "2056696023070982487",
+        "created_at": "2026-05-19T11:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056696023070982487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vjSZwYIiI",
+              "end": 42,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2056696023070982487/photo/1",
+              "media_key": "3_2056696019287769088",
+              "start": 19,
+              "url": "https://t.co/5vjSZwYIiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056696023070982487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4072,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "弄好了😋😋😋(调用了2345api) https://t.co/5vjSZwYIiI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642199099951939584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2060290050903179553",
+        "created_at": "2026-05-29T12:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060334750934647053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892789733287460864",
+              "start": 0,
+              "username": "XIAOSUSU456"
+            },
+            {
+              "end": 24,
+              "id": "2053360211948109826",
+              "start": 13,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060334750934647053",
+        "in_reply_to_user_id": "1642199099951939584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060333174400618722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOSUSU456 @axzameyzed 我说这么多不是想说别的，只是想说：在开口说别人“可能就是个简单UI”之前，先看看自己做了什么。你拿一个单 html+js和css的前端去跟人比，说人家“简单”。\n\n祝你们都越做越好，但下次评价别人的项目之前，建议先看看自己站在什么位置。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 165,
+          "like_count": 1370,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 796
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-01T16:15:56.000Z",
+        "description": "女性代词。社交能力0。主要分享医学和AI内容",
+        "id": "1642199099951939584",
+        "location": "柿树学院",
+        "name": "BluseL",
+        "pinned_tweet_id": "2058912814857945221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673313633462534144/RAfFa5on_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 260,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 275
+        },
+        "username": "bluse50",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T04:13:44.000Z",
+        "description": "家长不管党 年龄党 MtF/X 较社恐\n16岁，高一，不od，不自残，小证含糖\nHRT🍥:2026.04.17 | 友跨友lgbtq+文化 | INFP-T 出生日:2010.3.16\nminecraft丨异环丨铁锈战争玩家\nHTML/Gore/数码/深度二次元/AI\nMTF世界创始人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf-world.com",
+                "end": 23,
+                "expanded_url": "http://mtf-world.com",
+                "start": 0,
+                "url": "https://t.co/wL0Pqnb7i9"
+              }
+            ]
+          }
+        },
+        "id": "1892789733287460864",
+        "name": "_Xiaosuda_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046919261994823935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052239433743949824/zVtNaMaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 95,
+          "like_count": 10,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 229
+        },
+        "url": "https://t.co/wL0Pqnb7i9",
+        "username": "XIAOSUSU456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068728393865310209"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2068728402740474075",
+    "created_at": "2026-06-21T16:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068728402740474075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nF5mGtO7cN",
+          "end": 38,
+          "expanded_url": "https://x.com/axzameyzed/status/2068728402740474075/photo/1",
+          "media_key": "3_2068728393865310209",
+          "start": 15,
+          "url": "https://t.co/nF5mGtO7cN"
+        },
+        {
+          "display_url": "x.com/teamtransmtf/s…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/teamtransmtf/status/2068727785418572000",
+          "start": 39,
+          "url": "https://t.co/8BVsGiPDk7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068728402740474075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068727785418572000",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完整更新报告（通知频道同款） https://t.co/nF5mGtO7cN https://t.co/8BVsGiPDk7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_2068728393865310209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWZg30bMAEtbCW.jpg",
+        "width": 1224
+      },
+      {
+        "height": 301,
+        "media_key": "3_2068727778187644928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWY9CPbkAAxqfZ.jpg",
+        "width": 670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068728393865310209"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2068728402740474075",
+        "created_at": "2026-06-21T16:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068728402740474075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nF5mGtO7cN",
+              "end": 38,
+              "expanded_url": "https://x.com/axzameyzed/status/2068728402740474075/photo/1",
+              "media_key": "3_2068728393865310209",
+              "start": 15,
+              "url": "https://t.co/nF5mGtO7cN"
+            },
+            {
+              "display_url": "x.com/teamtransmtf/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/teamtransmtf/status/2068727785418572000",
+              "start": 39,
+              "url": "https://t.co/8BVsGiPDk7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068728402740474075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068727785418572000",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完整更新报告（通知频道同款） https://t.co/nF5mGtO7cN https://t.co/8BVsGiPDk7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068727778187644928"
+          ]
+        },
+        "author_id": "2012914101987762177",
+        "conversation_id": "2068727785418572000",
+        "created_at": "2026-06-21T16:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068727785418572000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lnVarkUWXL",
+              "end": 174,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2068727785418572000/photo/1",
+              "media_key": "3_2068727778187644928",
+              "start": 151,
+              "url": "https://t.co/lnVarkUWXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068727785418572000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "校准功能新增第三个模型:Hybrid-MIPD\n原来只算整体幅度和清除速度,新模型追加了吸收速率,三参数在统一框架中同时估计,能更准地还原个人血药曲线形状而不只是整体高低\n化验少时贴近人群均值,积累后逐步个体化,单次异常化验不带偏整条曲线,理论误差约为原算法三分之一(原有算法保持不变可随时切换对比) https://t.co/lnVarkUWXL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu｜账号委派访问 @blackchanawa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "blackchanawa"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 208,
+          "like_count": 3174,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1429
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号\n进行mtf/mtx的hrt相关研究\n我们的团队成员有两人\n分别是 @axzameyzed 和 @EleanorAnatidae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR2ygV"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "pinned_tweet_id": "2061296461523153268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 13,
+          "like_count": 1449,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/MDakkR2ygV",
+        "username": "TeamTransmtf",
+        "verified": true
+      }
+    ]
+  }
+}

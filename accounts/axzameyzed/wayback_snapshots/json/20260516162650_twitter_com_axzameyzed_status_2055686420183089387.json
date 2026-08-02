@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2055681640199078114",
+    "created_at": "2026-05-16T16:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055686420183089387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1430052755352166401",
+          "start": 0,
+          "username": "Wendy_Ai2005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055686420183089387",
+    "in_reply_to_user_id": "1430052755352166401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055681640199078114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wendy_Ai2005 账号受众国家地区表❌\n国人VPN地区喜好表✅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055681630032039936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIc_jRFbEAAz5OL.jpg",
+        "width": 1143
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2055681640199078114",
+        "created_at": "2026-05-16T16:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055686420183089387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1430052755352166401",
+              "start": 0,
+              "username": "Wendy_Ai2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055686420183089387",
+        "in_reply_to_user_id": "1430052755352166401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055681640199078114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wendy_Ai2005 账号受众国家地区表❌\n国人VPN地区喜好表✅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055681630032039936"
+          ]
+        },
+        "author_id": "1430052755352166401",
+        "conversation_id": "2055681640199078114",
+        "created_at": "2026-05-16T16:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055681640199078114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YM6BGHVvhD",
+              "end": 49,
+              "expanded_url": "https://x.com/Wendy_Ai2005/status/2055681640199078114/photo/1",
+              "media_key": "3_2055681630032039936",
+              "start": 26,
+              "url": "https://t.co/YM6BGHVvhD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055681640199078114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是在中推圈么？😅😅\n这对么这？┑(￣Д ￣)┍ https://t.co/YM6BGHVvhD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 118,
+          "like_count": 613,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 328
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-24T06:22:15.000Z",
+        "description": "🇨🇳FromChina/05年184天空树🎄65kg/🏫HIE/📡BI7AWY/🟪MTX间断含糖🍥/😝说话是狗屁不通文章生成器/🏥休学8年/ASD+ADHD💊/在读机械狗一枚/全科通识考试弱智，应试教育失败品/🆗机械⚙️电气⚡️天文🔭地理🗺️医学🩺生物🧫瑟瑟🥵/❎历史🏺政治📚脑残🤪",
+        "id": "1430052755352166401",
+        "location": "距离你2.8km",
+        "name": "安雯雨🌧️🌧️Wendy_Ai🍥～🟡⚪️🟣⚫️",
+        "pinned_tweet_id": "2053055248185597964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033212769781387264/ROqqnl7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 781,
+          "like_count": 3386,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 1370
+        },
+        "username": "Wendy_Ai2005",
+        "verified": true
+      }
+    ]
+  }
+}

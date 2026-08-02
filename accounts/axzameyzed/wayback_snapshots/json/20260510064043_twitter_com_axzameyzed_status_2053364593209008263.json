@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2053364593209008263",
+    "created_at": "2026-05-10T06:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:40:29.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053364535671620086",
+      "2053364593209008263"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053364593209008263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "二代目震撼来袭（什么鬼）\n个人号ghostban期间将使用本号进行评论和部分发帖\n欢迎互fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2053364535671620086",
+        "created_at": "2026-05-10T06:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:40:29.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053364535671620086",
+          "2053364593209008263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053364535671620086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "二代目震撼来袭（什么鬼）\n个人号ghostban期间将使用本号进行评论和部分发帖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2053364593209008263",
+        "created_at": "2026-05-10T06:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:40:29.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053364535671620086",
+          "2053364593209008263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053364593209008263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "二代目震撼来袭（什么鬼）\n个人号ghostban期间将使用本号进行评论和部分发帖\n欢迎互fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "",
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "axzameyzed",
+        "verified": true
+      }
+    ]
+  }
+}

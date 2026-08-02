@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2058853812954374648",
+    "created_at": "2026-05-25T14:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058921716727140495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1934880636319485955",
+          "start": 0,
+          "username": "mrsk_sy_xueling"
+        },
+        {
+          "end": 27,
+          "id": "1887391023976038400",
+          "start": 17,
+          "username": "xiey57828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058921716727140495",
+    "in_reply_to_user_id": "1934880636319485955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058921135086194813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrsk_sy_xueling @xiey57828 可以试试尼日利亚土耳其一类的低价区会比官网还便宜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2058921106149695488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLB1mCbYAAIZac.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2058921114165026818",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLB2D5boAIQQnt.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2058921121253302272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLB2eTaIAAyuAl.jpg",
+        "width": 1280
+      },
+      {
+        "height": 450,
+        "media_key": "3_2058921129574858754",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLB29TbAAIGVVM.jpg",
+        "width": 2678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2058853812954374648",
+        "created_at": "2026-05-25T14:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058921716727140495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1934880636319485955",
+              "start": 0,
+              "username": "mrsk_sy_xueling"
+            },
+            {
+              "end": 27,
+              "id": "1887391023976038400",
+              "start": 17,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058921716727140495",
+        "in_reply_to_user_id": "1934880636319485955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058921135086194813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrsk_sy_xueling @xiey57828 可以试试尼日利亚土耳其一类的低价区会比官网还便宜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058921106149695488",
+            "3_2058921114165026818",
+            "3_2058921121253302272",
+            "3_2058921129574858754"
+          ]
+        },
+        "author_id": "1934880636319485955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10028889887",
+              "name": "Google Play"
+            }
+          }
+        ],
+        "conversation_id": "2058853812954374648",
+        "created_at": "2026-05-25T14:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058921135086194813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 22,
+              "id": "1887391023976038400",
+              "start": 12,
+              "username": "xiey57828"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJJGCL7zq2",
+              "end": 71,
+              "expanded_url": "https://x.com/mrsk_sy_xueling/status/2058921135086194813/photo/1",
+              "media_key": "3_2058921106149695488",
+              "start": 48,
+              "url": "https://t.co/GJJGCL7zq2"
+            },
+            {
+              "display_url": "pic.x.com/GJJGCL7zq2",
+              "end": 71,
+              "expanded_url": "https://x.com/mrsk_sy_xueling/status/2058921135086194813/photo/1",
+              "media_key": "3_2058921114165026818",
+              "start": 48,
+              "url": "https://t.co/GJJGCL7zq2"
+            },
+            {
+              "display_url": "pic.x.com/GJJGCL7zq2",
+              "end": 71,
+              "expanded_url": "https://x.com/mrsk_sy_xueling/status/2058921135086194813/photo/1",
+              "media_key": "3_2058921121253302272",
+              "start": 48,
+              "url": "https://t.co/GJJGCL7zq2"
+            },
+            {
+              "display_url": "pic.x.com/GJJGCL7zq2",
+              "end": 71,
+              "expanded_url": "https://x.com/mrsk_sy_xueling/status/2058921135086194813/photo/1",
+              "media_key": "3_2058921129574858754",
+              "start": 48,
+              "url": "https://t.co/GJJGCL7zq2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058921135086194813",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058858130172486080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed @xiey57828 用Google Play可以，但是贵jp352😢 https://t.co/GJJGCL7zq2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 145,
+          "like_count": 1026,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 576
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF🏳️‍⚧️  无证含糖  HRT2026.5.10  INFP-T\n生日2009.10  高一  176cm  重庆&苏州\n抑焦｜不割手（？）｜不od 不见证 不抽烟喝酒\n二次元/音游 百合｜同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mrsk_sy_xuelin…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mrsk_sy_xueling2",
+                "start": 0,
+                "url": "https://t.co/9b4AzSCfjD"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "name": "雪泠🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 512,
+          "like_count": 2255,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 272
+        },
+        "url": "https://t.co/9b4AzSCfjD",
+        "username": "mrsk_sy_xueling",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑08.02.16丨史上最快大证😋2026.5.21无小证😱丨🍥hrt2024.2.17丨除了矮点一无是处😭丨半家长党，努力沟通中😇丨无精神病！🥺丨喜欢@StarryNocts、mc和猫猫叶@LeavesMao🤤丨第二次生命2026.5.16😵。活着才有见到太阳的可能❕丨只发日常碎碎念。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "LeavesMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 341,
+          "like_count": 6370,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 2353
+        },
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

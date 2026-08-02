@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2072603565668098164",
+    "created_at": "2026-07-02T15:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072699738219250141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1367653862996287493",
+          "start": 0,
+          "username": "xzdejz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072699738219250141",
+    "in_reply_to_user_id": "1367653862996287493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072636405252329624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzdejz 就是很不正常，我就问了一个问题，消耗了max20 50%的五小时限额"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2072603565668098164",
+        "created_at": "2026-07-02T15:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072699738219250141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1367653862996287493",
+              "start": 0,
+              "username": "xzdejz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072699738219250141",
+        "in_reply_to_user_id": "1367653862996287493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072636405252329624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzdejz 就是很不正常，我就问了一个问题，消耗了max20 50%的五小时限额"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1367653862996287493",
+        "conversation_id": "2072603565668098164",
+        "created_at": "2026-07-02T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072636405252329624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072636405252329624",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072603565668098164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 我感觉额度用得非常快 感觉不太正常，早上还正常 那会儿用了一下 消耗的非常非常快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 212,
+          "like_count": 3822,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 1601
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-05T01:51:10.000Z",
+        "description": "",
+        "id": "1367653862996287493",
+        "name": "北北",
+        "pinned_tweet_id": "2041042567668851147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051171997468729344/lWipDby0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12584,
+          "following_count": 1833,
+          "like_count": 2533,
+          "listed_count": 50,
+          "media_count": 108,
+          "tweet_count": 761
+        },
+        "url": "",
+        "username": "xzdejz",
+        "verified": true
+      }
+    ]
+  }
+}

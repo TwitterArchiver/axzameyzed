@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2078100364470239260",
+    "created_at": "2026-07-17T13:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078105521354314051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2016246570312990720",
+          "start": 0,
+          "username": "YuChenawa"
+        },
+        {
+          "end": 26,
+          "id": "1894461745277931524",
+          "start": 11,
+          "username": "Rain_Antar1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078105521354314051",
+    "in_reply_to_user_id": "2016246570312990720",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078104891130810802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuChenawa @Rain_Antar1121 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2078100364470239260",
+        "created_at": "2026-07-17T13:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078105521354314051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016246570312990720",
+              "start": 0,
+              "username": "YuChenawa"
+            },
+            {
+              "end": 26,
+              "id": "1894461745277931524",
+              "start": 11,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078105521354314051",
+        "in_reply_to_user_id": "2016246570312990720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078104891130810802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuChenawa @Rain_Antar1121 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016246570312990720",
+        "conversation_id": "2078100364470239260",
+        "created_at": "2026-07-17T13:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078104891130810802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 27,
+              "id": "1894461745277931524",
+              "start": 12,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078104891130810802",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078104775472873981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed @Rain_Antar1121 那可能是我变笨蛋了("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 215,
+          "like_count": 4420,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 1758
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-27T20:27:15.000Z",
+        "description": "這裡是雨辰!/简中繁中英语OK/顺男咪/LGBTQIA+全友好!(想和小药娘剧烈贴贴！)/請和我社交,我會儘可能認真回復你們的內容的,也歡迎私信騷擾我/低俗恶俗人请远离我谢谢!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuchen86833",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuchen86833",
+                "start": 0,
+                "url": "https://t.co/vconkxHXnn"
+              }
+            ]
+          }
+        },
+        "id": "2016246570312990720",
+        "location": "天堂✝️",
+        "name": "𝒴𝓊𝒸𝒽ℯ𝓃",
+        "pinned_tweet_id": "2060749702883332402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017348660867305473/hJCnFu9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 406,
+          "like_count": 2645,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1022
+        },
+        "url": "https://t.co/vconkxHXnn",
+        "username": "YuChenawa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4690,
+          "following_count": 6669,
+          "like_count": 16866,
+          "listed_count": 11,
+          "media_count": 352,
+          "tweet_count": 4416
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053842830737711104"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2053842847401726161",
+    "created_at": "2026-05-11T14:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053842847401726161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hR7pBjZEp7",
+          "end": 69,
+          "expanded_url": "https://x.com/axzameyzed/status/2053842847401726161/photo/1",
+          "media_key": "3_2053842830737711104",
+          "start": 46,
+          "url": "https://t.co/hR7pBjZEp7"
+        },
+        {
+          "display_url": "x.com/xhfk114514/sta…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/xhfk114514/status/2053838848703262879",
+          "start": 70,
+          "url": "https://t.co/Ffx3skWAoG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053842847401726161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053838848703262879",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和我关系非常好的几个都知道我的推特号\n我还会把我的部分帖子截图发我们（一部分）同学的QQ群 https://t.co/hR7pBjZEp7 https://t.co/Ffx3skWAoG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_2053842830737711104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIC3LD6aoAAmmRG.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053842830737711104"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2053842847401726161",
+        "created_at": "2026-05-11T14:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053842847401726161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hR7pBjZEp7",
+              "end": 69,
+              "expanded_url": "https://x.com/axzameyzed/status/2053842847401726161/photo/1",
+              "media_key": "3_2053842830737711104",
+              "start": 46,
+              "url": "https://t.co/hR7pBjZEp7"
+            },
+            {
+              "display_url": "x.com/xhfk114514/sta…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/xhfk114514/status/2053838848703262879",
+              "start": 70,
+              "url": "https://t.co/Ffx3skWAoG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053842847401726161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053838848703262879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和我关系非常好的几个都知道我的推特号\n我还会把我的部分帖子截图发我们（一部分）同学的QQ群 https://t.co/hR7pBjZEp7 https://t.co/Ffx3skWAoG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018986573090717696",
+        "conversation_id": "2053837166393053617",
+        "created_at": "2026-05-11T14:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053838848703262879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816508247651860480",
+              "start": 0,
+              "username": "DIC_EWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053838848703262879",
+        "in_reply_to_user_id": "1816508247651860480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053837166393053617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DIC_EWE 我的这个号也被同学发现过🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053364593209008263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 80,
+          "like_count": 191,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 68
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T09:56:48.000Z",
+        "description": "FuKarl7/2026年3月21日起活跃在此号/友跨🏳️‍⚧️(没翻车)/高三/无糖(?)/含糖(?)/不od/不割手/互关/喵\n❤️❤️❤️❤️❤️：@ruoruoruoMing\n意义重大的日子：2026年3月15日/2026年5月2日",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "ruoruoruoMing"
+              }
+            ]
+          }
+        },
+        "id": "2018986573090717696",
+        "location": "天津",
+        "name": "阿这",
+        "pinned_tweet_id": "2053410325878522002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037862051725594624/P9TAAf07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 771,
+          "like_count": 4762,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 760
+        },
+        "username": "xhFK114514",
+        "verified": false
+      }
+    ]
+  }
+}

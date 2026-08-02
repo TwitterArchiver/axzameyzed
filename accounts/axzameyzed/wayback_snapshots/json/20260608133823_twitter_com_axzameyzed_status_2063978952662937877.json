@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2063978952662937877",
+    "created_at": "2026-06-08T13:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T14:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063978952662937877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuwenmewo/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/yuwenmewo/status/2063977943618195634",
+          "start": 5,
+          "url": "https://t.co/TVMX9JYkbM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063978952662937877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063977943618195634",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没话说 https://t.co/TVMX9JYkbM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2063976993801306112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKS4I_QbAAA_kxa.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2063978952662937877",
+        "created_at": "2026-06-08T13:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063978952662937877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuwenmewo/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/yuwenmewo/status/2063977943618195634",
+              "start": 5,
+              "url": "https://t.co/TVMX9JYkbM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063978952662937877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063977943618195634",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没话说 https://t.co/TVMX9JYkbM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063976993801306112"
+          ]
+        },
+        "author_id": "2063957681984225280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063977943618195634",
+        "created_at": "2026-06-08T13:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063977943618195634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2063266311254552576",
+              "start": 8,
+              "username": "17nuun"
+            }
+          ],
+          "urls": [
+            {
+              "description": "一个用于codex和claudecode的skill，可以自动蒸馏人物并在x上实现几乎全功能自动化 包括发帖，回帖，点赞，关注，回复引用，提及，自动随机浏览等 - NoMTF/Another-Person-in-X",
+              "display_url": "github.com/NoMTF/Another-…",
+              "end": 81,
+              "expanded_url": "https://github.com/NoMTF/Another-Person-in-X",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2063977952845692928/pjmC_M1B?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063977952845692928/pjmC_M1B?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "GitHub - NoMTF/Another-Person-in-X: 一个用于codex和claudecode的skill，可以自动蒸馏人物并在x上实现几乎全功能自动化 包括发帖，回帖，点赞，关注，回复引用，提及，自动随机浏览等",
+              "unwound_url": "https://github.com/NoMTF/Another-Person-in-X",
+              "url": "https://t.co/EfieZJupt6"
+            },
+            {
+              "display_url": "pic.x.com/e8mU9iMUzy",
+              "end": 105,
+              "expanded_url": "https://x.com/YuwenMewo/status/2063977943618195634/photo/1",
+              "media_key": "3_2063976993801306112",
+              "start": 82,
+              "url": "https://t.co/e8mU9iMUzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063977943618195634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻瓜式生成这种（@17nuun）完全自动的数字人方法已经开源 附带一键抓取x内容和高标准蒸馏以及全自动执行所有操作\nhttps://t.co/EfieZJupt6 https://t.co/e8mU9iMUzy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 203,
+          "like_count": 2149,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1125
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2063963579611836422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 7,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

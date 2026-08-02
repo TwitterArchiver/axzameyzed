@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2072592060260258084",
+    "created_at": "2026-07-02T11:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072639629795446932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1895463022367498240",
+          "start": 0,
+          "username": "hikaribottt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072639629795446932",
+    "in_reply_to_user_id": "1895463022367498240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072633440911159406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikaribottt 想等封号退款了,太不划算了额度被砍了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2072592060260258084",
+        "created_at": "2026-07-02T11:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072639629795446932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1895463022367498240",
+              "start": 0,
+              "username": "hikaribottt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072639629795446932",
+        "in_reply_to_user_id": "1895463022367498240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072633440911159406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikaribottt 想等封号退款了,太不划算了额度被砍了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895463022367498240",
+        "conversation_id": "2072592060260258084",
+        "created_at": "2026-07-02T10:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072633440911159406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072633440911159406",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072592060260258084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed aa有钱的\n（咱开个pro都犹豫一会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 214,
+          "like_count": 3801,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1593
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-28T13:16:44.000Z",
+        "description": "日常水推/日常帖/bot/天然蠢废/是个学生/音游人\n擅长：人文社科/vibe coding\nDepcom的副社区长\n平时水课，假期发癫，可能也会记录一些互联网怪事（存疑）\n一个无趣的灵魂游荡ing\n日常账号接管：@EinMensch_168",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 107,
+                "username": "EinMensch_168"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hikaribot.edgeone.app",
+                "end": 23,
+                "expanded_url": "http://hikaribot.edgeone.app",
+                "start": 0,
+                "url": "https://t.co/nDRmWS3xEQ"
+              }
+            ]
+          }
+        },
+        "id": "1895463022367498240",
+        "location": "中华苏维埃共和国河南省",
+        "name": "落叶sour-ce",
+        "pinned_tweet_id": "2058119429482021070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045451931754319872/pVp-K_EW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 84,
+          "like_count": 1739,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 708
+        },
+        "url": "https://t.co/nDRmWS3xEQ",
+        "username": "hikaribottt",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2080535240259608926",
+    "created_at": "2026-07-25T00:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T01:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080817450611089408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608637128132685825",
+          "start": 0,
+          "username": "nyaepheia"
+        },
+        {
+          "end": 23,
+          "id": "1393881158849503232",
+          "start": 11,
+          "username": "yuki_ciallo"
+        },
+        {
+          "end": 36,
+          "id": "1744316513291747328",
+          "start": 24,
+          "username": "shuifenziya"
+        },
+        {
+          "end": 53,
+          "id": "1869440990970556416",
+          "start": 37,
+          "username": "SnowfairySerina"
+        },
+        {
+          "end": 63,
+          "id": "1763577841588056064",
+          "start": 54,
+          "username": "yxrchina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080817450611089408",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080816051441557756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaepheia @yuki_ciallo @shuifenziya @SnowfairySerina @yxrchina 哦好吧我想了一下其实不止两个人…但是…我好像没有允许公开吧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2080816051441557756].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2080816051441557756",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2080816051441557756"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2080535240259608926",
+        "created_at": "2026-07-25T00:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T01:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080817450611089408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 23,
+              "id": "1393881158849503232",
+              "start": 11,
+              "username": "yuki_ciallo"
+            },
+            {
+              "end": 36,
+              "id": "1744316513291747328",
+              "start": 24,
+              "username": "shuifenziya"
+            },
+            {
+              "end": 53,
+              "id": "1869440990970556416",
+              "start": 37,
+              "username": "SnowfairySerina"
+            },
+            {
+              "end": 63,
+              "id": "1763577841588056064",
+              "start": 54,
+              "username": "yxrchina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080817450611089408",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080816051441557756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @yuki_ciallo @shuifenziya @SnowfairySerina @yxrchina 哦好吧我想了一下其实不止两个人…但是…我好像没有允许公开吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 225,
+          "like_count": 4662,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 1871
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️ https://t.co/7pvajR9Q0p \n/ɪˈfiːə/ she/they\n评论账号@epheiamoe\n存档https://t.co/l9TdYP6fRz\n\nhrt since26.4.1\n可访问此账号的委派者：@yxrchina @0502railgun1949 @lckmtfdesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "yxrchina"
+              },
+              {
+                "end": 148,
+                "start": 132,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "lckmtfdesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 33,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 10,
+                "url": "https://t.co/7pvajR9Q0p"
+              },
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 93,
+                "expanded_url": "http://nyaepheia.pages.dev",
+                "start": 70,
+                "url": "https://t.co/l9TdYP6fRz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 23,
+                "expanded_url": "https://nyaepheia.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/JPmDqezgWc"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️(she/they)",
+        "pinned_tweet_id": "2078997463525142566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 965,
+          "like_count": 37119,
+          "listed_count": 3,
+          "media_count": 888,
+          "tweet_count": 7186
+        },
+        "url": "https://t.co/JPmDqezgWc",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-16T10:49:13.000Z",
+        "description": "MtF🏳️‍⚧️ / Sub/M / Bipolar / BPD / DID｜“被所有人爱着……这是我唯一的心愿……”",
+        "id": "1393881158849503232",
+        "location": "Betelgeuse",
+        "name": "神楽 由紀 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2073049561418150196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029423814757769216/N6DaL2T7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 438,
+          "like_count": 1136,
+          "listed_count": 5,
+          "media_count": 144,
+          "tweet_count": 1616
+        },
+        "url": "",
+        "username": "yuki_ciallo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "167cm60kg/负能/不鉴证/小鸟游六花单推\n/ISFP\n永远的好闺蜜：@VGesKsn\n姐姐：@WeiHan58673",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "VGesKsn"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "WeiHan58673"
+              }
+            ]
+          }
+        },
+        "id": "1744316513291747328",
+        "location": "二次元",
+        "name": "忧郁の水分子🍥［😈版］",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990791671798509572/InGBy1sr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1680,
+          "following_count": 996,
+          "like_count": 40625,
+          "listed_count": 5,
+          "media_count": 391,
+          "tweet_count": 2675
+        },
+        "url": "",
+        "username": "shuifenziya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "跨女同//心灵认同是一片飘落世间的云//行可行之处，伴旅人之舟。在数字荒原里，种下星空绿洲。//@eztakesin 我最好的搭档！神秘花园：🇪🇨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "eztakesin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVsHdD"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "摄平星系 星空合众国 格维克之境",
+        "name": "✨🌈摇光星辰⭐云深不知处🏳️‍⚧️✨",
+        "pinned_tweet_id": "2080670235775111619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969068756061323264/fJoUuOUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 1137,
+          "like_count": 3986,
+          "listed_count": 6,
+          "media_count": 694,
+          "tweet_count": 5702
+        },
+        "url": "https://t.co/3DFuJVsHdD",
+        "username": "SnowfairySerina",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️「重构时间线，再次重逢」\nINFP | MtFtX | oler转oder | 🎂08.15 | Vite | Cpp | HRT 25.08.11~25.11.30 26.04.17~ 26.05.19 | 已炸柜 | 碎碎念or日常 @syyann2026 | ❌ NSFW | 家长反对党 Ultra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 124,
+                "username": "syyann2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "syyann.vercel.app",
+                "end": 23,
+                "expanded_url": "https://syyann.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/0k3EylxPZD"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "location": "lover @nyaepheia",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "pinned_tweet_id": "2065655723187740857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 1889,
+          "like_count": 27308,
+          "listed_count": 4,
+          "media_count": 380,
+          "tweet_count": 8863
+        },
+        "url": "https://t.co/0k3EylxPZD",
+        "username": "yxrchina",
+        "verified": true
+      }
+    ]
+  }
+}

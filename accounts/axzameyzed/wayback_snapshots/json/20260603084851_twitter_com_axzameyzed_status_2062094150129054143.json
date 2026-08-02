@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2061891252316930392",
+    "created_at": "2026-06-03T08:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062094150129054143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2027313596066369537",
+          "start": 0,
+          "username": "shigemeteor"
+        },
+        {
+          "end": 29,
+          "id": "1835139537418567680",
+          "start": 13,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062094150129054143",
+    "in_reply_to_user_id": "2027313596066369537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062093401236144566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigemeteor @WellingtonPixel stripe实名认证不区分地区"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2061891252316930392",
+        "created_at": "2026-06-03T08:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062094150129054143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2027313596066369537",
+              "start": 0,
+              "username": "shigemeteor"
+            },
+            {
+              "end": 29,
+              "id": "1835139537418567680",
+              "start": 13,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062094150129054143",
+        "in_reply_to_user_id": "2027313596066369537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062093401236144566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigemeteor @WellingtonPixel stripe实名认证不区分地区"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027313596066369537",
+        "conversation_id": "2061891252316930392",
+        "created_at": "2026-06-03T08:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062093401236144566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 28,
+              "id": "1835139537418567680",
+              "start": 12,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062093401236144566",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061968839412416610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed @WellingtonPixel 哪个地区的号可以16-18过？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 175,
+          "like_count": 1663,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 936
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-27T09:23:51.000Z",
+        "description": "Cu₂S + O₂ = 2Child + SO₂↑\n2Al + Cu ≜ meteor\n人理之光暗淡之时，为了没有眼泪的明天~",
+        "id": "2027313596066369537",
+        "location": "shanghai",
+        "name": "meteor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027313721841000448/hhyXhg9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 41
+        },
+        "username": "shigemeteor",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "Mijn God, ontferm U over mijn ziel; mijn God, ontferm U over dit arme volk.\nI Support @LibDems\n这我小号@AbsolutelyWP|Private Account @KUKMonarchy8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 86,
+                "username": "LibDems"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "AbsolutelyWP"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "KUKMonarchy8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wellingtonpixel",
+                "end": 23,
+                "expanded_url": "https://t.me/wellingtonpixel",
+                "start": 0,
+                "url": "https://t.co/u4ZrWlpK4l"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Den Haag, Nederland",
+        "name": "🇹🇼Wellington † Pixel🪩",
+        "pinned_tweet_id": "2053200591975813495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060067917350273024/E125I94c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 4110,
+          "like_count": 20912,
+          "listed_count": 3,
+          "media_count": 329,
+          "tweet_count": 4032
+        },
+        "url": "https://t.co/u4ZrWlpK4l",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

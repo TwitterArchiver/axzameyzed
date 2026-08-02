@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2059205780444975116",
+    "created_at": "2026-05-26T16:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T17:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059305670852395133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2051880722172882944",
+          "start": 0,
+          "username": "HUS632788630220"
+        },
+        {
+          "end": 27,
+          "id": "1987885638038036480",
+          "start": 17,
+          "username": "mizorewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059305670852395133",
+    "in_reply_to_user_id": "2051880722172882944",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059305526039925212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HUS632788630220 @mizorewww ¿¿¿¿¿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2059205780444975116",
+        "created_at": "2026-05-26T16:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059305670852395133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2051880722172882944",
+              "start": 0,
+              "username": "HUS632788630220"
+            },
+            {
+              "end": 27,
+              "id": "1987885638038036480",
+              "start": 17,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059305670852395133",
+        "in_reply_to_user_id": "2051880722172882944",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059305526039925212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HUS632788630220 @mizorewww ¿¿¿¿¿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051880722172882944",
+        "conversation_id": "2059205780444975116",
+        "created_at": "2026-05-26T16:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059305526039925212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 22,
+              "id": "1987885638038036480",
+              "start": 12,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059305526039925212",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059305173076603162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed @mizorewww 好像可以喝喝自己的😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 145,
+          "like_count": 1121,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 624
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-06T04:24:32.000Z",
+        "description": "",
+        "id": "2051880722172882944",
+        "location": "离死亡最近的地方",
+        "name": "HUS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055666437122088960/YJgZn5vy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 14,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 168
+        },
+        "username": "HUS632788630220",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 高三 中国上海高中生 开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\n\n联系方式：\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtAyza",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 114,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 91,
+                "url": "https://t.co/yRGqdtAyza"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "location": "Crazy Universe ",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2049113964022501793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 866,
+          "like_count": 13053,
+          "listed_count": 2,
+          "media_count": 570,
+          "tweet_count": 3243
+        },
+        "username": "mizorewww",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2062476283498688680",
+    "created_at": "2026-06-04T10:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062480181684838708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1254442404410621958",
+          "start": 0,
+          "username": "zwh20081"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062480181684838708",
+    "in_reply_to_user_id": "1254442404410621958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062476283498688680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwh20081 以后有海外地址证明还是可以开的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2062476283498688680",
+        "created_at": "2026-06-04T10:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062480181684838708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254442404410621958",
+              "start": 0,
+              "username": "zwh20081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062480181684838708",
+        "in_reply_to_user_id": "1254442404410621958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062476283498688680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwh20081 以后有海外地址证明还是可以开的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254442404410621958",
+        "conversation_id": "2062476283498688680",
+        "created_at": "2026-06-04T10:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062476283498688680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/aoim33/status/2062415947915497868",
+              "start": 9,
+              "url": "https://t.co/rcyM7jC0V2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062476283498688680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062415947915497868",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我6.6成年\n🙂 https://t.co/rcyM7jC0V2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 194,
+          "like_count": 1815,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1007
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-26T16:09:22.000Z",
+        "description": "服务器运维&深度学习业余人士 ＆打工人\n北京素鳞智绘科技有限公司 CEO\nzwh20081@solart.pro 商务\n💖 @Littleloong233\n逃生舱：@zwh18002",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "Littleloong233"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "username": "zwh18002"
+              }
+            ]
+          }
+        },
+        "id": "1254442404410621958",
+        "location": "福州",
+        "name": "zwh20081🍥",
+        "pinned_tweet_id": "1984571952846283182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015805547640156161/ieeIZz3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 365,
+          "like_count": 18089,
+          "listed_count": 4,
+          "media_count": 553,
+          "tweet_count": 11336
+        },
+        "username": "zwh20081",
+        "verified": true
+      }
+    ]
+  }
+}

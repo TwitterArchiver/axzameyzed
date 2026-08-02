@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2059215773441352187",
+    "created_at": "2026-05-26T10:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059219047519236159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688101533198475264",
+          "start": 0,
+          "username": "Chise_wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059219047519236159",
+    "in_reply_to_user_id": "1688101533198475264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059215773441352187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chise_wo 这种一看就是AI托管检测关键词的….见到了直接拉黑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2059215773441352187",
+        "created_at": "2026-05-26T10:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059219047519236159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688101533198475264",
+              "start": 0,
+              "username": "Chise_wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059219047519236159",
+        "in_reply_to_user_id": "1688101533198475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059215773441352187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chise_wo 这种一看就是AI托管检测关键词的….见到了直接拉黑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688101533198475264",
+        "conversation_id": "2059215773441352187",
+        "created_at": "2026-05-26T10:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059215773441352187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bn_anxiaojiang…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/bn_anxiaojiang/status/2059120333823877433",
+              "start": 5,
+              "url": "https://t.co/QbhtdL6NJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059215773441352187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059120333823877433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并非蓝v https://t.co/QbhtdL6NJG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 145,
+          "like_count": 1111,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 617
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "成分很复杂的一只可爱小千 | 总之就是音游吃 | Kobaryo真的很好听不是吗 | 啊呜喵~~~❤️ | 想要变可爱 | 欢迎来和我聊天 | 想要QQ可以私信喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chise_kawaii",
+                "end": 23,
+                "expanded_url": "http://t.me/chise_kawaii",
+                "start": 0,
+                "url": "https://t.co/yj1O6fxiqE"
+              }
+            ]
+          }
+        },
+        "id": "1688101533198475264",
+        "location": "Address",
+        "name": "千千千世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050128439362166784/ceUDKMYx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 1431,
+          "like_count": 30863,
+          "listed_count": 3,
+          "media_count": 416,
+          "tweet_count": 7588
+        },
+        "url": "https://t.co/yj1O6fxiqE",
+        "username": "Chise_wo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2063905415579230427",
+    "created_at": "2026-06-08T10:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063927404775764226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489034449199190017",
+          "start": 0,
+          "username": "Pigeon_Yi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/axzameyzed/sta…",
+          "end": 57,
+          "expanded_url": "https://x.com/axzameyzed/status/2063224632329773496?s=46",
+          "start": 34,
+          "url": "https://t.co/qc5uk6WDJ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063927404775764226",
+    "in_reply_to_user_id": "1489034449199190017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063224632329773496",
+        "type": "quoted"
+      },
+      {
+        "id": "2063905415579230427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pigeon_Yi 按理来说触发关键词就会有很多“人”慕名而来\n\nhttps://t.co/qc5uk6WDJ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2063224619927285760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIL3EKbMAA3A7R.jpg",
+        "width": 750
+      },
+      {
+        "height": 1192,
+        "media_key": "3_2063224619939799040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIL3ENaIAAMtaK.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2063905415579230427",
+        "created_at": "2026-06-08T10:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063927404775764226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489034449199190017",
+              "start": 0,
+              "username": "Pigeon_Yi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/axzameyzed/sta…",
+              "end": 57,
+              "expanded_url": "https://x.com/axzameyzed/status/2063224632329773496?s=46",
+              "start": 34,
+              "url": "https://t.co/qc5uk6WDJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063927404775764226",
+        "in_reply_to_user_id": "1489034449199190017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063224632329773496",
+            "type": "quoted"
+          },
+          {
+            "id": "2063905415579230427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pigeon_Yi 按理来说触发关键词就会有很多“人”慕名而来\n\nhttps://t.co/qc5uk6WDJ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063224619927285760",
+            "3_2063224619939799040"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2063224632329773496",
+        "created_at": "2026-06-06T11:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063224632329773496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nhj0CPrXSp",
+              "end": 39,
+              "expanded_url": "https://x.com/axzameyzed/status/2063224632329773496/photo/1",
+              "media_key": "3_2063224619927285760",
+              "start": 16,
+              "url": "https://t.co/nhj0CPrXSp"
+            },
+            {
+              "display_url": "pic.x.com/nhj0CPrXSp",
+              "end": 39,
+              "expanded_url": "https://x.com/axzameyzed/status/2063224632329773496/photo/1",
+              "media_key": "3_2063224619939799040",
+              "start": 16,
+              "url": "https://t.co/nhj0CPrXSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063224632329773496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说有的人被暂停收益是有原因的 https://t.co/nhj0CPrXSp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489034449199190017",
+        "conversation_id": "2063905415579230427",
+        "created_at": "2026-06-08T08:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063905415579230427"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "蓝V互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063905415579230427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我要测试一下\n#蓝V互关\n看看我这有没有反应（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2062934874500346258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 202,
+          "like_count": 2137,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1120
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-03T00:34:26.000Z",
+        "description": "摄影/绳子/数码P/架子鼓/HAM\n成分复杂，欢迎私信约绳/拍/扩列\n暂时是@jlxc2001的秘书（嗯）\n有很多奇怪的技能，全国可飞，偏好长三角\nEN/CN：OK\n日本语学习中（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "jlxc2001"
+              }
+            ]
+          }
+        },
+        "id": "1489034449199190017",
+        "location": "香港/深圳/上海/你心里",
+        "name": "青空夏",
+        "pinned_tweet_id": "2055091696372003241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624302496905830400/dSYbbHpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2352,
+          "following_count": 859,
+          "like_count": 9619,
+          "listed_count": 5,
+          "media_count": 470,
+          "tweet_count": 3549
+        },
+        "username": "Pigeon_Yi",
+        "verified": true
+      }
+    ]
+  }
+}

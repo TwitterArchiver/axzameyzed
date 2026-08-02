@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2057048562035515826",
+    "created_at": "2026-05-21T06:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T07:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057341288752857592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "511698477",
+          "start": 0,
+          "username": "cxjwin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057341288752857592",
+    "in_reply_to_user_id": "511698477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057048562035515826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxjwin 同一个Appleid第二次申请退款不会退的，放弃吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2057048562035515826",
+        "created_at": "2026-05-21T06:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057341288752857592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "511698477",
+              "start": 0,
+              "username": "cxjwin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057341288752857592",
+        "in_reply_to_user_id": "511698477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057048562035515826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxjwin 同一个Appleid第二次申请退款不会退的，放弃吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "511698477",
+        "conversation_id": "2057048562035515826",
+        "created_at": "2026-05-20T10:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057048562035515826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cxjwin/status/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/cxjwin/status/2057027863271141660",
+              "start": 28,
+              "url": "https://t.co/GrDxvGkxDN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057048562035515826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3247,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057027863271141660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "话说你们的Claude没被封过么？封完不会申请退款么？ https://t.co/GrDxvGkxDN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "pinned_tweet_id": "2053875196696687020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 135,
+          "like_count": 807,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 425
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2012-03-02T10:11:55.000Z",
+        "description": "国内大厂 iOS 技术负责人",
+        "id": "511698477",
+        "name": "码良",
+        "pinned_tweet_id": "2055731099838611893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048618362197135360/zW6M_qDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 132,
+          "like_count": 2484,
+          "listed_count": 8,
+          "media_count": 79,
+          "tweet_count": 1497
+        },
+        "username": "cxjwin",
+        "verified": true
+      }
+    ]
+  }
+}

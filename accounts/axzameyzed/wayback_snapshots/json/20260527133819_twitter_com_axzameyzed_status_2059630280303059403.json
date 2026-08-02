@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2059630280303059403",
+    "created_at": "2026-05-27T13:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059630280303059403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2012914101987762177",
+          "start": 3,
+          "username": "TeamTransmtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059630280303059403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059630180042486266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TeamTransmtf: 本次更新带来两项改进：\n独立体重设置：现可为每条用药记录单独设置体重，默认沿用上次数值。历史数据将自动迁移，且与不支持此功能的其他Tracker版本仍保持双向数据兼容\n主页用药速览：主页现已展示最近一次雌二醇与醋酸环丙孕酮用药记录 https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059630170638823424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVGulGasAAEezz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2059630280303059403",
+        "created_at": "2026-05-27T13:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059630280303059403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2012914101987762177",
+              "start": 3,
+              "username": "TeamTransmtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059630280303059403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059630180042486266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TeamTransmtf: 本次更新带来两项改进：\n独立体重设置：现可为每条用药记录单独设置体重，默认沿用上次数值。历史数据将自动迁移，且与不支持此功能的其他Tracker版本仍保持双向数据兼容\n主页用药速览：主页现已展示最近一次雌二醇与醋酸环丙孕酮用药记录 https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059630170638823424"
+          ]
+        },
+        "author_id": "2012914101987762177",
+        "conversation_id": "2059630180042486266",
+        "created_at": "2026-05-27T13:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059630180042486266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vjCblplLfL",
+              "end": 139,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2059630180042486266/photo/1",
+              "media_key": "3_2059630170638823424",
+              "start": 116,
+              "url": "https://t.co/vjCblplLfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059630180042486266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "本次更新带来两项改进：\n独立体重设置：现可为每条用药记录单独设置体重，默认沿用上次数值。历史数据将自动迁移，且与不支持此功能的其他Tracker版本仍保持双向数据兼容\n主页用药速览：主页现已展示最近一次雌二醇与醋酸环丙孕酮用药记录"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "本次更新带来两项改进：\n独立体重设置：现可为每条用药记录单独设置体重，默认沿用上次数值。历史数据将自动迁移，且与不支持此功能的其他Tracker版本仍保持双向数据兼容\n主页用药速览：主页现已展示最近一次雌二醇与醋酸环丙孕酮用药记录 https://t.co/vjCblplLfL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "(并非)前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 148,
+          "like_count": 1223,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 679
+        },
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号\n进行mtf/mtx的hrt相关研究\n我们的团队成员有两人\n分别是 @mxyzcdb 和 @EleanorAnatidae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR2ygV"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "pinned_tweet_id": "2044611481392525523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 14,
+          "like_count": 908,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/MDakkR2ygV",
+        "username": "TeamTransmtf",
+        "verified": true
+      }
+    ]
+  }
+}
