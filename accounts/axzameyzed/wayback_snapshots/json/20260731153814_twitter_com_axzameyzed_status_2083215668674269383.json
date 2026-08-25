@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2083165555025174590",
+    "created_at": "2026-07-31T15:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083215668674269383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2042969235505242112",
+          "start": 0,
+          "username": "lfcypo"
+        },
+        {
+          "end": 17,
+          "id": "1781510736000274432",
+          "start": 8,
+          "username": "huantim7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083215668674269383",
+    "in_reply_to_user_id": "2042969235505242112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083207117595668758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lfcypo @huantim7 谷歌翻译这块（（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2083165555025174590",
+        "created_at": "2026-07-31T15:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083215668674269383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2042969235505242112",
+              "start": 0,
+              "username": "lfcypo"
+            },
+            {
+              "end": 17,
+              "id": "1781510736000274432",
+              "start": 8,
+              "username": "huantim7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083215668674269383",
+        "in_reply_to_user_id": "2042969235505242112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083207117595668758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lfcypo @huantim7 谷歌翻译这块（（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042969235505242112",
+        "conversation_id": "2083165555025174590",
+        "created_at": "2026-07-31T15:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083207117595668758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 21,
+              "id": "1781510736000274432",
+              "start": 12,
+              "username": "huantim7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083207117595668758",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083179965907169588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed @huantim7 「人道协会的保障团队」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 226,
+          "like_count": 4817,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 1939
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T14:13:24.000Z",
+        "description": "08 广州｜高三在读｜计算机+医学+板绘（修为散尽重修中…｜可以直接叫我ypo｜猫猫｜互fo喵！想交朋友喵｜想变可爱喵\n\n🏳️‍⚧️是女孩子哦｜很社恐叭｜窝也想吃糖喵…\n\n最好的姐姐 @Kuriyona\n\n目标暨大临床医学｜内分泌与代谢/性腺内分泌｜跨性别/DSD/妇科研究\n「如果这一切能改变什么的话，那就去做吧！」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "Kuriyona"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/lfcypo",
+                "end": 23,
+                "expanded_url": "https://github.com/lfcypo",
+                "start": 0,
+                "url": "https://t.co/l8q95vyHka"
+              }
+            ]
+          }
+        },
+        "id": "2042969235505242112",
+        "name": "lfcypo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070361298706292736/mRdgCCSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 329,
+          "like_count": 2635,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/l8q95vyHka",
+        "username": "lfcypo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某准高二mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyn.mom",
+                "end": 23,
+                "expanded_url": "http://xyn.mom",
+                "start": 0,
+                "url": "https://t.co/Mb8EU8fZzi"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮紗",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072659917027299328/L5Yl2wZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 800,
+          "like_count": 102271,
+          "listed_count": 3,
+          "media_count": 551,
+          "tweet_count": 6548
+        },
+        "url": "https://t.co/Mb8EU8fZzi",
+        "username": "huantim7",
+        "verified": false
+      }
+    ]
+  }
+}

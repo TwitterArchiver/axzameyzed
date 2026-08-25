@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2086922348297670662",
+    "created_at": "2026-08-10T22:06:16.000Z",
+    "display_text_range": [
+      11,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T23:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086937200164516090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1901317001320288256",
+          "start": 0,
+          "username": "Rec1talll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086937200164516090",
+    "in_reply_to_user_id": "1901317001320288256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086922348297670662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rec1talll 是这样，所以我们真的不希望再针对这个做讨论甚至争吵了，不仅没有价值，还会造成更大的伤害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2086922348297670662",
+        "created_at": "2026-08-10T22:06:16.000Z",
+        "display_text_range": [
+          11,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T23:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086937200164516090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1901317001320288256",
+              "start": 0,
+              "username": "Rec1talll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086937200164516090",
+        "in_reply_to_user_id": "1901317001320288256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086922348297670662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rec1talll 是这样，所以我们真的不希望再针对这个做讨论甚至争吵了，不仅没有价值，还会造成更大的伤害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901317001320288256",
+        "conversation_id": "2086922348297670662",
+        "created_at": "2026-08-10T21:07:15.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T22:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086922348297670662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086922348297670662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不清楚Sy和Epheia这件事的原因，也不清楚过程，但是从我的感受上来说，现在有的言论真的让人看起来很不舒服，说的难听一点，就是奔着让Sy再喝一次去的，我觉得这样真的真的真的真的非常不好…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf  @TransCircleOrg｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "TransCircleOrg"
+              },
+              {
+                "end": 137,
+                "start": 123,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2086937200164516090",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 233,
+          "like_count": 5091,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 2039
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-16T16:58:02.000Z",
+        "description": "2011.10.19/MtF/INFP/174cm/玩游戏很杂，phi原烤cs冰mc等等一堆/精神状态不稳定，发言抽风请见谅（其实全是碎碎念）很玻璃心别骂我。\n平时也就发点小日常，绝对不键政不发涩图！\n\n点展开何意味",
+        "id": "1901317001320288256",
+        "is_identity_verified": false,
+        "location": "（0，0）",
+        "most_recent_tweet_id": "2086922348297670662",
+        "name": "Rec1tal",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901317001320288256/1780852618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081068899400110080/SHPz2EdG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 121,
+          "like_count": 851,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 360
+        },
+        "url": "",
+        "username": "Rec1talll",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

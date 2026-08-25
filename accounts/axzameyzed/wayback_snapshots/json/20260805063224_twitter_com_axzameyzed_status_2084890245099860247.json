@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2084868591619539375",
+    "created_at": "2026-08-05T06:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T07:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084890245099860247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040798583440527360",
+          "start": 0,
+          "username": "longyvling"
+        },
+        {
+          "end": 23,
+          "id": "2045513838850641921",
+          "start": 12,
+          "username": "inline_int"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084890245099860247",
+    "in_reply_to_user_id": "2040798583440527360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084885472107458626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longyvling @inline_int 是这样，而且无需kyc的卡一般卡头也不会好到哪去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2084868591619539375",
+        "created_at": "2026-08-05T06:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084890245099860247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040798583440527360",
+              "start": 0,
+              "username": "longyvling"
+            },
+            {
+              "end": 23,
+              "id": "2045513838850641921",
+              "start": 12,
+              "username": "inline_int"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084890245099860247",
+        "in_reply_to_user_id": "2040798583440527360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084885472107458626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longyvling @inline_int 是这样，而且无需kyc的卡一般卡头也不会好到哪去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040798583440527360",
+        "conversation_id": "2084868591619539375",
+        "created_at": "2026-08-05T06:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084885472107458626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "inline_int"
+            },
+            {
+              "end": 23,
+              "id": "2053360211948109826",
+              "start": 12,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084885472107458626",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084879995265237503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inline_int @axzameyzed 稳定的u卡未成年似乎开不了\n找你父母当没说\n当然也有那种无需KYC的卡\n不过会随时跑路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf  @TransCircleOrg｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "TransCircleOrg"
+              },
+              {
+                "end": 137,
+                "start": 123,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 231,
+          "like_count": 4944,
+          "listed_count": 2,
+          "media_count": 269,
+          "tweet_count": 1990
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-05T14:28:34.000Z",
+        "description": "MtF | ASD | 🎂2010.1.3 | Minecraft PVP | CPhO现役 | 重庆 | 红星熄了，你还在燃。燃什么呢？只剩灰吗？ | 死亡是青年的良药，药效是永葆青春的容颜",
+        "id": "2040798583440527360",
+        "location": "长夜孤灯",
+        "name": "龙雨绫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 252,
+          "like_count": 2789,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 714
+        },
+        "url": "",
+        "username": "longyvling",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "小证mtx?｜重抑\nOIer｜vibe coding｜物理实验｜投资\nCNCS｜MC｜音游｜各种小游戏\n发发日常和梗图｜#蓝V互fo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 60,
+                "tag": "蓝V互fo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urogS"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2076374984394744059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076464873803022336/1WZ87RIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 1236,
+          "like_count": 2373,
+          "listed_count": 4,
+          "media_count": 274,
+          "tweet_count": 826
+        },
+        "url": "https://t.co/llFM5urogS",
+        "username": "inline_int",
+        "verified": true
+      }
+    ]
+  }
+}

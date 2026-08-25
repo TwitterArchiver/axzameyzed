@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2085381171014422553",
+    "created_at": "2026-08-06T15:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T16:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085381171014422553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/transcircleorg…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/transcircleorg/status/2085372080946868272",
+          "start": 8,
+          "url": "https://t.co/4HC1PmZxuW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085381171014422553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085372080946868272",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欢迎加入我们喵 https://t.co/4HC1PmZxuW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085371996465238016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPC6yDHbkAAWu8k.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2085381171014422553",
+        "created_at": "2026-08-06T15:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085381171014422553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/transcircleorg…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/transcircleorg/status/2085372080946868272",
+              "start": 8,
+              "url": "https://t.co/4HC1PmZxuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085381171014422553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085372080946868272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欢迎加入我们喵 https://t.co/4HC1PmZxuW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085371996465238016"
+          ]
+        },
+        "author_id": "2055356059066466304",
+        "conversation_id": "2085372080946868272",
+        "created_at": "2026-08-06T14:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085372080946868272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LLHxBAHNjf",
+              "end": 142,
+              "expanded_url": "https://x.com/TransCircleOrg/status/2085372080946868272/photo/1",
+              "media_key": "3_2085371996465238016",
+              "start": 119,
+              "url": "https://t.co/LLHxBAHNjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085372080946868272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "TransCircle开发相关工作推进较缓，虽整体框架已基本搭建完成，但细节仍有诸多待完善之处。为确保上线时提供良好的用户体验，现决定公开招募开发组成员。本次招募旨在切实提升效率，而非增设冗员，特制定以下要求，符合条件者欢迎随时联系咨询 https://t.co/LLHxBAHNjf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf  @TransCircleOrg｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "TransCircleOrg"
+              },
+              {
+                "end": 137,
+                "start": 123,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 230,
+          "like_count": 4990,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 1999
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T18:35:13.000Z",
+        "description": "中文推特女性倾向跨性别者社群史官项目\n我们深信历史终将向前。这份记录，就是我们走过长夜的铁证。\nGithub: https://t.co/8uXoPf6E7j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TransCircle",
+                "end": 79,
+                "expanded_url": "https://github.com/TransCircle",
+                "start": 56,
+                "url": "https://t.co/8uXoPf6E7j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transcircle.org",
+                "end": 23,
+                "expanded_url": "http://transcircle.org",
+                "start": 0,
+                "url": "https://t.co/r8ea82NCCb"
+              }
+            ]
+          }
+        },
+        "id": "2055356059066466304",
+        "name": "TransCircle 跨环",
+        "pinned_tweet_id": "2055975013145260489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076675773323464704/dWkZjC3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 38,
+          "like_count": 146,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/r8ea82NCCb",
+        "username": "TransCircleOrg",
+        "verified": true
+      }
+    ]
+  }
+}

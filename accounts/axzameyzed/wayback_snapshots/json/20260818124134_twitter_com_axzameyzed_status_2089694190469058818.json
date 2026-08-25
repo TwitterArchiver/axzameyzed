@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2089654735553073399",
+    "created_at": "2026-08-18T12:41:34.000Z",
+    "display_text_range": [
+      10,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T13:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089694190469058818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1465701247021838341",
+          "start": 0,
+          "username": "show5560"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/dogewlfi/statu…",
+          "end": 43,
+          "expanded_url": "https://x.com/dogewlfi/status/2089247053960679820?s=46",
+          "start": 20,
+          "url": "https://t.co/EXMlRCNEER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089694190469058818",
+    "in_reply_to_user_id": "1465701247021838341",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089247053960679820",
+        "type": "quoted"
+      },
+      {
+        "id": "2089693932762583265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@show5560 你也去品鉴一下😈\n\nhttps://t.co/EXMlRCNEER"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5186873,
+        "height": 480,
+        "media_key": "13_2089206347082706944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089206347082706944/img/mZokIaEV4vmnED9Y.jpg",
+        "public_metrics": {
+          "view_count": 1655578
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089206347082706944/vid/avc1/478x270/hxAR04UYTYi6FBgn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089206347082706944/vid/avc1/638x360/5yOfAKbjLn9FV8ex.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089206347082706944/vid/avc1/852x480/LNmI7TM9maM4Gf-m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089206347082706944/pl/n-9uKoaRLGb2M1hn.m3u8"
+          }
+        ],
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2089654735553073399",
+        "created_at": "2026-08-18T12:41:34.000Z",
+        "display_text_range": [
+          10,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089694190469058818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/dogewlfi/statu…",
+              "end": 43,
+              "expanded_url": "https://x.com/dogewlfi/status/2089247053960679820?s=46",
+              "start": 20,
+              "url": "https://t.co/EXMlRCNEER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089694190469058818",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089247053960679820",
+            "type": "quoted"
+          },
+          {
+            "id": "2089693932762583265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 你也去品鉴一下😈\n\nhttps://t.co/EXMlRCNEER"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465701247021838341",
+        "conversation_id": "2089654735553073399",
+        "created_at": "2026-08-18T12:40:32.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089693932762583265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089693932762583265",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089693710959481036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089206347082706944"
+          ]
+        },
+        "author_id": "1904143635563872256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2089247053960679820",
+        "created_at": "2026-08-17T07:04:48.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T08:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089247053960679820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AL1Zeicuvz",
+              "end": 50,
+              "expanded_url": "https://x.com/dogewlfi/status/2089247053960679820/video/1",
+              "media_key": "13_2089206347082706944",
+              "start": 27,
+              "url": "https://t.co/AL1Zeicuvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089247053960679820",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089206347082706944"
+          }
+        ],
+        "note_request_suggestions": [
+          {
+            "suggestion": "He steals the movie",
+            "suggestion_id": "2089689270416257194"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24914,
+          "impression_count": 3444871,
+          "like_count": 58289,
+          "quote_count": 524,
+          "reply_count": 1433,
+          "retweet_count": 5833
+        },
+        "reply_settings": "everyone",
+        "text": "找到了 牛来 电影的完整版本 大家不用担心被下架啦。 https://t.co/AL1Zeicuvz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf  @TransCircleOrg｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "TransCircleOrg"
+              },
+              {
+                "end": 137,
+                "start": 123,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2089694190469058818",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 235,
+          "like_count": 5350,
+          "listed_count": 2,
+          "media_count": 283,
+          "tweet_count": 2106
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "男娘/162cm/58kg /普通人//喜爱美食和玩/如果想看其他的可以点开亮点看/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089693962617618915",
+        "name": "沐安ねこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6406,
+          "following_count": 1726,
+          "like_count": 35328,
+          "listed_count": 17,
+          "media_count": 3091,
+          "tweet_count": 14221
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-24T12:10:14.000Z",
+        "description": "#狗狗币 10X建设者   | $WLFI $DOGE 持有者 💎✋️ ⚠️ 推文非投资建议 · DYOR",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 21,
+                "start": 16,
+                "tag": "WLFI"
+              },
+              {
+                "end": 27,
+                "start": 22,
+                "tag": "DOGE"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "狗狗币"
+              }
+            ]
+          }
+        },
+        "id": "1904143635563872256",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2089693910994157697",
+        "name": "JY",
+        "pinned_tweet_id": "1935730484400783813",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904143635563872256/1786190848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083191924530532352/DC9tZnGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13926,
+          "following_count": 8390,
+          "like_count": 36908,
+          "listed_count": 18,
+          "media_count": 1212,
+          "tweet_count": 15388
+        },
+        "url": "",
+        "username": "dogewlfi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2083768137745641559",
+    "created_at": "2026-08-03T04:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084133928529735884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2016246570312990720",
+          "start": 0,
+          "username": "YuChenawa"
+        },
+        {
+          "end": 22,
+          "id": "1975075608481947648",
+          "start": 11,
+          "username": "xnnhcm5033"
+        },
+        {
+          "end": 35,
+          "id": "2008812080099672064",
+          "start": 23,
+          "username": "Xiaoyi_0324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084133928529735884",
+    "in_reply_to_user_id": "2016246570312990720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084133788159004759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuChenawa @xnnhcm5033 @Xiaoyi_0324 面瘫直说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2083768137745641559",
+        "created_at": "2026-08-03T04:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084133928529735884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016246570312990720",
+              "start": 0,
+              "username": "YuChenawa"
+            },
+            {
+              "end": 22,
+              "id": "1975075608481947648",
+              "start": 11,
+              "username": "xnnhcm5033"
+            },
+            {
+              "end": 35,
+              "id": "2008812080099672064",
+              "start": 23,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084133928529735884",
+        "in_reply_to_user_id": "2016246570312990720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084133788159004759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuChenawa @xnnhcm5033 @Xiaoyi_0324 面瘫直说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016246570312990720",
+        "conversation_id": "2083768137745641559",
+        "created_at": "2026-08-03T04:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084133788159004759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            },
+            {
+              "end": 23,
+              "id": "1975075608481947648",
+              "start": 12,
+              "username": "xnnhcm5033"
+            },
+            {
+              "end": 36,
+              "id": "2008812080099672064",
+              "start": 24,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084133788159004759",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084120274207989893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed @xnnhcm5033 @Xiaoyi_0324 我轻松绷住😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 229,
+          "like_count": 4862,
+          "listed_count": 2,
+          "media_count": 267,
+          "tweet_count": 1953
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-27T20:27:15.000Z",
+        "description": "这里的每一种颜色，都有属于你勇敢做自己的身影",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuchen86833",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuchen86833",
+                "start": 0,
+                "url": "https://t.co/vconkxHXnn"
+              }
+            ]
+          }
+        },
+        "id": "2016246570312990720",
+        "location": "天堂✝️",
+        "name": "𝒴𝓊𝒸𝒽ℯ𝓃",
+        "pinned_tweet_id": "2060749702883332402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017348660867305473/hJCnFu9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 499,
+          "like_count": 4201,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 1369
+        },
+        "url": "https://t.co/vconkxHXnn",
+        "username": "YuChenawa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-06T05:48:34.000Z",
+        "description": "喵~，初次见面，请多关照。丨14岁无证含糖丨丨放假中的初二生😆|全绵阳最小的mtf。丨小南梁丨丨CR迷丨丨偶像初音ミク丨丨11.12.12丨\n丨喜欢打音游丨丨同时也会写作文呀喵~丨\n 丨同类互fo喵丨\n\nmtf/火车迷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/m4b6V8s",
+                "end": 23,
+                "expanded_url": "https://b23.tv/m4b6V8s",
+                "start": 0,
+                "url": "https://t.co/63QI9EM1sL"
+              }
+            ]
+          }
+        },
+        "id": "1975075608481947648",
+        "location": "国铁成局绵阳车务段（时不时跨局）",
+        "name": "是初音啊 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984406146430758912/oOyQLgDn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 622,
+          "like_count": 1018,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 493
+        },
+        "url": "https://t.co/63QI9EM1sL",
+        "username": "xnnhcm5033",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n随笔 照片看亮点|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|算是4/1个家长党\n无证含糖:26/5/26|参与自杀干预3次(线下1次\n退学生|只互同类|其他互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2083376820926492926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 431,
+          "like_count": 1924,
+          "listed_count": 6,
+          "media_count": 402,
+          "tweet_count": 3295
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

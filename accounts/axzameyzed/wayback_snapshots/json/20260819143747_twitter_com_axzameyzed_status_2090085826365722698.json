@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2090078329856553136",
+    "created_at": "2026-08-19T14:37:47.000Z",
+    "display_text_range": [
+      21,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090085826365722698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1763577841588056064",
+          "start": 0,
+          "username": "yxrchina"
+        },
+        {
+          "end": 20,
+          "id": "1608637128132685825",
+          "start": 10,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090085826365722698",
+    "in_reply_to_user_id": "1763577841588056064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090084507257053316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxrchina @nyaepheia 应该就是24号上午…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2090084507257053316].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2090084507257053316",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2090084507257053316"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2090078329856553136",
+        "created_at": "2026-08-19T14:37:47.000Z",
+        "display_text_range": [
+          21,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090085826365722698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1763577841588056064",
+              "start": 0,
+              "username": "yxrchina"
+            },
+            {
+              "end": 20,
+              "id": "1608637128132685825",
+              "start": 10,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090085826365722698",
+        "in_reply_to_user_id": "1763577841588056064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090084507257053316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxrchina @nyaepheia 应该就是24号上午…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf  @TransCircleOrg｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "TransCircleOrg"
+              },
+              {
+                "end": 137,
+                "start": 123,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090085826365722698",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 233,
+          "like_count": 5409,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 2123
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️「重构时间线，再次重逢」\nINFP | MtFtX | oler转oder | 🎂08.15 | Vite | Cpp | HRT 25.08.11~25.11.30 26.04.17~ 26.05.19 | 已炸柜 | 碎碎念or日常 @syyann2026 | ❌ NSFW | 家长反对党 Ultra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 124,
+                "username": "syyann2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "syyann.vercel.app",
+                "end": 23,
+                "expanded_url": "https://syyann.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/0k3EylxPZD"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "is_identity_verified": false,
+        "location": "lover @nyaepheia",
+        "most_recent_tweet_id": "2080510779741307312",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "pinned_tweet_id": "2065655723187740857",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763577841588056064/1774876065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 1860,
+          "like_count": 27208,
+          "listed_count": 4,
+          "media_count": 394,
+          "tweet_count": 8901
+        },
+        "url": "https://t.co/0k3EylxPZD",
+        "username": "yxrchina",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️ https://t.co/7pvajR9Q0p \n/ɪˈfiːə/ she/they\n评论账号@epheiamoe\n存档https://t.co/l9TdYP6fRz\n\nhrt since26.4.1\n可访问此账号的委派者：@yxrchina @0502railgun1949 @lckmtfdesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "yxrchina"
+              },
+              {
+                "end": 148,
+                "start": 132,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "lckmtfdesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 33,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 10,
+                "url": "https://t.co/7pvajR9Q0p"
+              },
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 93,
+                "expanded_url": "http://nyaepheia.pages.dev",
+                "start": 70,
+                "url": "https://t.co/l9TdYP6fRz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 23,
+                "expanded_url": "https://nyaepheia.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/JPmDqezgWc"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "is_identity_verified": false,
+        "location": "❤️@yxrchina",
+        "most_recent_tweet_id": "2080511066983837976",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️(she/they)",
+        "pinned_tweet_id": "2078997463525142566",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608637128132685825/1779711471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 934,
+          "like_count": 36883,
+          "listed_count": 10,
+          "media_count": 888,
+          "tweet_count": 7177
+        },
+        "url": "https://t.co/JPmDqezgWc",
+        "username": "nyaepheia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

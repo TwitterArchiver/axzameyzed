@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2084623985531363700",
+    "created_at": "2026-08-05T02:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T03:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084831677973741896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1901317001320288256",
+          "start": 0,
+          "username": "Rec1talll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084831677973741896",
+    "in_reply_to_user_id": "1901317001320288256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084742197401063713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rec1talll 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2084623985531363700",
+        "created_at": "2026-08-05T02:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084831677973741896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1901317001320288256",
+              "start": 0,
+              "username": "Rec1talll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084831677973741896",
+        "in_reply_to_user_id": "1901317001320288256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084742197401063713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rec1talll 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901317001320288256",
+        "conversation_id": "2084623985531363700",
+        "created_at": "2026-08-04T20:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T21:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084742197401063713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053360211948109826",
+              "start": 0,
+              "username": "axzameyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084742197401063713",
+        "in_reply_to_user_id": "2053360211948109826",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084623985531363700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzameyzed 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf  @TransCircleOrg｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "TransCircleOrg"
+              },
+              {
+                "end": 137,
+                "start": 123,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 231,
+          "like_count": 4940,
+          "listed_count": 2,
+          "media_count": 269,
+          "tweet_count": 1984
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-16T16:58:02.000Z",
+        "description": "2011.10.19/MtF/INFP/174cm 62kg（法怎么又长了/玩游戏很杂，phi原烤cs冰mc等等一堆/精神状态不稳定，发言抽风请见谅（其实全是碎碎念）很玻璃心别骂我。\n平时也就发点小日常，绝对不键政不发涩图！",
+        "id": "1901317001320288256",
+        "location": "（0，0）",
+        "name": "Rec1tal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081068899400110080/SHPz2EdG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 102,
+          "like_count": 777,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 311
+        },
+        "url": "",
+        "username": "Rec1talll",
+        "verified": false
+      }
+    ]
+  }
+}

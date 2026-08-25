@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087104788320411648"
+      ],
+      "media_source_tweet_id": [
+        "2087104814153162945"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087106712335733145",
+    "created_at": "2026-08-11T09:19:51.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T10:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087106712335733145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781510736000274432",
+          "start": 3,
+          "username": "huantim7"
+        },
+        {
+          "end": 26,
+          "id": "2053360211948109826",
+          "start": 15,
+          "username": "axzameyzed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tZ0mXtWj5d",
+          "end": 51,
+          "expanded_url": "https://x.com/huantim7/status/2087104814153162945/photo/1",
+          "media_key": "3_2087104788320411648",
+          "start": 28,
+          "url": "https://t.co/tZ0mXtWj5d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087106712335733145",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087104788320411648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087104814153162945",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huantim7: 面@axzameyzed喵 https://t.co/tZ0mXtWj5d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2087104788320411648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbivzza4AApImM.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087104788320411648"
+          ]
+        },
+        "author_id": "1781510736000274432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087104814153162945",
+        "created_at": "2026-08-11T09:12:18.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087104814153162945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053360211948109826",
+              "start": 1,
+              "username": "axzameyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tZ0mXtWj5d",
+              "end": 37,
+              "expanded_url": "https://x.com/huantim7/status/2087104814153162945/photo/1",
+              "media_key": "3_2087104788320411648",
+              "start": 14,
+              "url": "https://t.co/tZ0mXtWj5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087104814153162945",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087104788320411648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "面@axzameyzed喵 https://t.co/tZ0mXtWj5d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087104788320411648"
+          ],
+          "media_source_tweet_id": [
+            "2087104814153162945"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087106712335733145",
+        "created_at": "2026-08-11T09:19:51.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087106712335733145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781510736000274432",
+              "start": 3,
+              "username": "huantim7"
+            },
+            {
+              "end": 26,
+              "id": "2053360211948109826",
+              "start": 15,
+              "username": "axzameyzed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tZ0mXtWj5d",
+              "end": 51,
+              "expanded_url": "https://x.com/huantim7/status/2087104814153162945/photo/1",
+              "media_key": "3_2087104788320411648",
+              "start": 28,
+              "url": "https://t.co/tZ0mXtWj5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087106712335733145",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087104788320411648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087104814153162945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huantim7: 面@axzameyzed喵 https://t.co/tZ0mXtWj5d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf  @TransCircleOrg｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "TransCircleOrg"
+              },
+              {
+                "end": 137,
+                "start": 123,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087106712335733145",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 234,
+          "like_count": 5093,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 2043
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某准高二mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyn.mom",
+                "end": 23,
+                "expanded_url": "http://xyn.mom",
+                "start": 0,
+                "url": "https://t.co/Mb8EU8fZzi"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "is_identity_verified": true,
+        "location": "南门二",
+        "most_recent_tweet_id": "2087104814153162945",
+        "name": "幻兮紗",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781510736000274432/1773542916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072659917027299328/L5Yl2wZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 816,
+          "like_count": 105811,
+          "listed_count": 3,
+          "media_count": 586,
+          "tweet_count": 6690
+        },
+        "url": "https://t.co/Mb8EU8fZzi",
+        "username": "huantim7",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

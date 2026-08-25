@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2087170817914499392",
+    "created_at": "2026-08-11T13:34:35.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T14:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087170817914499392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aacerf59616/st…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/aacerf59616/status/2087063593934352440",
+          "start": 111,
+          "url": "https://t.co/ac9QPz5qOw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087170817914499392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087063593934352440",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉每过一段时间都要解释一次🤔\n不校准的那个是群体文献数据估算出来的，只有药代动力学参数，校准2-3次以上基本才可能准确\n还有提醒一下，实际测出来的是44.41，如果不是间隔时间长等问题，请考虑该给药方式个体吸收不良问题 https://t.co/ac9QPz5qOw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 711,
+        "media_key": "3_2087062187458318336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPa8AHOaUAAzQRR.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2087170817914499392",
+        "created_at": "2026-08-11T13:34:35.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087170817914499392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aacerf59616/st…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/aacerf59616/status/2087063593934352440",
+              "start": 111,
+              "url": "https://t.co/ac9QPz5qOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087170817914499392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087063593934352440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉每过一段时间都要解释一次🤔\n不校准的那个是群体文献数据估算出来的，只有药代动力学参数，校准2-3次以上基本才可能准确\n还有提醒一下，实际测出来的是44.41，如果不是间隔时间长等问题，请考虑该给药方式个体吸收不良问题 https://t.co/ac9QPz5qOw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087062187458318336"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2087063593934352440",
+        "created_at": "2026-08-11T06:28:31.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:28:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087063500799750439",
+          "2087063593934352440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MDDfmZp3K1",
+              "end": 166,
+              "expanded_url": "https://x.com/AacerF59616/status/2087063593934352440/photo/1",
+              "media_key": "3_2087062187458318336",
+              "start": 143,
+              "url": "https://t.co/MDDfmZp3K1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087063593934352440",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087062187458318336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "事实证明，不管是Featherline还是HRT Tracker又或是别的什么GAHT记录网站，推算模型的初始精度都非常不尽人意。昨天我在测完三项的几分钟后专门截了个图方便对比血药浓度，当时模型推算的E2为125pg/ml，但实际上E2只有44.41pg/ml，误差率高达64.5%。\n\n所以说仍然推荐和我一样刚开始GAHT不久的去医院测一下六项（预算吃紧的话和我一样测三项也行）得到一下E2的具体数据给模型上一两次校准，完全跟着模型的初始精度来是绝对不可取的"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 691,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事实证明，不管是Featherline还是HRT Tracker又或是别的什么GAHT记录网站，推算模型的初始精度都非常不尽人意。昨天我在测完三项的几分钟后专门截了个图方便对比血药浓度，当时模型推算的E2为125pg/ml，但实际上E2只有44.41pg/ml，误差率高达64.5%。 https://t.co/MDDfmZp3K1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf  @TransCircleOrg｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "TransCircleOrg"
+              },
+              {
+                "end": 137,
+                "start": 123,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087170817914499392",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 235,
+          "like_count": 5098,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 2048
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2087156484736168303",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 779,
+          "like_count": 5483,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 1770
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

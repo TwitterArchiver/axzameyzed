@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2085247807263563841",
+    "created_at": "2026-08-06T06:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085248270708973910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2028802782019596288",
+          "start": 0,
+          "username": "ciallowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085248270708973910",
+    "in_reply_to_user_id": "2028802782019596288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085247807263563841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciallowo 如果涨幅太大其实可以考虑opencode go，几乎和不要钱一样🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "计划近期整体上调 DeepSeek API 服务的定价 预计涨幅较大，请合理安排您的使用。具体方案以正式通知为准。",
+        "height": 621,
+        "media_key": "3_2085247795372662784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBJ0l_aoAAcw65.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2085247807263563841",
+        "created_at": "2026-08-06T06:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085248270708973910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2028802782019596288",
+              "start": 0,
+              "username": "ciallowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085248270708973910",
+        "in_reply_to_user_id": "2028802782019596288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085247807263563841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciallowo 如果涨幅太大其实可以考虑opencode go，几乎和不要钱一样🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085247795372662784"
+          ]
+        },
+        "author_id": "2028802782019596288",
+        "conversation_id": "2085247807263563841",
+        "created_at": "2026-08-06T06:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085247807263563841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulyKR5hX0R",
+              "end": 28,
+              "expanded_url": "https://x.com/ciallowo/status/2085247807263563841/photo/1",
+              "media_key": "3_2085247795372662784",
+              "start": 5,
+              "url": "https://t.co/ulyKR5hX0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085247807263563841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补药哇😭 https://t.co/ulyKR5hX0R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "前世 @mxyzcdb ｜高一物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf  @TransCircleOrg｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "TransCircleOrg"
+              },
+              {
+                "end": 137,
+                "start": 123,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 230,
+          "like_count": 4982,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 1996
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-03T12:01:07.000Z",
+        "description": "哈囉哈囉，這裡是小霧喵。很高興認識你喵～希望能帶給你更多快樂一點… \n| 10後 | 165 51 | ISFP | 國/初二 | 泛性戀？ | 友跨喵 | 咱不是跨… | 不割手手/od | 嘴笨笨滴 | zh-cn/zh-tw/en | 成分/私信回 | 故鄉台灣 | 現居大陸 | Nonpartisan&不鍵政…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.ciallovo.top/github",
+                "end": 23,
+                "expanded_url": "https://s.ciallovo.top/github",
+                "start": 0,
+                "url": "https://t.co/dCszp85rjF"
+              }
+            ]
+          }
+        },
+        "id": "2028802782019596288",
+        "location": "距離地球99兆米",
+        "name": "小霧喵🍡",
+        "pinned_tweet_id": "2069789597970903282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058500600917295104/iRL6lP95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 468,
+          "like_count": 1463,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 517
+        },
+        "url": "https://t.co/dCszp85rjF",
+        "username": "ciallowo",
+        "verified": false
+      }
+    ]
+  }
+}
