@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099041659107651584"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2098975192861102342",
+    "created_at": "2026-09-13T07:45:07.000Z",
+    "display_text_range": [
+      11,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T08:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099041670386122869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2060652328915701760",
+          "start": 0,
+          "username": "MEMZFuHua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/04Tufhu37O",
+          "end": 125,
+          "expanded_url": "https://x.com/axzameyzed/status/2099041670386122869/photo/1",
+          "media_key": "3_2099041659107651584",
+          "start": 102,
+          "url": "https://t.co/04Tufhu37O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099041670386122869",
+    "in_reply_to_user_id": "2060652328915701760",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099041659107651584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098975192861102342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEMZFuHua 怎么一个个都光给数不给单位，你这个泌乳素是质量浓度还是生物活性浓度，质量浓度的话那太离谱了，生物活性浓度的话其实还好，属于正常轻度升高\n然后泌乳素采血还有一定要求，这样测出来更规范 https://t.co/04Tufhu37O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_2099041659107651584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFLRIvbsAANRqf.jpg",
+        "width": 1170
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098975153850056704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSEOyBWagAAwKVB.jpg",
+        "width": 1843
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2098975168878071825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSEOy5VX0BEUh5N.jpg",
+        "width": 1261
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099041659107651584"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2098975192861102342",
+        "created_at": "2026-09-13T07:45:07.000Z",
+        "display_text_range": [
+          11,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099041670386122869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2060652328915701760",
+              "start": 0,
+              "username": "MEMZFuHua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/04Tufhu37O",
+              "end": 125,
+              "expanded_url": "https://x.com/axzameyzed/status/2099041670386122869/photo/1",
+              "media_key": "3_2099041659107651584",
+              "start": 102,
+              "url": "https://t.co/04Tufhu37O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099041670386122869",
+        "in_reply_to_user_id": "2060652328915701760",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099041659107651584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098975192861102342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEMZFuHua 怎么一个个都光给数不给单位，你这个泌乳素是质量浓度还是生物活性浓度，质量浓度的话那太离谱了，生物活性浓度的话其实还好，属于正常轻度升高\n然后泌乳素采血还有一定要求，这样测出来更规范 https://t.co/04Tufhu37O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098975153850056704",
+            "3_2098975168878071825"
+          ]
+        },
+        "author_id": "2060652328915701760",
+        "conversation_id": "2098975192861102342",
+        "created_at": "2026-09-13T03:20:57.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T04:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098975192861102342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MA1hPyqaav",
+              "end": 92,
+              "expanded_url": "https://x.com/MEMZFuHua/status/2098975192861102342/photo/1",
+              "media_key": "3_2098975153850056704",
+              "start": 69,
+              "url": "https://t.co/MA1hPyqaav"
+            },
+            {
+              "display_url": "pic.x.com/MA1hPyqaav",
+              "end": 92,
+              "expanded_url": "https://x.com/MEMZFuHua/status/2098975192861102342/photo/1",
+              "media_key": "3_2098975168878071825",
+              "start": 69,
+              "url": "https://t.co/MA1hPyqaav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098975192861102342",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098975153850056704"
+          },
+          {
+            "media_key": "3_2098975168878071825"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泌乳素高的有点恐怖啊，目前来看四天12.5毫克是能把睾酮压住的，和之前两天12.5的指标几乎一样，就按这个剂量来吧，好在肝肾功能都没问题 https://t.co/MA1hPyqaav"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "高二物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜宝宝 @RhenCloud_ ｜项目组 @TeamTransmtf @TransCircleOrg｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "RhenCloud_"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "TransCircleOrg"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099041670386122869",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053360211948109826/1787897046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 249,
+          "like_count": 6055,
+          "listed_count": 2,
+          "media_count": 327,
+          "tweet_count": 2317
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T09:20:39.000Z",
+        "description": "2010.12.27崭新下线 | HRT2026.7.4 | 高一牲 | 无证含糖 | 同类互fo | 技术花粉 | 抖m | 不OD不割手 | 打舞萌︱小号@ZoquYlc5q384854",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 79,
+                "username": "ZoquYlc5q384854"
+              }
+            ]
+          }
+        },
+        "id": "2060652328915701760",
+        "is_identity_verified": false,
+        "location": "中国 安徽",
+        "most_recent_tweet_id": "2098975192861102342",
+        "name": "MEMZ-FuHua🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060652328915701760/1780555745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075471807206084610/ovf4uAvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 640,
+          "like_count": 428,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 761
+        },
+        "url": "",
+        "username": "MEMZFuHua",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

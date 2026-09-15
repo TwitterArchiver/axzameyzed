@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2095451891157311599",
+    "created_at": "2026-09-03T10:20:57.000Z",
+    "display_text_range": [
+      13,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T11:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095457008954876166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "616537873",
+          "start": 0,
+          "username": "aaarjkkmiao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/teamtransmtf/s…",
+          "end": 95,
+          "expanded_url": "https://x.com/teamtransmtf/status/2052416426779009080?s=46",
+          "start": 72,
+          "url": "https://t.co/Vx3nEZ1WgY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095457008954876166",
+    "in_reply_to_user_id": "616537873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052416426779009080",
+        "type": "quoted"
+      },
+      {
+        "id": "2095451891157311599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkkmiao 理论上来说平均值应当保持在200以上，但口服一般压不住\n注意：在用药决策上，请以实际血检结果为准，勿轻信软件估测值\n\nhttps://t.co/Vx3nEZ1WgY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1767,
+        "media_key": "3_2095451883267821568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSKYroaEAA3OLL.jpg",
+        "width": 1834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2095451891157311599",
+        "created_at": "2026-09-03T10:20:57.000Z",
+        "display_text_range": [
+          13,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095457008954876166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "616537873",
+              "start": 0,
+              "username": "aaarjkkmiao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/teamtransmtf/s…",
+              "end": 95,
+              "expanded_url": "https://x.com/teamtransmtf/status/2052416426779009080?s=46",
+              "start": 72,
+              "url": "https://t.co/Vx3nEZ1WgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095457008954876166",
+        "in_reply_to_user_id": "616537873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052416426779009080",
+            "type": "quoted"
+          },
+          {
+            "id": "2095451891157311599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkkmiao 理论上来说平均值应当保持在200以上，但口服一般压不住\n注意：在用药决策上，请以实际血检结果为准，勿轻信软件估测值\n\nhttps://t.co/Vx3nEZ1WgY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095451883267821568"
+          ]
+        },
+        "author_id": "616537873",
+        "conversation_id": "2095451891157311599",
+        "created_at": "2026-09-03T10:00:37.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095451891157311599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDapWsgE4D",
+              "end": 42,
+              "expanded_url": "https://x.com/aaarjkkmiao/status/2095451891157311599/photo/1",
+              "media_key": "3_2095451883267821568",
+              "start": 19,
+              "url": "https://t.co/BDapWsgE4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095451891157311599",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095451883267821568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雌二醇大概要多少才能抑制睾酮分泌啊🥹 https://t.co/BDapWsgE4D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012914101987762177",
+        "conversation_id": "2052372321437155545",
+        "created_at": "2026-05-07T15:53:02.000Z",
+        "display_text_range": [
+          12,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052416426779009080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018986573090717696",
+              "start": 0,
+              "username": "xhFK114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052416426779009080",
+        "in_reply_to_user_id": "2018986573090717696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这种方案通常称作estradiol monotherapy\n原理是足够高的血清雌二醇(E2)水平会通过下丘脑—垂体—性腺轴的负反馈，抑制黄体生成素(LH)和卵泡刺激素(FSH)的分泌，从而压制睾酮(T)产生，使睾酮(T)降至女性范围，省去抗雄\n但该方案需维持较高的雌二醇(E2)水平，通常为200pg/mL，部分文献中声明150-180就已经足够，但可能有部分人需要达到250-300（单位均为pg/mL），具体情况差异较大；也有一部分人不论雌二醇(E2)拉到多高，睾酮(T)都压不下来。因此具体情况需要看个体情况进行差异化分析\n对于mtf向：单药疗法的吸引力主要在于规避抗雄的副作用——螺内酯的低血压/高钾/频尿，醋酸环丙孕酮(CPA)累积剂量带来的脑膜瘤风险、肝毒性、抑郁，比卡鲁胺的肝毒性等；机制上”高雌激素(E)+低睾酮(T)“本身就是顺女的内分泌状态，比”中等雌激素(E)+抗雄”更接近生理。代价是需要把雌二醇(E2)维持在偏高的区段，本身伴随静脉血栓栓塞(VTE)和催乳素升高等风险，未达标的过渡期实际上就是真正的双高\n对于mtx向：严格意义的estradiol monotherapy指的是”雌激素(E)单用且成功压住睾酮(T)”，如果用药者本身并不希望睾酮(T)被压（想保留部分雄性化），那需要做的不是monotherapy，而是”低剂量雌激素(E)+不抗雄”，这是两件事，风险结构也不一样\n前一种考量基本等同于mtf单药；后一种则处于混合的激素信号，雌激素(E)效果打折，睾酮(T)继续驱动的男性化照常进行，乳腺即便发育也容易形态质量偏差（管状、基底窄、乳晕间距偏宽等），红细胞压积(HCT)升高叠加雌激素(E)带来的静脉血栓栓塞(VTE)风险也是这个状态比较独有的隐患​​​​​​​​​​​​​​​​\n\n内容仅供参考，请以实际情况为准"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6407,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052372321437155545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhFK114514 这种方案通常称作estradiol monotherapy\n原理是足够高的血清雌二醇(E2)水平会通过下丘脑—垂体—性腺轴的负反馈，抑制黄体生成素(LH)和卵泡刺激素(FSH)的分泌，从而压制睾酮(T)产生，使睾酮(T)降至女性范围，省去抗雄"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "高二物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜宝宝 @RhenCloud_ ｜项目组 @TeamTransmtf @TransCircleOrg｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "RhenCloud_"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "TransCircleOrg"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2095457008954876166",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053360211948109826/1787897046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 245,
+          "like_count": 5877,
+          "listed_count": 2,
+          "media_count": 314,
+          "tweet_count": 2254
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-23T22:30:17.000Z",
+        "description": "大号@aaarjkk 1478Fo卡进后室寻回互Fo🩷\n活在幻想中☁️希望咱们每天都能开开心心的☺️☁️成绩倒数(?)☁️查成分互Follow(?)☁️172cm53kg巨人🍥8/31/2026小资历🎂10/14/2010天残党\n🏳️小号@a0brjkk(负面?🤔)\n🤍@a0brjkkmiao🤭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "aaarjkk"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "a0brjkk"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "a0brjkkmiao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.aaarjkk.top",
+                "end": 23,
+                "expanded_url": "https://shop.aaarjkk.top/",
+                "start": 0,
+                "url": "https://t.co/lIxlEX4uF5"
+              }
+            ]
+          }
+        },
+        "id": "616537873",
+        "is_identity_verified": true,
+        "location": "@aaarjkk (2025.8-2026.8) 永远怀念 ",
+        "most_recent_tweet_id": "2095453259699769487",
+        "name": "是貓貓喵🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/616537873/1786621805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087845591523168256/D8VdVCaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 521,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/lIxlEX4uF5",
+        "username": "aaarjkkmiao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号\n进行mtf/mtx的hrt相关研究\n我们的团队成员有两人\n分别是 @axzameyzed 和 @EleanorAnatidae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR2ygV"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2078534946084503802",
+        "name": "Team Transmtf",
+        "pinned_tweet_id": "2061296461523153268",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 3,
+          "like_count": 1624,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 72
+        },
+        "url": "https://t.co/MDakkR2ygV",
+        "username": "TeamTransmtf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-04T09:56:48.000Z",
+        "description": "FuKarl7/2026年3月21日起活跃在此号/友跨🏳️‍⚧️/高三(毕业了)/社恐/无糖(?)/不od(?)/不割手/互关/喵\n重要的日子：2026年3月15日/2026年5月2日",
+        "id": "2018986573090717696",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2095117545514963286",
+        "name": "阿这",
+        "pinned_tweet_id": "2056384618971173300",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037862051725594624/P9TAAf07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 838,
+          "like_count": 9901,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "xhFK114514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
