@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2100964067926269969",
+    "created_at": "2026-09-18T15:04:02.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T16:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100964067926269969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/axzameyzed/sta…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/axzameyzed/status/2100388741290639763",
+          "start": 138,
+          "url": "https://t.co/rZCnoUPYat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100964067926269969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100388741290639763",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "暂定两倍凝胶 50g 28HKD/瓶？\n不要问为什么是HKD（（（\n那至于什么时候开售呢，不知道\n————\n其他：\n交期：非特殊情况1-3天\n邮费：两瓶起包邮（偏远地区补差价）\n特殊性：非传统卡波姆凝胶\n保质期：3-6个月\n单瓶可用时长：预计15-20天\n定制：支持但不建议 https://t.co/rZCnoUPYat"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2100964067926269969",
+        "created_at": "2026-09-18T15:04:02.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100964067926269969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/axzameyzed/sta…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/axzameyzed/status/2100388741290639763",
+              "start": 138,
+              "url": "https://t.co/rZCnoUPYat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100964067926269969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100388741290639763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "暂定两倍凝胶 50g 28HKD/瓶？\n不要问为什么是HKD（（（\n那至于什么时候开售呢，不知道\n————\n其他：\n交期：非特殊情况1-3天\n邮费：两瓶起包邮（偏远地区补差价）\n特殊性：非传统卡波姆凝胶\n保质期：3-6个月\n单瓶可用时长：预计15-20天\n定制：支持但不建议 https://t.co/rZCnoUPYat"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2100388741290639763",
+        "created_at": "2026-09-17T00:57:53.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100388741290639763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100388741290639763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 380,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然有点想卖凝胶🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "高二物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜宝宝 @RhenCloud_ ｜项目组 @TeamTransmtf @TransCircleOrg｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "RhenCloud_"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "TransCircleOrg"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100964067926269969",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053360211948109826/1787897046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 249,
+          "like_count": 6147,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 2337
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

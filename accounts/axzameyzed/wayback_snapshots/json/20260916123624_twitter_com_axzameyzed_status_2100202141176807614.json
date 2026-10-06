@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2100185127846576193",
+    "created_at": "2026-09-16T12:36:24.000Z",
+    "display_text_range": [
+      16,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T13:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100202141176807614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100202141176807614",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100185127846576193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 但是这个东西有时候还是挺好用的🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2774,
+        "media_key": "3_2100185109794316288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVbOufa4AAyV9t.jpg",
+        "width": 3698
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2100185127846576193",
+        "created_at": "2026-09-16T12:36:24.000Z",
+        "display_text_range": [
+          16,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T13:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100202141176807614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100202141176807614",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100185127846576193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 但是这个东西有时候还是挺好用的🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100185109794316288"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2100185127846576193",
+        "created_at": "2026-09-16T11:28:48.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100185127846576193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9TJZVysA3",
+              "end": 168,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100185127846576193/photo/1",
+              "media_key": "3_2100185109794316288",
+              "start": 145,
+              "url": "https://t.co/E9TJZVysA3"
+            },
+            {
+              "display_url": "x.com/rain_antar1121…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/rain_antar1121/status/2100144759230943659",
+              "start": 169,
+              "url": "https://t.co/12uiEYNdaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100185127846576193",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100185109794316288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 686,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100144759230943659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吐槽一下iPhone神秘的反面基机制）😇\n\n两台陌生手机碰一起就会触发AirDrop弹窗，然后正在摆拍主页的大家手忙脚乱拿起来，放回去的时候继续触发ww\n\n每次面基都有这个节目…所以并排摆的时候可以尽量把iPhone间隔放置，向心摆成环形就只能提前关这个功能了😵‍💫话说别家手机会这样吗🥺 https://t.co/E9TJZVysA3 https://t.co/12uiEYNdaS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "高二物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜宝宝 @RhenCloud_ ｜项目组 @TeamTransmtf @TransCircleOrg｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "RhenCloud_"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "TransCircleOrg"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100202141176807614",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053360211948109826/1787897046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 248,
+          "like_count": 6102,
+          "listed_count": 2,
+          "media_count": 329,
+          "tweet_count": 2326
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2100199905344299037",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5302,
+          "following_count": 7266,
+          "like_count": 21724,
+          "listed_count": 12,
+          "media_count": 476,
+          "tweet_count": 6468
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

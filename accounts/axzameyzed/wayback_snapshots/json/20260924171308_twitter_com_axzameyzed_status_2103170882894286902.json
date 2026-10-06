@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053360211948109826",
+    "conversation_id": "2103087954847805822",
+    "created_at": "2026-09-24T17:13:08.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T18:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103170882894286902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796031897753276417",
+          "start": 0,
+          "username": "xiaoduoya_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103170882894286902",
+    "in_reply_to_user_id": "1796031897753276417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103087954847805822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoduoya_ 拿支持争议的银行卡付"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053360211948109826",
+        "conversation_id": "2103087954847805822",
+        "created_at": "2026-09-24T17:13:08.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T18:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103170882894286902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796031897753276417",
+              "start": 0,
+              "username": "xiaoduoya_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103170882894286902",
+        "in_reply_to_user_id": "1796031897753276417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103087954847805822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoduoya_ 拿支持争议的银行卡付"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796031897753276417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2103087954847805822",
+        "created_at": "2026-09-24T11:43:36.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103087954847805822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103087954847805822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14109,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想试试Opus5.5\n\n手上有一个两年多的Google老号\n\n但担心封号之后不退款怎么办😰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "高二物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜宝宝 @RhenCloud_ ｜项目组 @TeamTransmtf @TransCircleOrg｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "RhenCloud_"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "TransCircleOrg"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2103170882894286902",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053360211948109826/1787897046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 248,
+          "like_count": 6200,
+          "listed_count": 2,
+          "media_count": 334,
+          "tweet_count": 2359
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2008452174083485698/WaDlss-k_bigger.jpg",
+          "description": "KITE AI",
+          "url": "https://twitter.com/GoKiteAI",
+          "user_id": [
+            "1841881477371592704"
+          ]
+        },
+        "created_at": "2024-05-30T04:12:43.000Z",
+        "description": "building things i wish existed\n\n16 高中生 兴趣使然\nAI / Web3 / OSS / Vibe Coder\nGitHub Trending 日榜 #1 · 周榜 #2\ncodex-with-chatgpt 开发者 / 仓库2周 4K+ Star \n推特当朋友圈发，不喜请右转",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HeyXiaoDuo",
+                "end": 23,
+                "expanded_url": "https://t.me/HeyXiaoDuo",
+                "start": 0,
+                "url": "https://t.co/Dkth0r1iE4"
+              }
+            ]
+          }
+        },
+        "id": "1796031897753276417",
+        "is_identity_verified": false,
+        "location": "找我聊天💬 👉",
+        "most_recent_tweet_id": "2103130691802460323",
+        "name": "HeyXiaoDuo_",
+        "pinned_tweet_id": "2093333170083275125",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796031897753276417/1783942998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796031965281517568/jjRXAPI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 660,
+          "like_count": 6679,
+          "listed_count": 10,
+          "media_count": 580,
+          "tweet_count": 2440
+        },
+        "url": "https://t.co/Dkth0r1iE4",
+        "username": "xiaoduoya_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

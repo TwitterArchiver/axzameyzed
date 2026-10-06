@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104114081125081088"
+      ]
+    },
+    "author_id": "2053360211948109826",
+    "conversation_id": "2104108655981600904",
+    "created_at": "2026-09-27T07:41:06.000Z",
+    "display_text_range": [
+      10,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T08:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104114089438101573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zRMz7waaJn",
+          "end": 60,
+          "expanded_url": "https://x.com/axzameyzed/status/2104114089438101573/photo/1",
+          "media_key": "3_2104114081125081088",
+          "start": 37,
+          "url": "https://t.co/zRMz7waaJn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104114089438101573",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104114081125081088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104108655981600904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 收到了，就是这个邮件的sign in按钮是怎么回事🤔 https://t.co/zRMz7waaJn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 624,
+        "media_key": "3_2104114081125081088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNQm9RboAA3i4G.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104114081125081088"
+          ]
+        },
+        "author_id": "2053360211948109826",
+        "conversation_id": "2104108655981600904",
+        "created_at": "2026-09-27T07:41:06.000Z",
+        "display_text_range": [
+          10,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T08:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104114089438101573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRMz7waaJn",
+              "end": 60,
+              "expanded_url": "https://x.com/axzameyzed/status/2104114089438101573/photo/1",
+              "media_key": "3_2104114081125081088",
+              "start": 37,
+              "url": "https://t.co/zRMz7waaJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104114089438101573",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104114081125081088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104108655981600904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 收到了，就是这个邮件的sign in按钮是怎么回事🤔 https://t.co/zRMz7waaJn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "2104108655981600904",
+        "created_at": "2026-09-27T07:19:30.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T08:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104108655981600904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acboxliu/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/acboxliu/status/2104108314619678919",
+              "start": 30,
+              "url": "https://t.co/1Fx7uRB2st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104108655981600904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 392,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104108314619678919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一批200个用户已approve，请大家查看自己的邮箱～ https://t.co/1Fx7uRB2st"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T06:23:30.000Z",
+        "description": "高二物化生不想读｜前信息竞赛之AI大手子｜mtx｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜宝宝 @RhenCloud_ ｜项目组 @TeamTransmtf @TransCircleOrg｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "RhenCloud_"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "TransCircleOrg"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "2053360211948109826",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104114089438101573",
+        "name": "翅翅膀喵喵喵喵喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053360211948109826/1787897046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053360397344747522/puH99zAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 248,
+          "like_count": 6203,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2362
+        },
+        "url": "",
+        "username": "axzameyzed",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2071876271307390976/kBmsB0-__bigger.jpg",
+          "description": "Memoh",
+          "url": "https://twitter.com/memoh_ai",
+          "user_id": [
+            "2021509446640562176"
+          ]
+        },
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "https://t.co/hUTrNH9tjK\nCo-founder of https://t.co/gLiVpv7NbV https://t.co/PSLnUgtUxO\n家里有大猫和两只小猫",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/hUTrNH9tjK"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 61,
+                "expanded_url": "http://memoh.ai",
+                "start": 38,
+                "url": "https://t.co/gLiVpv7NbV"
+              },
+              {
+                "display_url": "felinic.ai",
+                "end": 85,
+                "expanded_url": "http://felinic.ai",
+                "start": 62,
+                "url": "https://t.co/PSLnUgtUxO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ac.box",
+                "end": 23,
+                "expanded_url": "https://ac.box",
+                "start": 0,
+                "url": "https://t.co/UNw6tpSBMs"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "is_identity_verified": false,
+        "location": "上海/深圳",
+        "most_recent_tweet_id": "2104108655981600904",
+        "name": "📦Acbox",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601893417549967360/1764649898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13640,
+          "following_count": 1540,
+          "like_count": 3690,
+          "listed_count": 67,
+          "media_count": 388,
+          "tweet_count": 5191
+        },
+        "url": "https://t.co/UNw6tpSBMs",
+        "username": "AcboxLiu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
